@@ -1,0 +1,564 @@
+
+
+<!DOCTYPE html>
+<html lang="en" color-mode=light>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>主题配置文档 - Hexo</title>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="google" content="notranslate" />
+  <meta name="keywords" content=", hexo-theme-zhaoo, zhaoo, hexo, 主题, 配置文档, document, 教程">
+  <meta name="description" content="zhaoo 主题的使用指南以及配置指北。
+
+关于文档
+...">
+  <meta name="author" content="John Doe">
+  <link rel="icon" href="/images/icons/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="icon" href="/images/icons/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png" sizes="180x180">
+  <meta rel="mask-icon" href="/images/icons/stun-logo.svg" color="#333333">
+  
+    <meta rel="msapplication-TileImage" content="/images/icons/favicon-144x144.png">
+    <meta rel="msapplication-TileColor" content="#000000">
+  
+
+  
+<link rel="stylesheet" href="/css/style.css">
+
+
+  
+    
+<link rel="stylesheet" href="https://at.alicdn.com/t/font_1445822_p6ry5n7lrr.css">
+
+  
+
+  
+    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+
+  
+
+  
+    
+      
+        
+        
+<link rel="stylesheet" href="https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css" name="highlight-style" mode="light">
+
+      
+        
+        
+<link rel="stylesheet" href="https://cdn.bootcss.com/highlight.js/9.18.1/styles/vs2015.min.css" name="highlight-style" mode="dark">
+
+      
+  
+
+  <script>
+    var CONFIG = window.CONFIG || {};
+    var ZHAOO = window.ZHAOO || {};
+    CONFIG = {
+      isHome: false,
+      fancybox: true,
+      pjax: false,
+      loading: {
+        gif: '/images/theme/loading.gif',
+        lottie: ''
+      },
+      lazyload: {
+        enable: true,
+        only_post: 'false',
+        loading: {
+          gif: '/images/theme/loading.gif',
+          lottie: ''
+        }
+      },
+      donate: {
+        enable: true,
+        alipay: 'https://pic.izhaoo.com/alipay.jpg',
+        wechat: 'https://pic.izhaoo.com/wechat.jpg'
+      },
+      galleries: {
+        enable: true
+      },
+      fab: {
+        enable: true,
+        always_show: false
+      },
+      carrier: {
+        enable: true
+      },
+      daovoice: {
+        enable: true
+      },
+      preview: {
+        background: {
+          default: '',
+          api: ''
+        },
+        motto: {
+          default: '我在开了灯的床头下，想问问自己的心啊。',
+          typing: true,
+          api: 'https://v2.jinrishici.com/one.json',
+          data_contents: '["data","content"]'
+        },
+      },
+      qrcode: {
+        enable: true,
+        type: 'url',
+        image: 'https://pic.izhaoo.com/weapp-code.jpg',
+      },
+      toc: {
+        enable: true
+      },
+      scrollbar: {
+        type: 'default'
+      },
+      notification: {
+        enable: false,
+        delay: 4500,
+        list: '',
+        page_white_list: '',
+        page_black_list: ''
+      },
+      search: {
+        enable: true,
+        path: 'search.xml'
+      }
+    }
+  </script>
+
+  
+
+  
+
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body class="lock-screen">
+  <div class="loading" id="loading"></div>
+  
+    
+
+
+  <nav class="navbar">
+    <div class="left">
+      
+        <i class="iconfont iconhome j-navbar-back-home"></i>
+      
+      
+        <i class="iconfont iconqrcode j-navbar-qrcode"></i>
+      
+      
+        <i class="iconfont iconmoono" id="color-toggle" color-toggle="light"></i>
+      
+      
+        <i class="iconfont iconsearch j-navbar-search"></i>
+      
+    </div>
+    <div class="center">主题配置文档</div>
+    <div class="right">
+      <i class="iconfont iconmenu j-navbar-menu"></i>
+    </div>
+    
+      <div id="qrcode-navbar"></div>
+    
+  </nav>
+
+  
+  
+
+<nav class="menu">
+  <div class="menu-container">
+    <div class="menu-close">
+      <i class="iconfont iconbaseline-close-px"></i>
+    </div>
+    <ul class="menu-content"><li class="menu-item">
+        <a href="/ " class="underline "> 首页</a>
+      </li><li class="menu-item">
+        <a href="/galleries/ " class="underline "> 相册</a>
+      </li><li class="menu-item">
+        <a href="/archives/ " class="underline "> 归档</a>
+      </li><li class="menu-item">
+        <a href="/tags/ " class="underline "> 标签</a>
+      </li><li class="menu-item">
+        <a href="/categories/ " class="underline "> 分类</a>
+      </li><li class="menu-item">
+        <a href="/guestbook" class="underline "> 留言板</a>
+      </li></ul>
+    
+      <div class="menu-copyright"><p>Powered by <a target="_blank" href="https://hexo.io">Hexo</a>  |  Theme and Qc - <a target="_blank" href="https://github.com/qcvip/qcvip.github.io">无言</a></p></div>
+    
+  </div>
+</nav>
+  <main id="main">
+  <div class="article-wrap">
+    <div class="row container">
+      <div class="col-xl-3"></div>
+      <div class="col-xl-6"><article class="article">
+  <div class="wrap">
+    <section class="head">
+  <img   class="lazyload" data-original="/images/theme/post-image.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
+  <div class="head-mask">
+    <h1 class="head-title">主题配置文档</h1>
+    <div class="head-info">
+      <span class="post-info-item"><i class="iconfont iconcalendar"></i>9 月 25, 2022</span>
+      
+        <span class="post-info-item">
+          <i class="iconfont iconeye"></i><span id="/2022/09/25/hexo-theme-zhaoo-doc/" class="leancloud-counter" data-flag-title="主题配置文档"></span>
+        </span>
+        <span class="post-info-item">
+          <i class="iconfont iconheart"></i><span id="/2022/09/25/hexo-theme-zhaoo-doc/" class="leancloud-like" data-flag-title="主题配置文档"></span>
+        </span>
+      
+      <span class="post-info-item"><i class="iconfont iconfont-size"></i>18861</span>
+    </div>
+  </div>
+</section>
+    <section class="main">
+      <section class="content">
+        
+          <p><p><code>zhaoo</code> 主题的使用指南以及配置指北。</p></p>
+        
+        <h2 id="关于文档"><a href="#关于文档" class="headerlink" title="关于文档"></a>关于文档</h2><blockquote>
+<p>如有疑惑欢迎加鹅群咨询：<strong>550262893</strong>&gt; 约定：无特殊说明时，文中“博客配置”指 <code>/_config.yml</code>，“主题配置”指 <code>/theme/hexo-theme-zhaoo/_config.yml</code>，缺省为“主题配置”。</p>
+</blockquote>
+<p style="text-align: right;">文档更新于：2021年4月4日</p>
+
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="主题安装"><a href="#主题安装" class="headerlink" title="主题安装"></a>主题安装</h3><p>安装 <code>Hexo</code> 后进入根目录：</p>
+<p>&#96;&#96;&#96;bash$ cd hexo&#96;&#96;<br><code>安装</code>zhaoo&#96; 主题：</p>
+<p><code>bash$ git clone https://github.com/izhaoo/hexo-theme-zhaoo.git themes/zhaoo</code></p>
+<h3 id="开启主题"><a href="#开启主题" class="headerlink" title="开启主题"></a>开启主题</h3><p>修改 <code>Hexo</code> 根目录下的 <code>_config.yml</code> 文件启用 <code>zhaoo</code> 主题：</p>
+<p><code>ymltheme: zhaoo</code></p>
+<p>启动 <code>Hexo</code> 服务器预览：</p>
+<p><code>bash$ hexo clean &amp;&amp; hexo s</code></p>
+<h3 id="博客配置"><a href="#博客配置" class="headerlink" title="博客配置"></a>博客配置</h3><p>编辑 <code>Hexo</code> 根目录下的 <code>_config.yml</code> 文件，配置博客网站相关功能，对整个网站生效。</p>
+<p>建议将文章数量改为<strong>9</strong>篇：<code>ymlindex_generator:  path: &#39;&#39;  per_page: 9  #文章数量改为9篇（3的倍数更和谐）  order_by: -date</code>启用代码高亮效果：<code>ymlhighlight:  enable: true  #启用代码高亮效果  line_number: true  auto_detect: true  hljs: true  tab_replace:</code>编辑 <code>zhaoo</code> 主题目录下的 <code>_config.yml</code> 文件，配置主题相关功能，只对主题生效。建议参考 <a target="_blank" rel="noopener" href="https://github.com/izhaoo/hexo-theme-zhaoo/blob/master/_config.yml">_config.yml</a> 和本文进行配置，具体配置内容见下文。### 主题更新进入到 <code>zhaoo</code> 主题目录：<code>bash$ cd themes/zhaoo</code>从 <code>GitHub</code> 获取更新：<code>bash$ git pull</code>## 全局配置### 头部导航 (NavBar)配置项 <code>navbar</code> 用于设置 <strong>头部导航条</strong>。<code>ymlnavbar:  enable: true  back_home: true````enable` 用于控制头部导航条全局显示/隐藏。`back_home` 用于开启返回首页按钮；其余的功能按钮随各自配置开启，例如“二维码”、“黑夜模式”、“搜索”等。### 导航菜单 (Menu)配置项 `menu` 用于设置 **导航菜单**。</code>yml# Menumenu:  home: &#x2F; || 首页  galleries: &#x2F;galleries || 摄影  archives: &#x2F;archives || 归档  tags: &#x2F;tags || 标签  categories: &#x2F;categories || 分类  about: &#x2F;about || 关于<code>用 **||** 将内容分割为两部分，前面部分为页面 `URL`，后面部分为菜单中显示的名称。对于系统默认页面，如 `归档（/archives）`、`首页（/）` 等，直接添加菜单即可；对于独立页面，如 `标签（tags）`、`分类（categories）`，则需先创建页面后再添加菜单。### 主题颜色可以根据个人喜好，定制主题颜色。在配置项 `color` 中设置颜色。</code>yml# Colorcolor:  text: ‘#33333D’  text-secondary: ‘#4e4e4e’  text-third: ‘#999999’  background: ‘#ffffff’  background-secondary: ‘#f6f8fa’  border: ‘#eeeeee’  text-dark: ‘#dddddd’  text-secondary-dark: ‘#9899ab’  text-third-dark: ‘#7d8594’  background-dark: ‘#1e2128’  background-secondary-dark: ‘#1a1d22’  border-dark: ‘#2b3038’  link: ‘#FF3B00’<code>可以使用 `十六进制`、`rgba`、`颜色名称` 方式，注意需要用引号包裹。目前有两套颜色模式，分别是 **浅色模式（白天）** 和 **深色模式（黑夜）**，请注意颜色搭配。`link` 为强调色，表现为 `hover`、`active` 等。分享几个配色网站：[中国传统颜色](https://colors.ichuantong.cn/)、[日本传统颜色](https://nipponcolors.com/)### 站点图标配置项 `favicon` 可设置站点图标，建议使用 `ico` 或 `png` 格式。</code>yml# Faviconfavicon:  small: &#x2F;images&#x2F;icons&#x2F;favicon-16x16.png  medium: &#x2F;images&#x2F;icons&#x2F;favicon-32x32.png  apple_touch_icon: &#x2F;images&#x2F;icons&#x2F;apple-touch-icon.png  safari_pinned_tab: &#x2F;images&#x2F;icons&#x2F;stun-logo.svg  msapplication: &#x2F;images&#x2F;icons&#x2F;favicon-144x144.png<code>有多种尺寸的图片需要配置，可以参考默认图标的尺寸用 `PS` 裁剪，或使用：[图标工厂](https://icon.wuruihong.com/)### 全局字体配置项 `font` 中可设置全局字体的 **大小** 和 **风格系列**。</code>yml# Fontfont:  size: 14px  family: ‘Hiragino Sans GB’, ‘Hiragino Sans GB W3’, ‘Microsoft YaHei’, ‘WenQuanYi Micro Hei’, sans-serif<code>* `size`: 字体大小。* `family`: 字体风格系列。### 背景图片配置项 `background_image` 可设置背景图片，直接填写图片地址即可。</code>yml# Background Imagebackground_image:<code>tips: 建议不设置背景图片，默认的 **纯白背景** 最搭配，背景颜色也可在 [主题颜色](#主题颜色) 中设置。### 加载动画 (Loading)配置项 `loading` 可设置载入动画，会在 *页面跳转*、*懒加载* 时加载，目前仅支持图片形式。</code>yml# Loadingloading: &#x2F;images&#x2F;theme&#x2F;loading.gif<code>建议使用 `gif` 动图，可在 [LottieFiles](https://lottiefiles.com/) 下载。tips: 未来将支持自定义 `css`、`svg` 等多种方式的载入动画，敬请期待。### 欢迎页面配置项 `preview` 中的一些列配置可自定义欢迎页面。</code>yml# Previewpreview:  enable: true  model: wave # wave cloud  background:     type: image # image video    default_image:      light: &#x2F;images&#x2F;theme&#x2F;welcome-image.jpg      dark: &#x2F;images&#x2F;theme&#x2F;welcome-image.jpg    video:    api: # <a target="_blank" rel="noopener" href="https://source.unsplash.com/random/1920x1080">https://source.unsplash.com/random/1920x1080</a>    size: cover # css: background-size    position: center # css: background-position  motto:    default: 我在开了灯的床头下，想问问自己的心啊。    api: <a target="_blank" rel="noopener" href="https://v1.hitokoto.cn/?encode=text&amp;c=j">https://v1.hitokoto.cn/?encode=text&amp;c=j</a>    color: ‘#ffffff’<code>* `enable`: 用来 *开启* / *关闭* 欢迎页面。#### 效果模式* `model`: 设置效果模式，有 ***波浪（wave）** 和 **云层（cloud）** 两种模式可选择。#### 欢迎图片配置项 `background` 用来设置欢迎图片，其中：* `type`: 图片或视频。* `default_image`: 配置静态图片，填写静态图片 `URL` 即可。开启 [深色模式](#深色模式) 后支持配置 深色/浅色 两种模式下的背景图片。* `video`: 配置动态视频，填写视频 `URL` 即可。* `api`: 配置随机图片，可使用第三方 `API`，优先级 *随机图片（api）* &gt; *静态图片（default）*。推荐 `API`：[Unsplash](https://source.unsplash.com/random/1920x1080)、[必应图片](https://api.vvhan.com/api/bing?type=sj)。* `size` 和 `position`: 设置图片的 **尺寸** 和 **位置**，参考 `CSS` 中的属性即可。#### 格言配置项 `motto` 用来设置格言，其中：* `default`: 配置静态格言，填写格言文本即可。* `api`: 配置随机格言，可使用第三方 `API`，优先级 *随机格言（api）* &gt; *静态格言（default）*。推荐 `API`：[一言](https://hitokoto.cn/)、[今日诗词](https://www.jinrishici.com/)。* `color` 配置文字颜色。### 全局搜索前置条件：需要开启[头部导航](#头部导航)，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装 [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb) 插件提供支持。安装 `hexo-generator-searchdb` 插件：</code>bash$ npm install hexo-generator-searchdb –save<code>开启插件，在 **博客配置** 下新增：</code>ymlsearch:  path: &#x2F;search.xml  # 索引生成路径（需要设置绝对路径，否则二级页面读不到）  field: post  # post page all  format: html  # 只支持 html 类型  content: true  # 是否包含正文内容<code>### 版权信息配置项 `copyright` 用来设置页面底部显示的网站版权信息，填写 **文本内容** 或 **HTML** 即可。</code>yml# Copyrightcopyright: <p>Powered by <a target="_blank" href="https://hexo.io">Hexo</a>  |  Theme - <a target="_blank" href="https://github.com/izhaoo/hexo-theme-zhaoo">zhaoo</a></p><code>### 社交链接配置项 `social` 用来配置社交链接，在页面底部以 `Icon` 图标的形式展示，点击即可链接第三方平台。</code>yml# Socialsocial:  qq: tencent:&#x2F;&#x2F;message&#x2F;?Menu&#x3D;yes&amp;uin&#x3D;894519210 || iconQQ || ‘#12B7F5’  wechat: javascript:; || iconwechat-fill || ‘#09BB07’  instagram: <a target="_blank" rel="noopener" href="https://www.instagram.com/izhaoo/">https://www.instagram.com/izhaoo/</a> || iconinstagram || ‘#DA2E76’  github: <a target="_blank" rel="noopener" href="https://github.com/izhaoo">https://github.com/izhaoo</a> || icongithub-fill || ‘#24292E’  email: mailto:<a href="mailto:&#105;&#122;&#x68;&#x61;&#111;&#x6f;&#64;&#49;&#54;&#51;&#x2e;&#99;&#111;&#109;">&#105;&#122;&#x68;&#x61;&#111;&#x6f;&#64;&#49;&#54;&#51;&#x2e;&#99;&#111;&#109;</a> || iconmail<code>配置内容分为三部分，以 `||` 划分。第一部分是 *社交链接* ，第二部分是 *图标样式（IconFont）* ，第三部分是 *选中颜色（hover）*。### 右下角按钮 (Fab)配置项 `fab` 用于配置右下角的按钮。</code>yml# Fab (Float Action Button)fab:  enable: true  always_show: false<code>* `enable`: 设置 *开启* / *关闭* 按钮。* `always_show`: 设置 *一直显示* / *过渡隐藏* 按钮。### 二维码配置项 `qrcode` 用来设置 **二维码**，开启后点击 **导航栏** 左侧的图标即可显示。</code>yml# QR Codeqrcode:  enable: true  type: image # url image  image: <a target="_blank" rel="noopener" href="https://pic.izhaoo.com/weapp-code.jpg%60%60%60">https://pic.izhaoo.com/weapp-code.jpg```</a>* <code>enable</code>: 设置 <em>开启</em> &#x2F; <em>关闭</em> 二维码功能。* <code>type</code>: 设置二维码模式，有两种模式可选。<code>url</code> 显示当前文章链接生成的二维码；<code>image</code> 显示固定的二维码图片（如小程序码等）。* <code>image</code>: 选择 <code>image</code> 模式时需要指定图片链接。### 深色模式配置项 <code>color_mode</code> 用来配置 <strong>深色模式</strong>。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击 <strong>导航栏</strong> 左侧的图标手动切换颜色模式，系统会暂存用户选择状态。<code>yml# Color Modecolor_mode:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 深色模式。<em>深色模式</em> &#x2F; <em>浅色模式</em> 的颜色可以参考 <a href="#%E4%B8%BB%E9%A2%98%E9%A2%9C%E8%89%B2">主题颜色</a> 设置。### 哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项 <code>gray</code> 设置。<code>yml# Gray (Mourning Mode)gray:  enable: true  #开启哀悼模式</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 哀悼模式。<img    class="lazyload" data-original="https://pic.izhaoo.com/20201016102727.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">哀悼</span>## 文章配置### 文章封面#### 单独封面可以为每篇文章设置单独的文章封面图片，在文章 <code>Front-matter</code> 中添加 <code>image</code> 字段设置图片。若使用图床，直接添加图片文件的 <strong>完整URL</strong> 即可：<code>markdown---title: zhaoo - 主题文档image: https://pic.izhaoo.com/20200421200902.jpg  #设置图床图片---</code>若将图片储存在本地，现将图片文件复制到主题 <code>~/zhaoo/source/images</code> 下，再添加 <strong>相对URL</strong> 即可：<code>markdown---title: zhaoo - 主题使用文档image: /images/20200421200902.jpg  #设置本地图片---</code>#### 默认封面配置项 <code>post_image</code> 设置配置文章默认封面，就不用为每篇文章单独设置封面了：<code>yml# Post Imagepost_image:  random: galleries # local galleries  default: /images/theme/post-image.jpg</code>* <code>random</code>: 设置随机封面，有 <strong>galleries（相册图库）</strong> 和 <strong>local（本地图库）</strong>  两种模式。开启 <a href="#%E7%9B%B8%E5%86%8C">相册</a> 功能后会自动调取相册中的图片；本地图库需要新建 <code>/_data/local_images.json</code> 文件，填写图片 <code>URL</code> 列表即可。* <code>default</code>: 未设置随机封面时启用 <strong>默认封面</strong>，填写图片 <code>URL</code> 即可。<code>json// local_images.json[  &quot;https://pic.izhaoo.com/2014031601.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071602.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071603.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072104.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072705.jpg&quot;,  &quot;https://pic.izhaoo.com/20200421201200.jpg&quot;,  &quot;https://pic.izhaoo.com/20200305030152.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065241.jpg&quot;,  &quot;https://pic.izhaoo.com/20200228081718.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065844.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151924.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152003.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152045.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152122.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151427.jpg&quot;]</code>### 关键词在文章 <code>Front-matter</code> 中添加 <code>keywords</code> 字段设置关键词：<code>markdowntitle: zhaoo - 主题使用文档keywords: hexo-theme-zhaoo, hexo, 主题, 使用文档, document</code>配置项 <code>keywords</code> 为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：<code>ymlkeywords: hexo-theme-zhaoo, hexo</code>### 文章尺寸配置项 <code>post_page_size</code> 用于设置文章内容主体部分的相关尺寸。<code>yml# Page Sizepost_page_size:  width: 800px</code>* <code>width</code>: 设置内容宽度。tips: 受外部元素的限制，<em>实际尺寸</em> 由计算后得出，不能保证与 <em>设定尺寸</em> 完全相等，只能保证接近该尺寸。### 图片标注配置项 <code>caption</code> 用于设置 <strong>图片标注</strong>，开启后会在文章图片下方生成标注。<code>yml# Captioncaption:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 图片标注。### 文章目录配置项 <code>toc</code> 用于设置 <strong>文章目录</strong>，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。<code>yml# TOCtoc:  enable: true  min_depth: 1  max_depth: 3</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章目录。* <code>min_depth</code>:* <code>max_depth</code>:全局开启 <strong>文章目录</strong> 后，可以在文章 <code>Front-matter</code> 中添加 <code>toc</code> 字段单独控制该文章是否展示文章目录。<code>markdown---title: zhaoo - 主题文档toc: false # 关闭文章目录---</code>### 打赏二维码配置项 <code>donate</code> 用于设置 <strong>打赏二维码</strong>，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧<del><code>yml# Donatedonate:  enable: true  alipay: https://pic.izhaoo.com/alipay.jpg  wechat: https://pic.izhaoo.com/wechat.jpg</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 打赏二维码。* <code>alipay</code>: 支付宝收款二维码，填写图片 <code>URL</code>。* <code>wechat</code>: 微信收款二维码，填写图片 <code>URL</code>。### 文章版权配置项 <code>post_copyright</code> 用于设置 <strong>文章版权</strong>，开启后可在文章下方展示版权信息。<code>yml# Copyrightpost_copyright:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章版权信息。全局开启 <strong>文章版权</strong> 后，可以在文章 <code>Front-matter</code> 中添加 <code>copyright</code> 字段单独控制该文章是否展示文章版权。<code>markdown---title: zhaoo - 主题文档copyright: false # 关闭文章版权---</code>### 文章搬运配置项 <code>carrier</code> 用于开启 <strong>文章搬运</strong> 功能，方便博主们全文“借鉴”文章，效果如下：<img    class="lazyload" data-original="https://pic.izhaoo.com/20200727125519.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">文章搬运</span><img    class="lazyload" data-original="https://pic.izhaoo.com/20200727125724.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">弹窗提示</span>前置条件：全局开启 <a href="#%E6%96%87%E7%AB%A0%E7%89%88%E6%9D%83">文章版权</a><code>yml# Carriercarrier:  enable: true  type: markdown # markdown html text</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章搬运。* <code>type</code>: 搬运模式，可选择一键复制 <code>markdown</code>、<code>html</code>、<code>text</code> 格式的文章。&gt; <a target="_blank" rel="noopener" href="http://localhost:4000/2020/07/25/hexo-article-carrier/">Hexo - 开发文章搬运功能</a>### 文章置顶找到 <code>/node_modules/hexo-generator-index/lib/generator.js</code> 文件，替换成如下代码：<code>javascript&#39;use strict&#39;;var pagination = require(&#39;hexo-pagination&#39;);module.exports = function (locals) &#123;  var config = this.config;  var posts = locals.posts;  posts.data = posts.data.sort(function (a, b) &#123;    if (a.top &amp;&amp; b.top) &#123;      if (a.top == b.top) return b.date - a.date;      else return b.top - a.top;    &#125; else if (a.top &amp;&amp; !b.top) &#123;      return -1;    &#125; else if (!a.top &amp;&amp; b.top) &#123;      return 1;    &#125; else return b.date - a.date;  &#125;);  var paginationDir = config.pagination_dir || &#39;page&#39;;  return pagination(&#39;&#39;, posts, &#123;    perPage: config.index_generator.per_page,    layout: [&#39;index&#39;, &#39;archive&#39;],    format: paginationDir + &#39;/%d/&#39;,    data: &#123;      __index: true    &#125;  &#125;);&#125;;</code>在文章的 <code>Front-matter</code> 中添加 <code>top</code> 字段，指定数值。数值越大，显示越靠前。<code>markdown---title: zhaoo - 主题使用文档top: 10  #添加该字段---</code>### 数学公式#### MathJax&gt; <a target="_blank" rel="noopener" href="https://github.com/ikeq/hexo-filter-mathjax-ssr">hexo-filter-mathjax-ssr</a>以 <code>svg</code> 的形式渲染数学公式，兼容性较好，推荐使用。安装 <code>MathJax</code> 插件依赖：<code>bash$ npm install hexo-filter-mathjax-ssr --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlmathjax:  inlineQuote: [&#39;\(&#39;, &#39;\)&#39;]  blockQuote: [&#39;\[&#39;, &#39;\]&#39;]</code>#### KaTex&gt; <a target="_blank" rel="noopener" href="https://github.com/thcd/hexo-katex">hexo-katex</a>以 <code>HTML</code> 标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎 <code>hexo-renderer-pandoc</code>：<code>bash$ npm install hexo-renderer-pandoc --save</code>安装 <code>KaTex</code> 插件依赖：<code>bash$ npm install hexo-katex --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlpandoc:  mathEngine: katex</code>## 页面配置### 相册页面&gt; 【瀑布流风格相册】由 <a target="_blank" rel="noopener" href="https://github.com/HelloAny">AmiKara</a> 友情贡献</del>执行以下命令创建相册页面，会在 <code>source</code> 目录生成 <code>galleries/index.md</code> 文件：<code>bash$ hexo new page galleries  #创建相册页面</code>打开 <code>source/galleries/index.md</code> 文件，设置 <code>Front-matter</code> ，开启相册页面：<code>markdown---title: 相册layout: &quot;galleries&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置相册页面的导航：<code>ymlmenu:  galleries: /galleries || 相册</code>配置项 <code>galleries</code> 用于开启相册功能：<code>ymlgalleries:  enable: true  title: 相册  subtitle: Galleries  type: waterfull # waterful | grid  columns: 3</code>* <code>enable</code>:  <em>开启</em> &#x2F; <em>关闭</em> 相册功能。* <code>title</code>: 相册分类页面标题。* <code>subtitle</code> 相册分类页面副标题。* <code>type</code>: 相册显示风格，有 <em>瀑布流</em> 和 <em>正方形</em> 两种形式。* <code>columns</code>: 相册列数。在 <code>/_data</code> 目录下新建 <code>galleries.json</code> 文件，创建相册分类目录及图片内容：<code>json[&#123;  &quot;name&quot;: &quot;colorful&quot;,  //相册名称  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  //相册封面  &quot;description&quot;: &quot;君未看花时，花与君同寂；君来看花日，花色一时明。&quot;,  //相册介绍  &quot;photos&quot;: [  //图片内容    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]&#125;, &#123;  &quot;name&quot;: &quot;记事&quot;,  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  &quot;description&quot;: &quot;翻开随身携带的记事本，写着许多事都是关于你。&quot;,  &quot;photos&quot;: [    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]&#125;]</code>在 <code>/source/galleries/</code> 目录下 <code>新建文件夹</code> ，命名需要和 <code>json</code> 中的 <code>name</code> 字段对应，例如：<em>colorful</em>、<em>记事</em>。 在文件夹下新建 <code>index.md</code> 文件，内容如下：<code>markdown---title: 记事  #名称也需要对应layout: &quot;gallery&quot;---</code>步骤可能有点难以理解，最后放几张截图，比较直观：<img    class="lazyload" data-original="https://pic.izhaoo.com/20200722185650.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">gallery-1</span><img    class="lazyload" data-original="https://pic.izhaoo.com/20200722185721.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">gallery-2</span><img    class="lazyload" data-original="https://pic.izhaoo.com/20200722185814.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">gallery-3</span><img    class="lazyload" data-original="https://pic.izhaoo.com/20200722185829.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">gallery-4</span>也可以参考 <code>/_example/source</code> 中的相关栗子。### 归档页面参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置归档页面的导航，系统会按文章创建时间自动归档。<code>ymlmenu:  archives: /archives || 归档</code>### 标签页面执行以下命令创建标签页面，会在 <code>source</code> 目录生成 <code>tags/index.md</code> 文件：<code>bash$ hexo new page tags  #创建标签页面</code>打开 <code>source/tags/index.md</code> 文件，设置 <code>Front-matter</code> ，开启标签页面：<code>markdown---title: 标签type: &quot;tags&quot;layout: &quot;tags&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置标签页面的导航：<code>ymlmenu:  tags: /tags || 标签</code>创建文章时，在文章的 <code>Front-matter</code> 中使用 <code>tags</code> 字段添加标签即可：<code>markdown---title: zhaoo - 主题使用文档tags: [Hexo, 主题]  #设置标签---</code>### 分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在 <code>source</code> 目录生成 <code>categories/index.md</code> 文件：<code>bash$ hexo new page categories  #创建分类页面</code>打开 <code>source/categories/index.md</code> 文件，设置 <code>Front-matter</code> ，开启分类页面：<code>markdown---title: 标签type: &quot;categories&quot;layout: &quot;categories&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置分类页面的导航：<code>ymlmenu:  categories: /categories || 分类</code>创建文章时，在文章的 <code>Front-matter</code> 中使用 <code>categories</code> 字段添加标签即可：<code>markdown---title: zhaoo - 主题使用文档categories:  #设置分类- 项目- 博客---</code>### 关于页面执行以下命令创建关于页面，会在 <code>source</code> 目录生成 <code>about/index.md</code> 文件：<code>bash$ hexo new page about  #创建关于页面</code>打开 <code>source/about/index.md</code> 文件，设置 <code>Front-matter</code> ，开启关于页面：<code>markdown---title: 标签type: &quot;about&quot;layout: &quot;about&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置关于页面的导航：<code>ymlmenu:  about: /about || 关于</code>在 <code>source/about/index.md</code> 中编写关于内容，如同写文章一样。tips: 建议在 <strong>关于页面</strong> 关闭 <em>文章目录</em> 和 <em>文章版权</em> 功能，在 <code>Front-matter</code> 中添加 <code>toc</code> 和 <code>copyright</code> 字段都设置为 <code>false</code> 即可。## 插件配置### 评论系统配置项 <code>comments</code> 用于配置评论系统，目前支持 <strong>Gitalk</strong>、<strong>Valine</strong>、<strong>畅言</strong> 三种评论系统。<code>yml# Commentcomments:  enable: true  type: valine  button: true</code>* <code>enable</code>:  <em>开启</em> &#x2F; <em>关闭</em> 评论功能。* <code>type</code>: 开启哪种评论系统，需要配置对应的评论系统。（参考下文）* <code>button</code>: <em>显示</em> &#x2F; <em>隐藏</em> 评论按钮，隐藏按钮后将直接展示评论。#### Gitalk<strong>Gitalk</strong> 基于 <code>GitHub</code> 存储评论内容，优点是支持 <code>GitHub</code> 直接登录；缺点是需要 <strong>科学上网</strong> 才能访问，水土不服。<img    class="lazyload" data-original="https://pic.izhaoo.com/2020111982651.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">Gitalk演示</span>首先需要在 <a target="_blank" rel="noopener" href="https://github.com/new">GitHub</a> 创建一个仓库，如有 <code>GitHub Pages</code> 也可以共用一个仓库。<img    class="lazyload" data-original="https://pic.izhaoo.com/202011193006.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">创建仓库</span>接着创建一个 <a target="_blank" rel="noopener" href="https://github.com/settings/applications/new">Github Application</a>，填写相应的参数。创建完成后会生成 <code>clientID</code> 和 <code>clientSecret</code>，记录一下。<img    class="lazyload" data-original="https://pic.izhaoo.com/20201119203435.png" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="   ><span class="image-caption">创建应用</span>配置项 <code>gitalk</code> 用于配置 <code>Gitalk。````yml# Gitalkgitalk:  owner:  repo:  admin:  clientID:  clientSecret:```* </code>owner<code>: </code>GitHub<code>的用户名。*</code>repo<code>: 创建的仓库名称。* </code>admin<code>: </code>GitHub<code>的用户名。*</code>clientID<code>: 应用创建后生成。* </code>clientSecret<code>: 应用创建后生成。#### Valine</code>Valine<code>是基于 [LeanCloud](https://leancloud.cn/) 实现的评论系统，小清新风格。![Valine演示](https://pic.izhaoo.com/2020111980022.jpg)首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Comment**，访问权限为 **所有用户**，写入权限为 **限制写入**。在【设置】-&gt;【应用Keys】中复制</code>appId<code>和</code>appKey<code>。配置项 </code>valine<code>用于设置</code>Valine<code>评论系统。```yml# Valinevaline:  appId:  appKey:  placeholder: 雁过留痕  avatar: mp  pageSize: 10  lang: zh-CN```*</code>enable<code>: *开启* / *关闭* </code>Valine<code>。* </code>appId<code>: 填入刚才得到的 </code>appId<code>。* </code>appKey<code>: 填入刚才得到的 </code>appKey<code>。* </code>placeholder<code>: 未输入评论时的占位文字。* </code>mp<code>: 默认头像，参考 [Valine头像设置](https://valine.js.org/avatar.html)。* </code>pageSize<code>: 每页评论数量。* </code>lang<code>: 系统语言。&gt; [Valine](https://valine.js.org/)#### 畅言**畅言** 是搜狐家的评论系统，优点是支持 </code>QQ<code>、</code>手机<code>、</code>邮箱<code>等多种登录方式，接地气；个人感觉</code>UI<code>不是我的菜。 ![畅言演示](https://pic.izhaoo.com/2020111984224.jpg)在 [畅言](http://changyan.kuaizhan.com/) 注册账号，进入后台创建一个站点，在【后台总览】记录一下</code>APP ID<code>和</code>APP KEY<code>。配置项 </code>changyan<code>用于设置</code>畅言评论<code>。```yml# ChangYanchangyan:  appId:  conf:```* </code>appId<code>: 生成的 </code>APP ID<code>。* </code>conf<code>: 生成的 </code>APP KEY<code>。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。### 客户沟通 (DaoVoice)[DaoVoice](http://www.daovoice.io/) 是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。![DaoVoice演示](https://pic.izhaoo.com/20200808141245.jpg)因为官方的 </code>Fab<code>按钮 和 主题</code>Fab<code>按钮会重叠，所以作者同学把他集成到主题</code>Fab<code>中了。![官网Fab](https://pic.izhaoo.com/20200808141349.jpg)![主题Fab](https://pic.izhaoo.com/20200808141304.jpg)首先在 [DaoVoice](http://dashboard.daovoice.io/) 官网上注册一个账号。在【安装应用】页面，复制</code>app_id<code>。![appid](https://pic.izhaoo.com/20200808135815.jpg)配置项 </code>daovoice<code>配置应用。```yml# Daovoicedaovoice:  enable: true  appId: abcdefg  #你的 app_id  ```*</code>enable<code>: *开启* / *关闭* DaoVoice。* </code>appId<code>: 填写之前复制的 </code>app_id<code>。点击 </code>Fab<code>中的 **消息图标** 即可打开。### 意见反馈平台 (腾讯兔小巢)[腾讯兔小巢](https://txc.qq.com/) 是一款用户意见反馈平台。首先在 [腾讯兔小巢](https://txc.qq.com/) 官网上注册一个产品，在 [产品设置](https://txc.qq.com/dashboard/products/) 中复制</code>ID<code>。配置项 </code>tencentChao<code>用于配置兔小巢。```yml# Tencent ChaotencentChao:  enable: false  appId: # app_id```*</code>enable<code>:  *开启* / *关闭* 兔小巢。* </code>appId<code>: 填写之前复制的 </code>ID<code>。### 页面统计 (LeanCloud)**LeanCloud** 是一款 </code>ServerLess<code>服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Counter**，访问权限为 **所有用户**，写入权限为 **限制写入**，如下：![创建LeanCloud](https://pic.izhaoo.com/202011194911.jpg)在【设置】-&gt;【应用Keys】中复制</code>appId<code>和</code>appKey<code>。配置项 </code>leancloud<code>用于设置</code>LeanCloud<code>。```yml# LeanCloudleancloud:  enable: true  appId:  appKey:  serverURLs: https://leancloud.cn/```* </code>enable<code>: *开启* / *关闭* </code>LeanCloud<code>。* </code>appId<code>: 填入刚才得到的 </code>appId<code>。* </code>appKey<code>: 填入刚才得到的 </code>appKey<code>。* </code>serverURLs<code>: 服务路径不用改，保持 </code><a target="_blank" rel="noopener" href="https://leancloud.cn/%60">https://leancloud.cn/`</a> 就可以了。### 图片懒加载 (LazyLoad)配置项 <code>lazyload</code> 用于配置图片懒加载。<code>yml# Lazyloadlazyload:  enable: true  only_post: false  loading: /images/theme/loading.gif</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 图片懒加载。* <code>onlyPost</code>: 只对对文章中的图片开启懒加载功能。* <code>loading</code>: 加载动画，默认是开启 <code>placeholder（占位图）</code> 的，可以在网上下载喜欢的动图，填写 <code>图片URL</code> 即可。### 图片灯箱 (FancyBox)配置项 <code>FancyBox</code> 用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。<code>ymlfancybox: true</code>### 无刷新加载 (PJAX)配置项 <code>pjax</code> 用于设置无刷新加载，开启后让你的博客嗖嗖嗖~&#96;&#96;&#96;ymlpjax: true<code>tips: 该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。### 代码高亮 (HighLight)在 **博客配置** 中开启代码高亮效果：</code>ymlhighlight:  enable: true  #启用代码高亮效果  line_number: true  auto_detect: true  hljs: true  tab_replace:<code>配置项 `highlight` 用于设置代码高亮效果。</code>yml# HighLighthighlight:  enable: true  style: # <a target="_blank" rel="noopener" href="https://highlightjs.org/static/demo/">https://highlightjs.org/static/demo/</a>    light: Xcode    dark: Solarized Dark<code>* `enable`: *开启* / *关闭* 代码高亮。* `style -&gt; light`: *浅色模式* 时的高亮样式。* `style -&gt; dark`: *深色模式* 时的高亮样式。可以到 [官网](https://highlightjs.org/static/demo/) 预览高亮效果，填写样式名称即可。### SEO配置项 `seo` 用于设置 SEO（网站关键词优化）功能。</code>yml# SEOseo:  baidu_auto_push: true<code>* `baidu_auto_push`: 开启 [百度站长平台](https://ziyuan.baidu.com/linksubmit/index) 链接自动推送功能。### 网页统计配置项 `analytics` 用于设置网站统计。</code>yml# Analyticsanalytics:  baidu: # id  google: # id  tencent: # id  cnzz: # id<code>* `baidu`: [百度统计](https://tongji.baidu.com/web/welcome/login)* `google`: [谷歌统计](https://analytics.google.com/analytics/web)* `tencent`: [腾讯分析](https://ta.qq.com/#/)* `cnzz`: [友盟统计](https://www.umeng.com/web)在对应的数据统计官网注册网站应用，复制对应的 `id` 填写即可。## 脚本配置### CDN对于外部静态文件（CSS 或 JS），可以使用第三方 `CDN` 库进行优化加速。配置项 `vendors` 用于设置静态库引入位置，直接输入 `URL` 即可。您可以保持默认配置（BootCDN）,留空则从本地引入。</code>ymlvendors:  jquery_js: <a target="_blank" rel="noopener" href="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js">https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js</a>  fancybox_js: <a target="_blank" rel="noopener" href="https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js">https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js</a>  pjax_js: <a target="_blank" rel="noopener" href="https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js">https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js</a>  lazyload_js: <a target="_blank" rel="noopener" href="https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js">https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js</a>  fancybox_css: <a target="_blank" rel="noopener" href="https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css">https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css</a>  highlight_css: <a target="_blank" rel="noopener" href="https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css">https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css</a>  iconfont_css: &#x2F;&#x2F;at.alicdn.com&#x2F;t&#x2F;font_1445822_58xq2j9v1id.css<code>### 脚本埋点有时候我们需要埋入一些第三方脚本，例如 `百度统计`、`百度SEO` 等，主题在 **头部** 和 **尾部** 分别开放了埋点入口，通过配置项 `custom` 进行配置。</code>yml# Customcustom:  head:  foot:  css:  js:&#96;&#96;&#96;* <code>head</code>: 引入头部的代码。* <code>foot</code>: 引入尾部的代码。* <code>css</code>: 外部引入的 <code>CSS</code> 链接。* <code>js</code>: 外部引入的 <code>JS</code> 链接。</p>
+      </section>
+      <section class="extra">
+        
+          <ul class="copyright">
+  
+    <li><strong>本文作者：</strong>John Doe</li>
+    <li><strong>本文链接：</strong><a href="http://example.com/2022/09/25/hexo-theme-zhaoo-doc/index.html" title="http:&#x2F;&#x2F;example.com&#x2F;2022&#x2F;09&#x2F;25&#x2F;hexo-theme-zhaoo-doc&#x2F;index.html">http:&#x2F;&#x2F;example.com&#x2F;2022&#x2F;09&#x2F;25&#x2F;hexo-theme-zhaoo-doc&#x2F;index.html</a></li>
+    <li><strong>版权声明：</strong>本博客所有文章均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" title="BY-NC-SA" target="_blank" rel="noopener">BY-NC-SA</a> 许可协议，转载请注明出处！</li>
+  
+</ul>
+        
+        
+          <section class="donate">
+  <div id="qrcode-donate">
+    <img   class="lazyload" data-original="https://pic.izhaoo.com/alipay.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" >
+  </div>
+  <div class="icon">
+    <a href="javascript:;" id="alipay"><i class="iconfont iconalipay"></i></a>
+    <a href="javascript:;" id="wechat"><i class="iconfont iconwechat-fill"></i></a>
+  </div>
+</section>
+        
+        
+  <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E4%B8%BB%E9%A2%98/" rel="tag">主题</a></li></ul> 
+
+        
+  <nav class="nav">
+    <a></a>
+    <a href="/2022/09/24/hello-world/">Hello World<i class="iconfont iconright"></i></a>
+  </nav>
+
+      </section>
+      
+        <section class="comments">
+  
+  
+<div id="valine"></div>
+<script defer src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<script>
+  window.onload = function () {
+    var loadValine = function () {
+      new Valine({
+        el: '#valine',
+        app_id: "zMoGZVsYMnyFph3ojvUBluW7-gzGzoHsz",
+        app_key: "0lQCWCy3JboSPlyWJDTVzElx",
+        placeholder: "请留下你此刻的想法",
+        avatar: "monsterid",
+        pageSize: "5",
+        lang: "zh-CN",
+      });
+    }
+    if ( false ) {
+      $("#comments-btn").on("click", function () {
+        $(this).hide();
+        loadValine();
+      });
+    } else {
+      loadValine();
+    }
+  };
+</script>
+
+</section>
+      
+    </section>
+  </div>
+</article></div>
+      <div class="col-xl-3">
+        
+          
+  <aside class="toc-wrap">
+    <h3 class="toc-title">文章目录：</h3>
+    <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B3%E4%BA%8E%E6%96%87%E6%A1%A3"><span class="toc-text">关于文档</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B"><span class="toc-text">快速开始</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%BB%E9%A2%98%E5%AE%89%E8%A3%85"><span class="toc-text">主题安装</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BC%80%E5%90%AF%E4%B8%BB%E9%A2%98"><span class="toc-text">开启主题</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE"><span class="toc-text">博客配置</span></a></li></ol></li></ol>
+  </aside>
+
+        
+      </div>
+    </div>
+  </div>
+</main>
+  
+
+<footer class="footer">
+  <div class="footer-social"><a 
+        href="tencent://message/?Menu=yes&uin=894519210 "
+        target="_blank"
+        class="footer-social-item"
+        onMouseOver="this.style.color= '#12B7F5'" 
+        onMouseOut="this.style.color='#33333D'">
+          <i class="iconfont  iconQQ "></i>
+      </a><a 
+        href="javascript:; "
+        target="_blank"
+        class="footer-social-item"
+        onMouseOver="this.style.color= '#09BB07'" 
+        onMouseOut="this.style.color='#33333D'">
+          <i class="iconfont  iconwechat-fill "></i>
+      </a><a 
+        href="https://www.instagram.com/izhaoo/ "
+        target="_blank"
+        class="footer-social-item"
+        onMouseOver="this.style.color= '#DA2E76'" 
+        onMouseOut="this.style.color='#33333D'">
+          <i class="iconfont  iconinstagram "></i>
+      </a><a 
+        href="https://github.com/zhaoo "
+        target="_blank"
+        class="footer-social-item"
+        onMouseOver="this.style.color= '#9f7be1'" 
+        onMouseOut="this.style.color='#33333D'">
+          <i class="iconfont  icongithub-fill "></i>
+      </a><a 
+        href="mailto:izhaoo@163.com "
+        target="_blank"
+        class="footer-social-item"
+        onMouseOver="this.style.color=#FF3B00" 
+        onMouseOut="this.style.color='#33333D'">
+          <i class="iconfont  iconmail"></i>
+      </a></div>
+  
+    <div class="footer-copyright"><p>Powered by <a target="_blank" href="https://hexo.io">Hexo</a>  |  Theme and Qc - <a target="_blank" href="https://github.com/qcvip/qcvip.github.io">无言</a></p></div>
+  
+</footer>
+  
+      <div class="fab fab-plus">
+    <i class="iconfont iconplus"></i>
+  </div>
+  
+    <div class="fab fab-like">
+      <i class="iconfont iconheart"></i>
+    </div>
+  
+  
+    <div class="fab fab-daovoice">
+      <i class="iconfont iconcomment"></i>
+    </div>
+  
+  
+  <div class="fab fab-up">
+    <i class="iconfont iconcaret-up"></i>
+  </div>
+  
+  
+  
+    
+<script src="/js/color-mode.js"></script>
+
+  
+  
+    <div class="search">
+  <div class="search-container">
+    <div class="search-close">
+      <i class="iconfont iconbaseline-close-px"></i>
+    </div>
+    <div class="search-input-wrapper">
+      <i class="search-input-icon iconfont iconsearch"></i>
+      <input class="search-input" type="search" id="search-input" placeholder="Search..." autofocus autocomplete="off"
+        autocorrect="off" autocapitalize="off">
+    </div>
+    <div class="search-output" id="search-output"></div>
+  </div>
+</div>
+  
+</body>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+
+
+
+  
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+
+
+
+
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+
+
+
+
+
+
+  
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+
+
+
+
+<script src="/js/utils.js"></script>
+<script src="/js/script.js"></script>
+
+
+
+  <script>
+  $.getScript("//cdn.jsdelivr.net/npm/leancloud-storage@4.1.0/dist/av-min.js", () => {
+
+    AV.init({
+      appId: 'zMoGZVsYMnyFph3ojvUBluW7-gzGzoHsz',
+      appKey: '0lQCWCy3JboSPlyWJDTVzElx',
+      serverURLs: 'https://zmogzvsy.lc-cn-n1-shared.com',
+    });
+
+    const Counter = AV.Object.extend("Counter");
+    const Like = AV.Object.extend("Like");
+
+    const showCount = (Counter) => {
+      const asyncLimit = new AsyncLimit(2);
+      $(".leancloud-counter").each(async (e) => {
+        const url = $(".leancloud-counter").eq(e).attr('id').trim();
+        const query = new AV.Query("Counter");
+        query.equalTo("words", url);
+        let count = await asyncLimit.run(() => query.count());
+        $(".leancloud-counter").eq(e).text(count ? count : 0);
+      });
+    }
+
+    const addCount = (Counter) => {
+      const url = $(".leancloud-counter").length === 1 ? $(".leancloud-counter").attr('id').trim() : 'http://example.com';
+      var query = new Counter;
+      query.save({
+        words: url
+      });
+    }
+
+    const showLike = (Like) => {
+      const asyncLimit = new AsyncLimit(2);
+      $(".leancloud-like").each(async (e) => {
+        const url = $(".leancloud-like").eq(e).attr('id').trim();
+        const query = new AV.Query("Like");
+        query.equalTo("path", url);
+        let count = await asyncLimit.run(() => query.count());
+        $(".leancloud-like").eq(e).text(count ? count : 0);
+      });
+    }
+
+    const addLike = (Like) => {
+      const url = $(".leancloud-like").length === 1 ? $(".leancloud-like").attr('id').trim() : 'http://example.com';
+      var query = new Like;
+      query.save({
+        path: url,
+        nickName: 'Anonymous'
+      });
+      $(".leancloud-like").addClass('islike');
+      $(".fab-like").children(".iconfont").removeClass("iconheart").addClass("iconheart-fill").css("color", "#eb3223");
+      ZHAOO.zui.message({ text: '爱你哦~', type: 'success' });
+      setTimeout(() => showLike(Like), 1000);
+    }
+
+    const handleLikeClick = () => {
+      const isLike = $(".leancloud-like").length === 1 && $(".leancloud-like").hasClass('islike') ? true : false;
+      if (isLike) {
+        ZHAOO.zui.message({ text: '小心心不可以收回呢~', type: 'warning' });
+      } else {
+        addLike(Like);
+      }
+    }
+
+    $(function () {
+      addCount(Counter);
+      showCount(Counter);
+      showLike(Like);
+      $(".fab-like").on("click", function () {
+        handleLikeClick();
+      });
+    });
+
+  });
+</script>
+
+
+
+  
+
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i["DaoVoiceObject"] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    a.charset = "utf-8";
+    m.parentNode.insertBefore(a, m)
+  })(window, document, "script", "https://widget.daovoice.io/widget/0f81ff2f.js", "daovoice")
+  daovoice('init', {
+    app_id: ""
+  }, {
+    launcher: {
+      disableLauncherIcon: true,
+    },
+  });
+  daovoice('update');
+</script>
+
+
+
+  <script>
+    (function () {
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+      } else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+      }
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
