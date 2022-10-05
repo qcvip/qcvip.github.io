@@ -22,7 +22,7 @@
     --color-text-secondary: #9899ab;
     --color-text-third: #7d8594;
     --color-border: #2b3038;
-    --background-image: url("/images/theme/welcome-image.jpg");
+    --background-image: url("/images/theme/dark.jpg");
     --loading-image: url("/images/theme/loading.gif");
     --lazyload-image: url("/images/theme/loading.gif");
   }
@@ -35,7 +35,7 @@
   --color-text-secondary: #9899ab;
   --color-text-third: #7d8594;
   --color-border: #2b3038;
-  --background-image: url("/images/theme/welcome-image.jpg");
+  --background-image: url("/images/theme/dark.jpg");
   --loading-image: url("/images/theme/loading.gif");
   --lazyload-image: url("/images/theme/loading.gif");
 }
@@ -1496,7 +1496,7 @@ body input {
 }
 @media (min-width: 1200px) {
   .article-wrap .container {
-    max-width: calc(800px * 12 / 6);
+    max-width: calc(750px * 12 / 6);
   }
 }
 .article .wrap {
@@ -1815,7 +1815,7 @@ body input {
 }
 @media (min-width: 1200px) {
   .article-wrap--pure .container {
-    max-width: 800px;
+    max-width: 750px;
   }
 }
 .article-wrap--pure .article .wrap {
