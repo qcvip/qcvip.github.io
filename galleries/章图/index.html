@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>相册 - 无言</title>
+  <title>章图 - 无言</title>
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="google" content="notranslate" />
@@ -156,7 +156,7 @@ color="0,0,255" opacity='0.8' zIndex="-2" count="160" src="//cdn.bootcss.com/can
         <i class="iconfont iconsearch j-navbar-search"></i>
       
     </div>
-    <div class="center">相册</div>
+    <div class="center">章图</div>
     <div class="right">
       <i class="iconfont iconmenu j-navbar-menu"></i>
     </div>
@@ -176,7 +176,7 @@ color="0,0,255" opacity='0.8' zIndex="-2" count="160" src="//cdn.bootcss.com/can
     <ul class="menu-content"><li class="menu-item">
         <a href="/ " class="underline "> 首页</a>
       </li><li class="menu-item">
-        <a href="/galleries/ " class="underline active"> 相册</a>
+        <a href="/galleries/ " class="underline "> 相册</a>
       </li><li class="menu-item">
         <a href="/archives/ " class="underline "> 归档</a>
       </li><li class="menu-item">
@@ -193,60 +193,87 @@ color="0,0,255" opacity='0.8' zIndex="-2" count="160" src="//cdn.bootcss.com/can
     
   </div>
 </nav>
-  <main id="main">
-  <section class="galleries container">
+  
+
+
+<main id="main">
+  <section class="gallery container">
     <header class="header">
-  <h1 class="header-title">相册</h1>
-  <p class="header-subtitle">没有一个冬天不可逾越，没有一个春天不会来临</p>
+  <h1 class="header-title">章图</h1>
+  <p class="header-subtitle">被盐水鸭和鸭血粉丝汤包围的秦淮河。</p>
 </header>
-    
-      
-      <div class="wrap">
-      
-        
-        <a href="./北疆" class="item">
-          <img   class="lazyload" data-original="/images/Northern/2.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  alt="北疆">
-          <div class="title-wrap">
-            <div class="mask">
-              <h3 class="title">北疆</h3>
-            </div>
-          </div>
-        </a>
-      
-        
-        <a href="./壁纸" class="item">
-          <img   class="lazyload" data-original="/images/wallpaper/22.png" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  alt="壁纸">
-          <div class="title-wrap">
-            <div class="mask">
-              <h3 class="title">壁纸</h3>
-            </div>
-          </div>
-        </a>
-      
-        
-        <a href="./金陵" class="item">
-          <img   class="lazyload" data-original="/images/Jinling/14.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  alt="金陵">
-          <div class="title-wrap">
-            <div class="mask">
-              <h3 class="title">金陵</h3>
-            </div>
-          </div>
-        </a>
-      
-        
-        <a href="./章图" class="item">
-          <img   class="lazyload" data-original="/images/essay/1.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  alt="章图">
-          <div class="title-wrap">
-            <div class="mask">
-              <h3 class="title">章图</h3>
-            </div>
-          </div>
-        </a>
-      
-      </div>
-    
+    <div id="wrap" class=waterfallWrap default-type="waterfall" default-col="5">
+      <a data-fancybox="images" style=width:20% href="/images/essay/1.jpg" class="item"><img   class="lazyload" data-original="/images/essay/1.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  alt="/images/essay/1.jpg" /></a>
+    </div>
   </section>
 </main>
+
+<script>
+  var gap = 10;
+  var items = document.getElementsByClassName('item');
+  var wrap = document.getElementById("wrap");
+
+  window.onload = function () {
+    waterFall();
+  }
+
+  window.onresize = function () {
+    setTimeout(() => {
+      waterFall();
+    }, 1000)
+  }
+
+  function waterFall() {
+    if (!(wrap.getAttribute('default-type') === 'waterfall')) return;
+    var wrapWidth = getClientWidth();
+    var columns;
+    if(wrapWidth < 768 && wrapWidth >= 576) {
+      columns = 2;
+    } else if (wrapWidth < 576) {
+      columns = 1;
+    } else {
+      columns = parseInt(wrap.getAttribute('default-col'));
+    }
+    rerenderImage(columns, wrapWidth);
+  }
+
+  function rerenderImage(col, pageWidth) {
+    var arr = [];
+    var maxHeight = 0;
+    const itemWidth = (100 / col) + '%';
+    for (var i = 0;i < items.length; i++){
+      if (i < col) {
+        items[i].style.top = 0;
+        items[i].style.left = (pageWidth / col  + gap) * i + 'px';
+        items[i].style.width = itemWidth;
+        arr.push(items[i].offsetHeight);
+      } else {
+        var minHeight = arr[0];
+        var index = 0;
+        for (var j = 0; j < arr.length; j++) {
+          if (minHeight > arr[j]) {
+            minHeight = arr[j];
+            index = j;
+          } 
+        }
+        items[i].style.top = arr[index] + gap + 'px';
+        items[i].style.left = items[index].offsetLeft + 'px';
+        items[i].style.width = itemWidth;
+        arr[index] = arr[index] + items[i].offsetHeight + gap;
+      }
+    }
+    for (var m = 0; m < arr.length; m++) {
+      if (maxHeight < arr[m]) {
+        maxHeight = arr[m];
+      } 
+    }
+    wrap.style.height = maxHeight + 'px';
+  }
+
+  function getClientWidth() {
+    return wrap.getBoundingClientRect().width;
+  }
+</script>
   
 
 <footer class="footer">
