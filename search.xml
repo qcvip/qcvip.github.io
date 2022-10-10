@@ -1,417 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/09/24/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span> <br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>推荐一下适合假期的片单 or 书单？</title>
-    <url>/2022/10/02/%E4%B9%A6%E7%B1%8D%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<h2 id="推荐一下适合假期的片单-or-书单？"><a href="#推荐一下适合假期的片单-or-书单？" class="headerlink" title="推荐一下适合假期的片单 or 书单？"></a>推荐一下适合假期的片单 or 书单？</h2><span id="more"></span>
-<hr>
-<br>
-
-<blockquote>
-<p>1.《<strong>肖申克的救赎</strong>》。每一次，无论是看书还是看电影，《肖申克的救赎》都能让我流泪。真的好棒。好真诚，没有主角光环，不刻意，但能让你感受希望的力量。</p>
-</blockquote>
-<br>
-<br>
-
-
-<blockquote>
-<p>2.刘擎教授的《<strong>现代西方思想讲义</strong>》因为我很喜欢刘擎教授的表达的方式，内容可以理解，每章结束后面还有思考小问题，真的很喜欢这本书，打开思维</p>
-</blockquote>
-<br>
-<br>
- 
-
-<blockquote>
-<p>3.《<strong>漫长的余生——一个北魏宫女和她的时代</strong>》历史也可以是普通人视角下的，她的命运，被能写进诗书的人和事所改变着，书写着。但只有她的碑文在告诉后世的人，她是谁，她经历过什么。通过她，我们也能感知到历史中没有碑文的芸芸众生的鲜活，她们都曾来过这个世界，亦如你我！</p>
-</blockquote>
-<br>
-<br>
-
-<blockquote>
-<p>4.《<strong>我不是完美小孩</strong>》<br>一位被现实撞得伤痕累累的“小孩”身份，看到的“大人”再也不是大人，我这个小孩也再也不是以前的“小孩”。我依旧不完美，依旧没那么阳光，那么勃勃生机。一幅幅画既是大人的也是小孩的倒影，我们何尝不是被要求“完美”地成长。但是最后的我成了一个普普通通的人，面对很多问题还是有很多不解，我也逐渐失去毫不犹豫的孤勇。可我依旧热爱着这本绘本，来源于最深处的勇气。来源于每个不完美，爱与被爱，期待与被期待，依旧伴随自己生活。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>5.推荐适合假期的片单：刚看完美剧《<strong>闪亮女孩</strong>》，本是奔着科幻去的，看完发现是心理创伤治愈片（女主视角），但一点不妨碍前五集悬疑+科幻的品质，这个和电影《妈的多重宇宙》类似，在科幻的框架中去创作，想起莫言曾经说：“文学艺术，永远不是唱赞歌的工具”，真心佩服小说作者的脑洞，另外影视化水准也极佳，真心强烈推荐！</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>6.《<strong>鄙视</strong>》把男性的情感和心理动态描写得很到位，激烈的暴力和性仿佛翻手覆手。一出完美的心理剧，和奥德修斯的呼应既是弗洛伊德式的，爱情是人的支撑，也放大了人的世俗、自大、自欺与妒忌。</p>
-</blockquote>
-<br>
-<br>
- 
-
-<blockquote>
-<p>7.推荐刘瑜的《<strong>送你一颗子弹</strong>》。因为这是轻松幽默又有点小哲理思考的日常合集。适合在轻松休闲的假期里，放手边随时看一篇，放下后出去玩，回头再拿起看下一篇也不会吃力。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>8.李娟《<strong>冬牧场</strong>》，用写实的笔触记录了新疆游牧民族在零下几十度寒冬里的放牧生活，有寒冷，也有人文的温情。通过李娟细腻的笔触，读起来让人心神荡漾。这本书，让我看到了，新疆这片广袤的土地上，另一种我从未了解过的牧民的生活，同时，也从中感受到了生生不息的生命的力量。有时我们一再追问生命的意义，这本书给我们提供了一个视角，每天艰辛地劳作放牧，辛苦枯燥，但却又让人感受到一种蓬勃生命力，一种质朴坚实的力量。也向读者诠释了，活着，本身就是意义。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>9.读辛波斯卡的诗吧《<strong>我曾这样寂寞生活</strong>》最开始因为电台知道辛波斯卡，去查了一下百度百科，感觉她应该是一个很帅气的诗人，在她的诗歌中能看到很多情绪，坚韧？勇敢？自由？难受？失落……虽不是个喜欢凄美文学的人，但是诗歌有时候或多或少有些“忧郁”成分，而且因为电台的滤镜加持，即便有些诗歌的情绪感觉有些down但是还是很喜欢！对辛波斯卡的爱一发不可收拾！如果你也喜欢诗，邀请你读辛波斯卡呀，一个很帅气的女人。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>10.我认为在假期主要是放松平和地享受快乐，《<strong>有熊谷守一的地方</strong>》，《<strong>日日是好日</strong>》，《<strong>人生果实</strong>》，《<strong>小花的味噌汤</strong>》都是我非常喜欢n刷的片子。</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>11.真的特别特别爱蔡崇达，推荐假期看的话，就是蔡崇达的《<strong>皮囊</strong>》吧<br>理由：这本书是由各个小故事构成的，每天都可以看一个，读起来不会觉得很累，从一些和阿婆，跟着自己长大的朋友，从外面回来开KTV的妹妹，从他们的故事里都可以或多或少找到自己的影子，然后再收拾好心情出发，是真的读起来很有趣味！</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>12.书最近在看：《<strong>十三邀3：我们都在给大问题做注脚</strong>》，有些深刻的话语值得用文字记录下来，反复咀嚼。<br>电影推荐《<strong>普罗旺斯的夏天</strong>》，在夏天的尾巴回顾一下夏日美好吧！每一帧都像画一样~</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>13.阿伦森的《<strong>绝非偶然</strong>》，这本书真是改变了我对自我的认知，让我从一个胆小很自卑的人，开始想去尝试自己想要又不敢做的事情。虽然不能说一步跨越，但是潜移默化中心里多了很多积极乐观的东西。它从心理学的角度剖析了每个人的认知心理和自我行为的关联性，告诉人们只要你想改变，并付出行动，就有可能改变。</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>14.最近读了余华的《<strong>文城</strong>》，这是一部“道路小说”，讲了北方男人林祥福，为了寻找不辞而别的妻子，只身一人来到南方小镇的故事。读余华的小说，更像是寓言，他把时代的遭遇，压缩在符号化的人物身上，从而让我们记住历史，记住那些容易被遗忘被忽略的小人物。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>15.推荐影片：《<strong>落叶归根</strong>》<br>理由：虽然是比较老的电影，而且讲的内容也很简单，是一个在外打工的中年男子，带着自己的工友回家的故事（此时的工友已经因病去世了），所以他带上的只是一具尸体，但是，一路上的颠沛他都没有抛下工友，打劫没有，没车坐也没有，全片简单没有杂冗的剧情，虽然故事简单但是看完真的会让人情触之深，原来时间也有温情，原来人与人之间也会温存这样的故事，串联着你和我……</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>16.假期片单推荐：《<strong>托斯卡纳艳阳下</strong>》<br>因为一次旅行，婚姻不顺的女作家定居在了意大利托斯卡尼，人生开始有了转变，在这里拥有一座自己的别墅，一个爱的人，然后过着面朝大海春暖花开的生活，内心也开始变得丰盈，这个假期跟着电影一起去感受一下阳光下的爱情，令人向往而感动。</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>17.《<strong>唐顿庄园</strong>》创作者不约而同聚焦于人性之恶时，还有人愿意思考善良、伟大、优雅，是这个时代难得的品质（ps节奏缓慢的英剧就是消磨时间的利器）。</p>
-</blockquote>
-<br>
-<br>
-
-
-<blockquote>
-<p>18.推荐《<strong>亚历山大和他最糟糕的一天</strong>》！不用被电影名字误导，是一部非常轻松的喜剧电影，围绕一大家人展开的荒诞搞笑故事，结局也非常温馨～适合一个人看，也适合和家人朋友一起看，假期当然要无脑笑！</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>19.《<strong>纯真博物馆</strong>》吧，每次看了都有新感受，让人思考究竟什么是爱和欲望，故事有时候并没有一个完美的结局，人生也是一样，但是永远不要丢失对美好的幻想。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>20.推荐简媜的《<strong>谁在银光闪闪的地方，等你</strong>》这本书用幽默戏谑的语言谈论“老病死”话题，年轻的朋友阅读，既可以预见自己未来的变化，又能增加在生活中对父母的了解，学会多一份体谅。</p>
-</blockquote>
-<br>
-<br>
- 
-
-<blockquote>
-<p>21.《<strong>你长大了就会懂</strong>》<br>虽然嘴上经常说老了以后去养老院，但是从来也没有了解过养老院到底是什么情况，也从来没有好好想一想死亡到底意味着什么，我们所追求的意义究竟有没有意义…… 跟着书中的人物感受他们在养老院的生活日常，慢慢领悟来人世这一趟的不易。</p>
-</blockquote>
-<br>
-<br>
- 
-
-<blockquote>
-<p>22.《<strong>纽约的一个雨天</strong>》。成都入秋了，雨每天下个不停。我在教室的窗边复习考研，昨天学累了索性休息一下。翻了好久没用的迅雷，想着纽约的雨天还没看，姑且看着换换脑。结果片中的甜茶那么文艺，范宁那么灵动，还有同样下着雨的纽约的傍晚，有钢琴，有爵士。我在最合适的时间看了这部电影。</p>
-</blockquote>
-<br>
-<br>
-
- 
-
-<blockquote>
-<p>23.书单：<br>《<strong>不安之书</strong>》费尔南多·佩索阿：我们是两个深渊，是举目凝视天空的深井。<br>《<strong>安德鲁不想孤独终老</strong>》理查德·罗珀：独居且从不请人到家里来至少有一个好处——没人能够对他的生活方式评头论足。<br>《<strong>蝲蛄吟唱的地方</strong>》迪莉娅·欧文斯：她知道自己难过的并不是蔡斯，而是被定义为抛弃的一生。头顶的天空和云层互相搏斗着，她大声说：“我只能一个人生活。我知道这点。我早就知道没有人会为我停留。”<br>《<strong>母爱的羁绊</strong>》卡瑞尔·麦克布莱恩：<br>康复来自理解和爱，而非指责。一旦我们理解了母亲所面对的那些导致她们无力爱我们的困难，接下来就能开始改善我们自己的生活，最终目标是了解自己、对自己负责，进而获得康复。</p>
-</blockquote>
-<br>
-<br>
-
-
-<figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
-
-
-<blockquote>
-<p>24.《<strong>如果我们的语言是威士忌</strong>》，村上春树的游记在假期旅途中就可以看完，读着惬意舒服，就像喝着一杯冰威士忌。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>25.推荐一个导演：伍迪·艾伦。当你不想看沉闷深刻的艺术电影（没有说伯格曼不好的意思），也不想看爆米花式的商业大片的时候，他是最好的选择！他的几部作品：《<strong>安妮·霍尔</strong>》《<strong>曼哈顿</strong>》《<strong>开罗紫玫瑰</strong>》。</p>
-</blockquote>
-<br>
-<br>
-
-
-
-<blockquote>
-<p>26.书本推荐《<strong>香水</strong>》，在悠闲的假期里一起感受格雷诺耶的嗅觉艺术吧！还有是枝裕和的电影也非常治愈系，《<strong>海街日记</strong>》也是个不错的选择！</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>27.很久没有静下心来认真看一部电影了，今天看了《<strong>秋天的故事</strong>》，影片的风格画面色调看着都很舒服，把秋天拍得太好了。<br>恋爱都不容易，哪有什么偶遇一见钟情啊，等不再年轻的时候，两个人能聊得来就已经很好了。<br>其实欧嘉莉还是很幸运的，虽然不再年轻了，但是有很好的朋友，有自己的葡萄园，不爱热闹不愿交友最后还遇见了爱情。真好。</p>
-</blockquote>
-<br>
-<br>
-
-
- 
-
-<blockquote>
-<p>28.我建议读一下四大名著，从最基础的开始，加强自身文化涵养和家国情怀。<br>现代网络，最不缺乏的就是推荐，只要想找，比比皆是，很多人在纷杂的网络信息里逐渐迷失了自己的根，总习惯去追求那些看似很高大上但实则并不适用的文学艺术。<br>四大名著看似很普通，但很多人未必完整地读过一遍，而且很多都是在自己学生时代阅读的，理解浅显或片面，拿到现在来看，我们也许更加能够看清楚那些妖魔鬼怪、世事人情背后所隐藏的意义。</p>
-</blockquote>
-<br>
-<br>
-
-
-
- 
-
-<blockquote>
-<p>29.那我推荐一下片单吧：<br>日剧《<strong>凪的新生活</strong>》：是一个女性蜕变和成长，有自己的主见选择正确的、有尊严的感情的故事。这部剧还蛮适合正处于感情成长期的女孩子们看的。<br>日剧《<strong>短剧开始了</strong>》：每一集的侧重点都不一样，但又像一个圆圈一样星星点点地串在一起，让人感叹编剧情节巧妙。是当代青年的真实写照，没有夸张的表演，但像五谷杂粮，越嚼越有味道。*<br>日剧神剧《<strong>legal high</strong>》：这部剧出了一个神角色古美门，每一集不仅与新垣结衣饰演的律师助理斗嘴拌嘴外，还以超强嘴炮“战无不胜”，其中的博弈也很精彩，十分推荐。<br>日剧《<strong>追忆潸然</strong>》：这是一部对我而言很奇妙的剧。平常也就匆匆略过，但每到冬天就会自动打开这部剧。也许是金句王坂元裕二，也许是那句“没关系，我会跑着穿过雨和雨之间的缝隙。”<br>美剧《<strong>怪奇物语</strong>》：这部剧一共有四部，剧情是相互串联的。我本来是不爱看连续季的，可是打开了第一部后就一集一集停不下来了，下饭好剧。</p>
-</blockquote>
-<br>
-<br>
- 
-
-<blockquote>
-<p>30.国庆片单day1到day7《<strong>筋疲力尽</strong>》《<strong>四百击</strong>》《<strong>祖与占</strong>》《<strong>法外之徒</strong>》《<strong>慕德家一夜</strong>》《<strong>漂亮的塞尔日</strong>》《<strong>巴黎属于我们</strong>》美好的七天长假，何不用心去了解一个电影时代呢？法国新浪潮是朦胧的，在这个好莱坞工业化电影挟风俱雨地侵入每个人关于电影的印象时，那一套奉为模板的视听语言在法国新浪潮面前全部黯然失色。开始看时也许会觉得无聊，我为何浪费时间好似我邻居日常的鸡毛蒜皮上？但是相信在这每天的一部片之后，在搜索百科，影评的途中，它会像一剂晨雾在心中氤氲开来，耳目一新。</p>
-</blockquote>
-<br>
-
-<h3 id="好的推荐，欢迎下方留言，好的作品，应让更多人看见"><a href="#好的推荐，欢迎下方留言，好的作品，应让更多人看见" class="headerlink" title="好的推荐，欢迎下方留言，好的作品，应让更多人看见 "></a><center>好的推荐，欢迎下方留言，好的作品，应让更多人看见 </center></h3>]]></content>
-      <categories>
-        <category>问答</category>
-      </categories>
-      <tags>
-        <tag>问答</tag>
-        <tag>书籍</tag>
-        <tag>电影</tag>
-        <tag>交流</tag>
-        <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>主题配置文档</title>
-    <url>/2020/05/05/hexo-theme-zhaoo-doc/</url>
-    <content><![CDATA[<p><code>zhaoo</code> 主题的使用指南以及配置指北。</p>
-<span id="more"></span>
-<h2 id="关于文档"><a href="#关于文档" class="headerlink" title="关于文档"></a>关于文档</h2><blockquote>
-<p>如有疑惑欢迎加鹅群咨询：<strong>550262893</strong>&gt; 约定：无特殊说明时，文中“博客配置”指 <code>/_config.yml</code>，“主题配置”指 <code>/theme/hexo-theme-zhaoo/_config.yml</code>，缺省为“主题配置”。</p>
-</blockquote>
-<p style="text-align: right;">文档更新于：2021年4月4日</p>
-
-<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="主题安装"><a href="#主题安装" class="headerlink" title="主题安装"></a>主题安装</h3><p>安装 <code>Hexo</code> 后进入根目录：</p>
-<p><code>bash$ cd hexo</code><br>安装 <code>zhaoo</code> 主题：</p>
-<p><code>bash$ git clone https://github.com/izhaoo/hexo-theme-zhaoo.git themes/zhaoo</code></p>
-<h3 id="开启主题"><a href="#开启主题" class="headerlink" title="开启主题"></a>开启主题</h3><p>修改 <code>Hexo</code> 根目录下的 <code>_config.yml</code> 文件启用 <code>zhaoo</code> 主题：</p>
-<p><code>ymltheme: zhaoo</code></p>
-<p>启动 <code>Hexo</code> 服务器预览：</p>
-<p><code>bash$ hexo clean &amp;&amp; hexo s</code></p>
-<h3 id="博客配置"><a href="#博客配置" class="headerlink" title="博客配置"></a>博客配置</h3><p>编辑 <code>Hexo</code> 根目录下的 <code>_config.yml</code> 文件，配置博客网站相关功能，对整个网站生效。</p>
-<p>建议将文章数量改为<strong>9</strong>篇：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">index_generator:</span>  <br><span class="hljs-attr">path:</span> <span class="hljs-string">&#x27;&#x27;</span>  <br><span class="hljs-attr">per_page:</span> <span class="hljs-number">9</span>  <span class="hljs-comment">#文章数量改为9篇（3的倍数更和谐）  </span><br><span class="hljs-attr">order_by:</span> <span class="hljs-string">-date</span><br></code></pre></td></tr></table></figure>
-<p>启用代码高亮效果：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">highlight:</span><br><span class="hljs-attr">enable:</span> <span class="hljs-literal">true</span>  <span class="hljs-comment">#启用代码高亮效果</span><br><span class="hljs-attr">line_number:</span> <span class="hljs-literal">true</span><br><span class="hljs-attr">auto_detect:</span> <span class="hljs-literal">true</span>  <br><span class="hljs-attr">hljs:</span> <span class="hljs-literal">true</span>  <br><span class="hljs-attr">tab_replace:</span><br></code></pre></td></tr></table></figure>
-<p>编辑 <code>zhaoo</code> 主题目录下的 <code>_config.yml</code> 文件，配置主题相关功能，只对主题生效。建议参考 <a href="https://github.com/izhaoo/hexo-theme-zhaoo/blob/master/_config.yml">_config.yml</a> 和本文进行配置，具体配置内容见下文。</p>
-<h3 id="主题更新"><a href="#主题更新" class="headerlink" title="主题更新"></a>主题更新</h3><p>进入到 <code>zhaoo</code> 主题目录：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">cd</span> themes/zhaoo<br></code></pre></td></tr></table></figure>
-<p>从 <code>GitHub</code> 获取更新：<br><code>bash$ git pull</code></p>
-<h2 id="全局配置"><a href="#全局配置" class="headerlink" title="全局配置"></a>全局配置</h2><h3 id="头部导航-NavBar"><a href="#头部导航-NavBar" class="headerlink" title="头部导航 (NavBar)"></a>头部导航 (NavBar)</h3><p>配置项 <code>navbar</code> 用于设置 <strong>头部导航条</strong>。</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">navbar:</span>  <br><span class="hljs-attr">enable:</span> <span class="hljs-literal">true</span>  <br><span class="hljs-attr">back_home:</span> <span class="hljs-literal">true</span><br><span class="hljs-string">````</span><br><span class="hljs-string">enable`</span> <span class="hljs-string">用于控制头部导航条全局显示/隐藏。</span><br><br><span class="hljs-string">`back_home`</span> <span class="hljs-string">用于开启返回首页按钮；其余的功能按钮随各自配置开启，例如“二维码”、“黑夜模式”、“搜索”等。</span><br><br><span class="hljs-comment">### 导航菜单 (Menu)</span><br><span class="hljs-string">配置项</span> <span class="hljs-string">`menu`</span> <span class="hljs-string">用于设置</span> <span class="hljs-string">**导航菜单**。</span><br><span class="hljs-string">```yml</span><br><span class="hljs-comment"># Menu</span><br><span class="hljs-attr">menu:</span>  <br><span class="hljs-attr">home:</span> <span class="hljs-string">/</span> <span class="hljs-string">||</span> <span class="hljs-string">首页</span>  <br><span class="hljs-attr">galleries:</span> <span class="hljs-string">/galleries</span> <span class="hljs-string">||</span> <span class="hljs-string">摄影</span>  <br><span class="hljs-attr">archives:</span> <span class="hljs-string">/archives</span> <span class="hljs-string">||</span> <span class="hljs-string">归档</span>  <br><span class="hljs-attr">tags:</span> <span class="hljs-string">/tags</span> <span class="hljs-string">||</span> <span class="hljs-string">标签</span>  <br><span class="hljs-attr">categories:</span> <span class="hljs-string">/categories</span> <span class="hljs-string">||</span> <span class="hljs-string">分类</span>  <br><span class="hljs-attr">about:</span> <span class="hljs-string">/about</span> <span class="hljs-string">||</span> <span class="hljs-string">关于</span><br></code></pre></td></tr></table></figure>
-<p>用 <strong>||</strong> 将内容分割为两部分，前面部分为页面 <code>URL</code>，后面部分为菜单中显示的名称。</p>
-<p>对于系统默认页面，如 <code>归档（/archives）</code>、<code>首页（/）</code> 等，直接添加菜单即可；对于独立页面，如 <code>标签（tags）</code>、<code>分类（categories）</code>，则需先创建页面后再添加菜单。</p>
-<h3 id="主题颜色"><a href="#主题颜色" class="headerlink" title="主题颜色"></a>主题颜色</h3><p>可以根据个人喜好，定制主题颜色。在配置项 <code>color</code> 中设置颜色。</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Color</span><br><span class="hljs-attr">color:</span>  <br><span class="hljs-attr">text:</span> <span class="hljs-string">&#x27;#33333D&#x27;</span>  <br><span class="hljs-attr">text-secondary:</span> <span class="hljs-string">&#x27;#4e4e4e&#x27;</span>  <br><span class="hljs-attr">text-third:</span> <span class="hljs-string">&#x27;#999999&#x27;</span>  <br><span class="hljs-attr">background:</span> <span class="hljs-string">&#x27;#ffffff&#x27;</span>  <br><span class="hljs-attr">background-secondary:</span> <span class="hljs-string">&#x27;#f6f8fa&#x27;</span>  <br><span class="hljs-attr">border:</span> <span class="hljs-string">&#x27;#eeeeee&#x27;</span>  <br><span class="hljs-attr">text-dark:</span> <span class="hljs-string">&#x27;#dddddd&#x27;</span>  <br><span class="hljs-attr">text-secondary-dark:</span> <span class="hljs-string">&#x27;#9899ab&#x27;</span>  <br><span class="hljs-attr">text-third-dark:</span> <span class="hljs-string">&#x27;#7d8594&#x27;</span>  <br><span class="hljs-attr">background-dark:</span> <span class="hljs-string">&#x27;#1e2128&#x27;</span>  <br><span class="hljs-attr">background-secondary-dark:</span> <span class="hljs-string">&#x27;#1a1d22&#x27;</span>  <br><span class="hljs-attr">border-dark:</span> <span class="hljs-string">&#x27;#2b3038&#x27;</span>  <br><span class="hljs-attr">link:</span> <span class="hljs-string">&#x27;#FF3B00&#x27;</span><br></code></pre></td></tr></table></figure>
-<p>可以使用 <code>十六进制</code>、<code>rgba</code>、<code>颜色名称</code> 方式，注意需要用引号包裹。</p>
-<p>目前有两套颜色模式，分别是 <strong>浅色模式（白天）</strong> 和 <strong>深色模式（黑夜）</strong>，请注意颜色搭配。<code>link</code> 为强调色，表现为 <code>hover</code>、<code>active</code> 等。</p>
-<p>分享几个配色网站：<a href="https://colors.ichuantong.cn/">中国传统颜色</a>、<a href="https://nipponcolors.com/">日本传统颜色</a></p>
-<h3 id="站点图标"><a href="#站点图标" class="headerlink" title="站点图标"></a>站点图标</h3><p>配置项 <code>favicon</code> 可设置站点图标，建议使用 <code>ico</code> 或 <code>png</code> 格式。</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Favicon</span><br><span class="hljs-attr">favicon:</span>  <br><span class="hljs-attr">small:</span> <span class="hljs-string">/images/icons/favicon-16x16.png</span>  <br><span class="hljs-attr">medium:</span> <span class="hljs-string">/images/icons/favicon-32x32.png</span><br><span class="hljs-attr">apple_touch_icon:</span> <span class="hljs-string">/images/icons/apple-touch-icon.png</span> <br><span class="hljs-attr">safari_pinned_tab:</span> <span class="hljs-string">/images/icons/stun-logo.svg</span><br><span class="hljs-attr">msapplication:</span> <span class="hljs-string">/images/icons/favicon-144x144.png</span><br><br></code></pre></td></tr></table></figure>
-<p>有多种尺寸的图片需要配置，可以参考默认图标的尺寸用 <code>PS</code> 裁剪，或使用：<a href="https://icon.wuruihong.com/">图标工厂</a></p>
-<h3 id="全局字体"><a href="#全局字体" class="headerlink" title="全局字体"></a>全局字体</h3><p>配置项 <code>font</code> 中可设置全局字体的 <strong>大小</strong> 和 <strong>风格系列</strong>。</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Font</span><br><span class="hljs-attr">font:</span>  <br><span class="hljs-attr">size:</span> <span class="hljs-string">14px</span>  <br><span class="hljs-attr">family:</span> <span class="hljs-string">&#x27;Hiragino Sans GB&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">&#x27;Hiragino Sans GB W3&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">&#x27;Microsoft YaHei&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">&#x27;WenQuanYi Micro Hei&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">sans-serif</span><br><br></code></pre></td></tr></table></figure>
-<ul>
-<li><code>size</code>: 字体大小。</li>
-<li><ul>
-<li><code>family</code>: 字体风格系列。</li>
-</ul>
-</li>
-<li><h3 id="背景图片"><a href="#背景图片" class="headerlink" title="背景图片"></a>背景图片</h3></li>
-</ul>
-<p> 配置项 <code>background_image</code> 可设置背景图片，直接填写图片地址即可。<br> <figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Background Image</span><br><span class="hljs-attr">background_image:</span><br><br></code></pre></td></tr></table></figure><br> tips: 建议不设置背景图片，默认的 <strong>纯白背景</strong> 最搭配，背景颜色也可在 <a href="#%E4%B8%BB%E9%A2%98%E9%A2%9C%E8%89%B2">主题颜色</a> 中设置。</p>
-<h3 id="加载动画-Loading-配置项-loading-可设置载入动画，会在-页面跳转、懒加载-时加载，目前仅支持图片形式。yml-Loadingloading-images-theme-loading-gif建议使用-gif-动图，可在-LottieFiles-下载。tips-未来将支持自定义-css、svg-等多种方式的载入动画，敬请期待。-欢迎页面配置项-preview-中的一些列配置可自定义欢迎页面。yml-Previewpreview-enable-true-model-wave-wave-cloud-background-type-image-image-video-default-image-light-images-theme-welcome-image-jpg-dark-images-theme-welcome-image-jpg-video-api-https-source-unsplash-com-random-1920x1080-size-cover-css-background-size-position-center-css-background-position-motto-default-我在开了灯的床头下，想问问自己的心啊。-api-https-v1-hitokoto-cn-encode-text-amp-c-j-color-39-ffffff-39-enable-用来-开启-x2F-关闭-欢迎页面。-效果模式-model-设置效果模式，有-波浪（wave）-和-云层（cloud）-两种模式可选择。-欢迎图片配置项-background-用来设置欢迎图片，其中：-type-图片或视频。-default-image-配置静态图片，填写静态图片-URL-即可。开启-深色模式-后支持配置-深色-x2F-浅色-两种模式下的背景图片。-video-配置动态视频，填写视频-URL-即可。-api-配置随机图片，可使用第三方-API，优先级-随机图片（api）-gt-静态图片（default）。推荐-API：Unsplash、必应图片。-size-和-position-设置图片的-尺寸-和-位置，参考-CSS-中的属性即可。-格言配置项-motto-用来设置格言，其中：-default-配置静态格言，填写格言文本即可。-api-配置随机格言，可使用第三方-API，优先级-随机格言（api）-gt-静态格言（default）。推荐-API：一言、今日诗词。-color-配置文字颜色。-全局搜索前置条件：需要开启头部导航，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装-hexo-generator-searchdb-插件提供支持。安装-hexo-generator-searchdb-插件：bash-npm-install-hexo-generator-searchdb-save开启插件，在-博客配置-下新增：ymlsearch-path-search-xml-索引生成路径（需要设置绝对路径，否则二级页面读不到）-field-post-post-page-all-format-html-只支持-html-类型-content-true-是否包含正文内容-版权信息配置项-copyright-用来设置页面底部显示的网站版权信息，填写-文本内容-或-HTML-即可。yml-Copyrightcopyright-lt-p-gt-Powered-by-lt-a-target-quot-blank-quot-href-quot-https-hexo-io-quot-gt-Hexo-lt-a-gt-Theme-lt-a-target-quot-blank-quot-href-quot-https-github-com-izhaoo-hexo-theme-zhaoo-quot-gt-zhaoo-lt-a-gt-lt-p-gt-社交链接配置项-social-用来配置社交链接，在页面底部以-Icon-图标的形式展示，点击即可链接第三方平台。yml-Socialsocial-qq-tencent-message-Menu-yes-amp-uin-894519210-iconQQ-39-12B7F5-39-wechat-javascript-iconwechat-fill-39-09BB07-39-instagram-https-www-instagram-com-izhaoo-iconinstagram-39-DA2E76-39-github-https-github-com-izhaoo-icongithub-fill-39-24292E-39-email-mailto-izhaoo-163-com-iconmail配置内容分为三部分，以-划分。第一部分是-社交链接-，第二部分是-图标样式（IconFont）-，第三部分是-选中颜色（hover）。-右下角按钮-Fab-配置项-fab-用于配置右下角的按钮。yml-Fab-Float-Action-Button-fab-enable-true-always-show-false-enable-设置-开启-x2F-关闭-按钮。-always-show-设置-一直显示-x2F-过渡隐藏-按钮。-二维码配置项-qrcode-用来设置-二维码，开启后点击-导航栏-左侧的图标即可显示。yml-QR-Codeqrcode-enable-true-type-image-url-image-image-https-pic-izhaoo-com-weapp-code-jpg-enable-设置-开启-x2F-关闭-二维码功能。-type-设置二维码模式，有两种模式可选。url-显示当前文章链接生成的二维码；image-显示固定的二维码图片（如小程序码等）。-image-选择-image-模式时需要指定图片链接。-深色模式配置项-color-mode-用来配置-深色模式。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击-导航栏-左侧的图标手动切换颜色模式，系统会暂存用户选择状态。yml-Color-Modecolor-mode-enable-true-enable-开启-x2F-关闭-深色模式。深色模式-x2F-浅色模式-的颜色可以参考-主题颜色-设置。-哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项-gray-设置。yml-Gray-Mourning-Mode-gray-enable-true-开启哀悼模式-enable-开启-x2F-关闭-哀悼模式。-文章配置-文章封面-单独封面可以为每篇文章设置单独的文章封面图片，在文章-Front-matter-中添加-image-字段设置图片。若使用图床，直接添加图片文件的-完整URL-即可：markdown-title-zhaoo-主题文档image-https-pic-izhaoo-com-20200421200902-jpg-设置图床图片-若将图片储存在本地，现将图片文件复制到主题-zhaoo-source-images-下，再添加-相对URL-即可：markdown-title-zhaoo-主题使用文档image-images-20200421200902-jpg-设置本地图片-默认封面配置项-post-image-设置配置文章默认封面，就不用为每篇文章单独设置封面了：yml-Post-Imagepost-image-random-galleries-local-galleries-default-images-theme-post-image-jpg-random-设置随机封面，有-galleries（相册图库）-和-local（本地图库）-两种模式。开启-相册-功能后会自动调取相册中的图片；本地图库需要新建-data-local-images-json-文件，填写图片-URL-列表即可。-default-未设置随机封面时启用-默认封面，填写图片-URL-即可。json-local-images-json-quot-https-pic-izhaoo-com-2014031601-jpg-quot-quot-https-pic-izhaoo-com-2017071602-jpg-quot-quot-https-pic-izhaoo-com-2017071603-jpg-quot-quot-https-pic-izhaoo-com-2017072104-jpg-quot-quot-https-pic-izhaoo-com-2017072705-jpg-quot-quot-https-pic-izhaoo-com-20200421201200-jpg-quot-quot-https-pic-izhaoo-com-20200305030152-jpg-quot-quot-https-pic-izhaoo-com-20191211065241-jpg-quot-quot-https-pic-izhaoo-com-20200228081718-jpg-quot-quot-https-pic-izhaoo-com-20191211065844-jpg-quot-quot-https-pic-izhaoo-com-20200718151924-jpg-quot-quot-https-pic-izhaoo-com-20200718152003-jpg-quot-quot-https-pic-izhaoo-com-20200718152045-jpg-quot-quot-https-pic-izhaoo-com-20200718152122-jpg-quot-quot-https-pic-izhaoo-com-20200718151427-jpg-quot-关键词在文章-Front-matter-中添加-keywords-字段设置关键词：markdowntitle-zhaoo-主题使用文档keywords-hexo-theme-zhaoo-hexo-主题-使用文档-document配置项-keywords-为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：ymlkeywords-hexo-theme-zhaoo-hexo-文章尺寸配置项-post-page-size-用于设置文章内容主体部分的相关尺寸。yml-Page-Sizepost-page-size-width-800px-width-设置内容宽度。tips-受外部元素的限制，实际尺寸-由计算后得出，不能保证与-设定尺寸-完全相等，只能保证接近该尺寸。-图片标注配置项-caption-用于设置-图片标注，开启后会在文章图片下方生成标注。yml-Captioncaption-enable-true-enable-开启-x2F-关闭-图片标注。-文章目录配置项-toc-用于设置-文章目录，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。yml-TOCtoc-enable-true-min-depth-1-max-depth-3-enable-开启-x2F-关闭-文章目录。-min-depth-max-depth-全局开启-文章目录-后，可以在文章-Front-matter-中添加-toc-字段单独控制该文章是否展示文章目录。markdown-title-zhaoo-主题文档toc-false-关闭文章目录-打赏二维码配置项-donate-用于设置-打赏二维码，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧yml-Donatedonate-enable-true-alipay-https-pic-izhaoo-com-alipay-jpg-wechat-https-pic-izhaoo-com-wechat-jpg-enable-开启-x2F-关闭-打赏二维码。-alipay-支付宝收款二维码，填写图片-URL。-wechat-微信收款二维码，填写图片-URL。-文章版权配置项-post-copyright-用于设置-文章版权，开启后可在文章下方展示版权信息。yml-Copyrightpost-copyright-enable-true-enable-开启-x2F-关闭-文章版权信息。全局开启-文章版权-后，可以在文章-Front-matter-中添加-copyright-字段单独控制该文章是否展示文章版权。markdown-title-zhaoo-主题文档copyright-false-关闭文章版权-文章搬运配置项-carrier-用于开启-文章搬运-功能，方便博主们全文“借鉴”文章，效果如下：前置条件：全局开启-文章版权yml-Carriercarrier-enable-true-type-markdown-markdown-html-text-enable-开启-x2F-关闭-文章搬运。-type-搬运模式，可选择一键复制-markdown、html、text-格式的文章。-gt-Hexo-开发文章搬运功能-文章置顶找到-node-modules-hexo-generator-index-lib-generator-js-文件，替换成如下代码：javascript-39-use-strict-39-var-pagination-require-39-hexo-pagination-39-module-exports-function-locals-var-config-this-config-var-posts-locals-posts-posts-data-posts-data-sort-function-a-b-if-a-top-amp-amp-b-top-if-a-top-b-top-return-b-date-a-date-else-return-b-top-a-top-else-if-a-top-amp-amp-b-top-return-1-else-if-a-top-amp-amp-b-top-return-1-else-return-b-date-a-date-var-paginationDir-config-pagination-dir-39-page-39-return-pagination-39-39-posts-perPage-config-index-generator-per-page-layout-39-index-39-39-archive-39-format-paginationDir-39-d-39-data-index-true-在文章的-Front-matter-中添加-top-字段，指定数值。数值越大，显示越靠前。markdown-title-zhaoo-主题使用文档top-10-添加该字段-数学公式-MathJax-gt-hexo-filter-mathjax-ssr以-svg-的形式渲染数学公式，兼容性较好，推荐使用。安装-MathJax-插件依赖：bash-npm-install-hexo-filter-mathjax-ssr-save开启插件，在-博客配置-下新增：ymlmathjax-inlineQuote-39-39-39-39-blockQuote-39-39-39-39-KaTex-gt-hexo-katex以-HTML-标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎-hexo-renderer-pandoc：bash-npm-install-hexo-renderer-pandoc-save安装-KaTex-插件依赖：bash-npm-install-hexo-katex-save开启插件，在-博客配置-下新增：ymlpandoc-mathEngine-katex-页面配置-相册页面-gt-【瀑布流风格相册】由-AmiKara-友情贡献执行以下命令创建相册页面，会在-source-目录生成-galleries-index-md-文件：bash-hexo-new-page-galleries-创建相册页面打开-source-galleries-index-md-文件，设置-Front-matter-，开启相册页面：markdown-title-相册layout-quot-galleries-quot-参考-导航菜单-设置相册页面的导航：ymlmenu-galleries-galleries-相册配置项-galleries-用于开启相册功能：ymlgalleries-enable-true-title-相册-subtitle-Galleries-type-waterfull-waterful-grid-columns-3-enable-开启-x2F-关闭-相册功能。-title-相册分类页面标题。-subtitle-相册分类页面副标题。-type-相册显示风格，有-瀑布流-和-正方形-两种形式。-columns-相册列数。在-data-目录下新建-galleries-json-文件，创建相册分类目录及图片内容：json-quot-name-quot-quot-colorful-quot-相册名称-quot-cover-quot-quot-images-theme-post-image-jpg-quot-相册封面-quot-description-quot-quot-君未看花时，花与君同寂；君来看花日，花色一时明。-quot-相册介绍-quot-photos-quot-图片内容-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-name-quot-quot-记事-quot-quot-cover-quot-quot-images-theme-post-image-jpg-quot-quot-description-quot-quot-翻开随身携带的记事本，写着许多事都是关于你。-quot-quot-photos-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-在-source-galleries-目录下-新建文件夹-，命名需要和-json-中的-name-字段对应，例如：colorful、记事。-在文件夹下新建-index-md-文件，内容如下：markdown-title-记事-名称也需要对应layout-quot-gallery-quot-步骤可能有点难以理解，最后放几张截图，比较直观：也可以参考-example-source-中的相关栗子。-归档页面参考-导航菜单-设置归档页面的导航，系统会按文章创建时间自动归档。ymlmenu-archives-archives-归档-标签页面执行以下命令创建标签页面，会在-source-目录生成-tags-index-md-文件：bash-hexo-new-page-tags-创建标签页面打开-source-tags-index-md-文件，设置-Front-matter-，开启标签页面：markdown-title-标签type-quot-tags-quot-layout-quot-tags-quot-参考-导航菜单-设置标签页面的导航：ymlmenu-tags-tags-标签创建文章时，在文章的-Front-matter-中使用-tags-字段添加标签即可：markdown-title-zhaoo-主题使用文档tags-Hexo-主题-设置标签-分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在-source-目录生成-categories-index-md-文件：bash-hexo-new-page-categories-创建分类页面打开-source-categories-index-md-文件，设置-Front-matter-，开启分类页面：markdown-title-标签type-quot-categories-quot-layout-quot-categories-quot-参考-导航菜单-设置分类页面的导航：ymlmenu-categories-categories-分类创建文章时，在文章的-Front-matter-中使用-categories-字段添加标签即可：markdown-title-zhaoo-主题使用文档categories-设置分类-项目-博客-关于页面执行以下命令创建关于页面，会在-source-目录生成-about-index-md-文件：bash-hexo-new-page-about-创建关于页面打开-source-about-index-md-文件，设置-Front-matter-，开启关于页面：markdown-title-标签type-quot-about-quot-layout-quot-about-quot-参考-导航菜单-设置关于页面的导航：ymlmenu-about-about-关于在-source-about-index-md-中编写关于内容，如同写文章一样。tips-建议在-关于页面-关闭-文章目录-和-文章版权-功能，在-Front-matter-中添加-toc-和-copyright-字段都设置为-false-即可。-插件配置-评论系统配置项-comments-用于配置评论系统，目前支持-Gitalk、Valine、畅言-三种评论系统。yml-Commentcomments-enable-true-type-valine-button-true-enable-开启-x2F-关闭-评论功能。-type-开启哪种评论系统，需要配置对应的评论系统。（参考下文）-button-显示-x2F-隐藏-评论按钮，隐藏按钮后将直接展示评论。-GitalkGitalk-基于-GitHub-存储评论内容，优点是支持-GitHub-直接登录；缺点是需要-科学上网-才能访问，水土不服。首先需要在-GitHub-创建一个仓库，如有-GitHub-Pages-也可以共用一个仓库。接着创建一个-Github-Application，填写相应的参数。创建完成后会生成-clientID-和-clientSecret，记录一下。配置项-gitalk-用于配置-Gitalk。-yml-Gitalkgitalk-owner-repo-admin-clientID-clientSecret-owner-GitHub的用户名。-repo-创建的仓库名称。-admin-GitHub的用户名。-clientID-应用创建后生成。-clientSecret-应用创建后生成。-ValineValine是基于-LeanCloud-https-leancloud-cn-实现的评论系统，小清新风格。-Valine演示-https-pic-izhaoo-com-2020111980022-jpg-首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Comment-，访问权限为-所有用户-，写入权限为-限制写入-。在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-valine用于设置Valine评论系统。-yml-Valinevaline-appId-appKey-placeholder-雁过留痕-avatar-mp-pageSize-10-lang-zh-CN-enable-开启-关闭-Valine。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-placeholder-未输入评论时的占位文字。-mp-默认头像，参考-Valine头像设置-https-valine-js-org-avatar-html-。-pageSize-每页评论数量。-lang-系统语言。-gt-Valine-https-valine-js-org-畅言-畅言-是搜狐家的评论系统，优点是支持-QQ、手机、邮箱等多种登录方式，接地气；个人感觉UI不是我的菜。-畅言演示-https-pic-izhaoo-com-2020111984224-jpg-在-畅言-http-changyan-kuaizhan-com-注册账号，进入后台创建一个站点，在【后台总览】记录一下APP-ID和APP-KEY。配置项-changyan用于设置畅言评论。-yml-ChangYanchangyan-appId-conf-appId-生成的-APP-ID。-conf-生成的-APP-KEY。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。-客户沟通-DaoVoice-DaoVoice-http-www-daovoice-io-是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。-DaoVoice演示-https-pic-izhaoo-com-20200808141245-jpg-因为官方的-Fab按钮-和-主题Fab按钮会重叠，所以作者同学把他集成到主题Fab中了。-官网Fab-https-pic-izhaoo-com-20200808141349-jpg-主题Fab-https-pic-izhaoo-com-20200808141304-jpg-首先在-DaoVoice-http-dashboard-daovoice-io-官网上注册一个账号。在【安装应用】页面，复制app-id。-appid-https-pic-izhaoo-com-20200808135815-jpg-配置项-daovoice配置应用。-yml-Daovoicedaovoice-enable-true-appId-abcdefg-你的-app-id-enable-开启-关闭-DaoVoice。-appId-填写之前复制的-app-id。点击-Fab中的-消息图标-即可打开。-意见反馈平台-腾讯兔小巢-腾讯兔小巢-https-txc-qq-com-是一款用户意见反馈平台。首先在-腾讯兔小巢-https-txc-qq-com-官网上注册一个产品，在-产品设置-https-txc-qq-com-dashboard-products-中复制ID。配置项-tencentChao用于配置兔小巢。-yml-Tencent-ChaotencentChao-enable-false-appId-app-id-enable-开启-关闭-兔小巢。-appId-填写之前复制的-ID。-页面统计-LeanCloud-LeanCloud-是一款-ServerLess服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Counter-，访问权限为-所有用户-，写入权限为-限制写入-，如下：-创建LeanCloud-https-pic-izhaoo-com-202011194911-jpg-在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-leancloud用于设置LeanCloud。-yml-LeanCloudleancloud-enable-true-appId-appKey-serverURLs-https-leancloud-cn-enable-开启-关闭-LeanCloud。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-serverURLs-服务路径不用改，保持-https-leancloud-cn-就可以了。-图片懒加载-LazyLoad-配置项-lazyload-用于配置图片懒加载。yml-Lazyloadlazyload-enable-true-only-post-false-loading-images-theme-loading-gif-enable-开启-x2F-关闭-图片懒加载。-onlyPost-只对对文章中的图片开启懒加载功能。-loading-加载动画，默认是开启-placeholder（占位图）-的，可以在网上下载喜欢的动图，填写-图片URL-即可。-图片灯箱-FancyBox-配置项-FancyBox-用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。ymlfancybox-true-无刷新加载-PJAX-配置项-pjax-用于设置无刷新加载，开启后让你的博客嗖嗖嗖-96-96-96-ymlpjax-truetips-该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。-代码高亮-HighLight-在-博客配置-中开启代码高亮效果：ymlhighlight-enable-true-启用代码高亮效果-line-number-true-auto-detect-true-hljs-true-tab-replace-配置项-highlight-用于设置代码高亮效果。yml-HighLighthighlight-enable-true-style-https-highlightjs-org-static-demo-light-Xcode-dark-Solarized-Dark-enable-开启-关闭-代码高亮。-style-gt-light-浅色模式-时的高亮样式。-style-gt-dark-深色模式-时的高亮样式。可以到-官网-https-highlightjs-org-static-demo-预览高亮效果，填写样式名称即可。-SEO配置项-seo-用于设置-SEO（网站关键词优化）功能。yml-SEOseo-baidu-auto-push-true-baidu-auto-push-开启-百度站长平台-https-ziyuan-baidu-com-linksubmit-index-链接自动推送功能。-网页统计配置项-analytics-用于设置网站统计。yml-Analyticsanalytics-baidu-id-google-id-tencent-id-cnzz-id-baidu-百度统计-https-tongji-baidu-com-web-welcome-login-google-谷歌统计-https-analytics-google-com-analytics-web-tencent-腾讯分析-https-ta-qq-com-cnzz-友盟统计-https-www-umeng-com-web-在对应的数据统计官网注册网站应用，复制对应的-id-填写即可。-脚本配置-CDN对于外部静态文件（CSS-或-JS），可以使用第三方-CDN-库进行优化加速。配置项-vendors-用于设置静态库引入位置，直接输入-URL-即可。您可以保持默认配置（BootCDN）-留空则从本地引入。ymlvendors-jquery-js-https-cdn-bootcss-com-jquery-3-4-1-jquery-min-js-fancybox-js-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-js-pjax-js-https-cdn-bootcss-com-jquery-pjax-2-0-1-jquery-pjax-min-js-lazyload-js-https-cdn-bootcdn-net-ajax-libs-jquery-lazyload-1-9-1-jquery-lazyload-min-js-fancybox-css-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-css-highlight-css-https-cdn-bootcss-com-highlight-js-9-18-1-styles-xcode-min-css-iconfont-css-x2F-x2F-at-alicdn-com-x2F-t-x2F-font-1445822-58xq2j9v1id-css-脚本埋点有时候我们需要埋入一些第三方脚本，例如-百度统计-、-百度SEO-等，主题在-头部-和-尾部-分别开放了埋点入口，通过配置项-custom-进行配置。yml-Customcustom-head-foot-css-js-96-96-96-head-引入头部的代码。-foot-引入尾部的代码。-css-外部引入的-CSS-链接。-js-外部引入的-JS-链接。"><a href="#加载动画-Loading-配置项-loading-可设置载入动画，会在-页面跳转、懒加载-时加载，目前仅支持图片形式。yml-Loadingloading-images-theme-loading-gif建议使用-gif-动图，可在-LottieFiles-下载。tips-未来将支持自定义-css、svg-等多种方式的载入动画，敬请期待。-欢迎页面配置项-preview-中的一些列配置可自定义欢迎页面。yml-Previewpreview-enable-true-model-wave-wave-cloud-background-type-image-image-video-default-image-light-images-theme-welcome-image-jpg-dark-images-theme-welcome-image-jpg-video-api-https-source-unsplash-com-random-1920x1080-size-cover-css-background-size-position-center-css-background-position-motto-default-我在开了灯的床头下，想问问自己的心啊。-api-https-v1-hitokoto-cn-encode-text-amp-c-j-color-39-ffffff-39-enable-用来-开启-x2F-关闭-欢迎页面。-效果模式-model-设置效果模式，有-波浪（wave）-和-云层（cloud）-两种模式可选择。-欢迎图片配置项-background-用来设置欢迎图片，其中：-type-图片或视频。-default-image-配置静态图片，填写静态图片-URL-即可。开启-深色模式-后支持配置-深色-x2F-浅色-两种模式下的背景图片。-video-配置动态视频，填写视频-URL-即可。-api-配置随机图片，可使用第三方-API，优先级-随机图片（api）-gt-静态图片（default）。推荐-API：Unsplash、必应图片。-size-和-position-设置图片的-尺寸-和-位置，参考-CSS-中的属性即可。-格言配置项-motto-用来设置格言，其中：-default-配置静态格言，填写格言文本即可。-api-配置随机格言，可使用第三方-API，优先级-随机格言（api）-gt-静态格言（default）。推荐-API：一言、今日诗词。-color-配置文字颜色。-全局搜索前置条件：需要开启头部导航，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装-hexo-generator-searchdb-插件提供支持。安装-hexo-generator-searchdb-插件：bash-npm-install-hexo-generator-searchdb-save开启插件，在-博客配置-下新增：ymlsearch-path-search-xml-索引生成路径（需要设置绝对路径，否则二级页面读不到）-field-post-post-page-all-format-html-只支持-html-类型-content-true-是否包含正文内容-版权信息配置项-copyright-用来设置页面底部显示的网站版权信息，填写-文本内容-或-HTML-即可。yml-Copyrightcopyright-lt-p-gt-Powered-by-lt-a-target-quot-blank-quot-href-quot-https-hexo-io-quot-gt-Hexo-lt-a-gt-Theme-lt-a-target-quot-blank-quot-href-quot-https-github-com-izhaoo-hexo-theme-zhaoo-quot-gt-zhaoo-lt-a-gt-lt-p-gt-社交链接配置项-social-用来配置社交链接，在页面底部以-Icon-图标的形式展示，点击即可链接第三方平台。yml-Socialsocial-qq-tencent-message-Menu-yes-amp-uin-894519210-iconQQ-39-12B7F5-39-wechat-javascript-iconwechat-fill-39-09BB07-39-instagram-https-www-instagram-com-izhaoo-iconinstagram-39-DA2E76-39-github-https-github-com-izhaoo-icongithub-fill-39-24292E-39-email-mailto-izhaoo-163-com-iconmail配置内容分为三部分，以-划分。第一部分是-社交链接-，第二部分是-图标样式（IconFont）-，第三部分是-选中颜色（hover）。-右下角按钮-Fab-配置项-fab-用于配置右下角的按钮。yml-Fab-Float-Action-Button-fab-enable-true-always-show-false-enable-设置-开启-x2F-关闭-按钮。-always-show-设置-一直显示-x2F-过渡隐藏-按钮。-二维码配置项-qrcode-用来设置-二维码，开启后点击-导航栏-左侧的图标即可显示。yml-QR-Codeqrcode-enable-true-type-image-url-image-image-https-pic-izhaoo-com-weapp-code-jpg-enable-设置-开启-x2F-关闭-二维码功能。-type-设置二维码模式，有两种模式可选。url-显示当前文章链接生成的二维码；image-显示固定的二维码图片（如小程序码等）。-image-选择-image-模式时需要指定图片链接。-深色模式配置项-color-mode-用来配置-深色模式。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击-导航栏-左侧的图标手动切换颜色模式，系统会暂存用户选择状态。yml-Color-Modecolor-mode-enable-true-enable-开启-x2F-关闭-深色模式。深色模式-x2F-浅色模式-的颜色可以参考-主题颜色-设置。-哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项-gray-设置。yml-Gray-Mourning-Mode-gray-enable-true-开启哀悼模式-enable-开启-x2F-关闭-哀悼模式。-文章配置-文章封面-单独封面可以为每篇文章设置单独的文章封面图片，在文章-Front-matter-中添加-image-字段设置图片。若使用图床，直接添加图片文件的-完整URL-即可：markdown-title-zhaoo-主题文档image-https-pic-izhaoo-com-20200421200902-jpg-设置图床图片-若将图片储存在本地，现将图片文件复制到主题-zhaoo-source-images-下，再添加-相对URL-即可：markdown-title-zhaoo-主题使用文档image-images-20200421200902-jpg-设置本地图片-默认封面配置项-post-image-设置配置文章默认封面，就不用为每篇文章单独设置封面了：yml-Post-Imagepost-image-random-galleries-local-galleries-default-images-theme-post-image-jpg-random-设置随机封面，有-galleries（相册图库）-和-local（本地图库）-两种模式。开启-相册-功能后会自动调取相册中的图片；本地图库需要新建-data-local-images-json-文件，填写图片-URL-列表即可。-default-未设置随机封面时启用-默认封面，填写图片-URL-即可。json-local-images-json-quot-https-pic-izhaoo-com-2014031601-jpg-quot-quot-https-pic-izhaoo-com-2017071602-jpg-quot-quot-https-pic-izhaoo-com-2017071603-jpg-quot-quot-https-pic-izhaoo-com-2017072104-jpg-quot-quot-https-pic-izhaoo-com-2017072705-jpg-quot-quot-https-pic-izhaoo-com-20200421201200-jpg-quot-quot-https-pic-izhaoo-com-20200305030152-jpg-quot-quot-https-pic-izhaoo-com-20191211065241-jpg-quot-quot-https-pic-izhaoo-com-20200228081718-jpg-quot-quot-https-pic-izhaoo-com-20191211065844-jpg-quot-quot-https-pic-izhaoo-com-20200718151924-jpg-quot-quot-https-pic-izhaoo-com-20200718152003-jpg-quot-quot-https-pic-izhaoo-com-20200718152045-jpg-quot-quot-https-pic-izhaoo-com-20200718152122-jpg-quot-quot-https-pic-izhaoo-com-20200718151427-jpg-quot-关键词在文章-Front-matter-中添加-keywords-字段设置关键词：markdowntitle-zhaoo-主题使用文档keywords-hexo-theme-zhaoo-hexo-主题-使用文档-document配置项-keywords-为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：ymlkeywords-hexo-theme-zhaoo-hexo-文章尺寸配置项-post-page-size-用于设置文章内容主体部分的相关尺寸。yml-Page-Sizepost-page-size-width-800px-width-设置内容宽度。tips-受外部元素的限制，实际尺寸-由计算后得出，不能保证与-设定尺寸-完全相等，只能保证接近该尺寸。-图片标注配置项-caption-用于设置-图片标注，开启后会在文章图片下方生成标注。yml-Captioncaption-enable-true-enable-开启-x2F-关闭-图片标注。-文章目录配置项-toc-用于设置-文章目录，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。yml-TOCtoc-enable-true-min-depth-1-max-depth-3-enable-开启-x2F-关闭-文章目录。-min-depth-max-depth-全局开启-文章目录-后，可以在文章-Front-matter-中添加-toc-字段单独控制该文章是否展示文章目录。markdown-title-zhaoo-主题文档toc-false-关闭文章目录-打赏二维码配置项-donate-用于设置-打赏二维码，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧yml-Donatedonate-enable-true-alipay-https-pic-izhaoo-com-alipay-jpg-wechat-https-pic-izhaoo-com-wechat-jpg-enable-开启-x2F-关闭-打赏二维码。-alipay-支付宝收款二维码，填写图片-URL。-wechat-微信收款二维码，填写图片-URL。-文章版权配置项-post-copyright-用于设置-文章版权，开启后可在文章下方展示版权信息。yml-Copyrightpost-copyright-enable-true-enable-开启-x2F-关闭-文章版权信息。全局开启-文章版权-后，可以在文章-Front-matter-中添加-copyright-字段单独控制该文章是否展示文章版权。markdown-title-zhaoo-主题文档copyright-false-关闭文章版权-文章搬运配置项-carrier-用于开启-文章搬运-功能，方便博主们全文“借鉴”文章，效果如下：前置条件：全局开启-文章版权yml-Carriercarrier-enable-true-type-markdown-markdown-html-text-enable-开启-x2F-关闭-文章搬运。-type-搬运模式，可选择一键复制-markdown、html、text-格式的文章。-gt-Hexo-开发文章搬运功能-文章置顶找到-node-modules-hexo-generator-index-lib-generator-js-文件，替换成如下代码：javascript-39-use-strict-39-var-pagination-require-39-hexo-pagination-39-module-exports-function-locals-var-config-this-config-var-posts-locals-posts-posts-data-posts-data-sort-function-a-b-if-a-top-amp-amp-b-top-if-a-top-b-top-return-b-date-a-date-else-return-b-top-a-top-else-if-a-top-amp-amp-b-top-return-1-else-if-a-top-amp-amp-b-top-return-1-else-return-b-date-a-date-var-paginationDir-config-pagination-dir-39-page-39-return-pagination-39-39-posts-perPage-config-index-generator-per-page-layout-39-index-39-39-archive-39-format-paginationDir-39-d-39-data-index-true-在文章的-Front-matter-中添加-top-字段，指定数值。数值越大，显示越靠前。markdown-title-zhaoo-主题使用文档top-10-添加该字段-数学公式-MathJax-gt-hexo-filter-mathjax-ssr以-svg-的形式渲染数学公式，兼容性较好，推荐使用。安装-MathJax-插件依赖：bash-npm-install-hexo-filter-mathjax-ssr-save开启插件，在-博客配置-下新增：ymlmathjax-inlineQuote-39-39-39-39-blockQuote-39-39-39-39-KaTex-gt-hexo-katex以-HTML-标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎-hexo-renderer-pandoc：bash-npm-install-hexo-renderer-pandoc-save安装-KaTex-插件依赖：bash-npm-install-hexo-katex-save开启插件，在-博客配置-下新增：ymlpandoc-mathEngine-katex-页面配置-相册页面-gt-【瀑布流风格相册】由-AmiKara-友情贡献执行以下命令创建相册页面，会在-source-目录生成-galleries-index-md-文件：bash-hexo-new-page-galleries-创建相册页面打开-source-galleries-index-md-文件，设置-Front-matter-，开启相册页面：markdown-title-相册layout-quot-galleries-quot-参考-导航菜单-设置相册页面的导航：ymlmenu-galleries-galleries-相册配置项-galleries-用于开启相册功能：ymlgalleries-enable-true-title-相册-subtitle-Galleries-type-waterfull-waterful-grid-columns-3-enable-开启-x2F-关闭-相册功能。-title-相册分类页面标题。-subtitle-相册分类页面副标题。-type-相册显示风格，有-瀑布流-和-正方形-两种形式。-columns-相册列数。在-data-目录下新建-galleries-json-文件，创建相册分类目录及图片内容：json-quot-name-quot-quot-colorful-quot-相册名称-quot-cover-quot-quot-images-theme-post-image-jpg-quot-相册封面-quot-description-quot-quot-君未看花时，花与君同寂；君来看花日，花色一时明。-quot-相册介绍-quot-photos-quot-图片内容-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-name-quot-quot-记事-quot-quot-cover-quot-quot-images-theme-post-image-jpg-quot-quot-description-quot-quot-翻开随身携带的记事本，写着许多事都是关于你。-quot-quot-photos-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-在-source-galleries-目录下-新建文件夹-，命名需要和-json-中的-name-字段对应，例如：colorful、记事。-在文件夹下新建-index-md-文件，内容如下：markdown-title-记事-名称也需要对应layout-quot-gallery-quot-步骤可能有点难以理解，最后放几张截图，比较直观：也可以参考-example-source-中的相关栗子。-归档页面参考-导航菜单-设置归档页面的导航，系统会按文章创建时间自动归档。ymlmenu-archives-archives-归档-标签页面执行以下命令创建标签页面，会在-source-目录生成-tags-index-md-文件：bash-hexo-new-page-tags-创建标签页面打开-source-tags-index-md-文件，设置-Front-matter-，开启标签页面：markdown-title-标签type-quot-tags-quot-layout-quot-tags-quot-参考-导航菜单-设置标签页面的导航：ymlmenu-tags-tags-标签创建文章时，在文章的-Front-matter-中使用-tags-字段添加标签即可：markdown-title-zhaoo-主题使用文档tags-Hexo-主题-设置标签-分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在-source-目录生成-categories-index-md-文件：bash-hexo-new-page-categories-创建分类页面打开-source-categories-index-md-文件，设置-Front-matter-，开启分类页面：markdown-title-标签type-quot-categories-quot-layout-quot-categories-quot-参考-导航菜单-设置分类页面的导航：ymlmenu-categories-categories-分类创建文章时，在文章的-Front-matter-中使用-categories-字段添加标签即可：markdown-title-zhaoo-主题使用文档categories-设置分类-项目-博客-关于页面执行以下命令创建关于页面，会在-source-目录生成-about-index-md-文件：bash-hexo-new-page-about-创建关于页面打开-source-about-index-md-文件，设置-Front-matter-，开启关于页面：markdown-title-标签type-quot-about-quot-layout-quot-about-quot-参考-导航菜单-设置关于页面的导航：ymlmenu-about-about-关于在-source-about-index-md-中编写关于内容，如同写文章一样。tips-建议在-关于页面-关闭-文章目录-和-文章版权-功能，在-Front-matter-中添加-toc-和-copyright-字段都设置为-false-即可。-插件配置-评论系统配置项-comments-用于配置评论系统，目前支持-Gitalk、Valine、畅言-三种评论系统。yml-Commentcomments-enable-true-type-valine-button-true-enable-开启-x2F-关闭-评论功能。-type-开启哪种评论系统，需要配置对应的评论系统。（参考下文）-button-显示-x2F-隐藏-评论按钮，隐藏按钮后将直接展示评论。-GitalkGitalk-基于-GitHub-存储评论内容，优点是支持-GitHub-直接登录；缺点是需要-科学上网-才能访问，水土不服。首先需要在-GitHub-创建一个仓库，如有-GitHub-Pages-也可以共用一个仓库。接着创建一个-Github-Application，填写相应的参数。创建完成后会生成-clientID-和-clientSecret，记录一下。配置项-gitalk-用于配置-Gitalk。-yml-Gitalkgitalk-owner-repo-admin-clientID-clientSecret-owner-GitHub的用户名。-repo-创建的仓库名称。-admin-GitHub的用户名。-clientID-应用创建后生成。-clientSecret-应用创建后生成。-ValineValine是基于-LeanCloud-https-leancloud-cn-实现的评论系统，小清新风格。-Valine演示-https-pic-izhaoo-com-2020111980022-jpg-首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Comment-，访问权限为-所有用户-，写入权限为-限制写入-。在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-valine用于设置Valine评论系统。-yml-Valinevaline-appId-appKey-placeholder-雁过留痕-avatar-mp-pageSize-10-lang-zh-CN-enable-开启-关闭-Valine。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-placeholder-未输入评论时的占位文字。-mp-默认头像，参考-Valine头像设置-https-valine-js-org-avatar-html-。-pageSize-每页评论数量。-lang-系统语言。-gt-Valine-https-valine-js-org-畅言-畅言-是搜狐家的评论系统，优点是支持-QQ、手机、邮箱等多种登录方式，接地气；个人感觉UI不是我的菜。-畅言演示-https-pic-izhaoo-com-2020111984224-jpg-在-畅言-http-changyan-kuaizhan-com-注册账号，进入后台创建一个站点，在【后台总览】记录一下APP-ID和APP-KEY。配置项-changyan用于设置畅言评论。-yml-ChangYanchangyan-appId-conf-appId-生成的-APP-ID。-conf-生成的-APP-KEY。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。-客户沟通-DaoVoice-DaoVoice-http-www-daovoice-io-是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。-DaoVoice演示-https-pic-izhaoo-com-20200808141245-jpg-因为官方的-Fab按钮-和-主题Fab按钮会重叠，所以作者同学把他集成到主题Fab中了。-官网Fab-https-pic-izhaoo-com-20200808141349-jpg-主题Fab-https-pic-izhaoo-com-20200808141304-jpg-首先在-DaoVoice-http-dashboard-daovoice-io-官网上注册一个账号。在【安装应用】页面，复制app-id。-appid-https-pic-izhaoo-com-20200808135815-jpg-配置项-daovoice配置应用。-yml-Daovoicedaovoice-enable-true-appId-abcdefg-你的-app-id-enable-开启-关闭-DaoVoice。-appId-填写之前复制的-app-id。点击-Fab中的-消息图标-即可打开。-意见反馈平台-腾讯兔小巢-腾讯兔小巢-https-txc-qq-com-是一款用户意见反馈平台。首先在-腾讯兔小巢-https-txc-qq-com-官网上注册一个产品，在-产品设置-https-txc-qq-com-dashboard-products-中复制ID。配置项-tencentChao用于配置兔小巢。-yml-Tencent-ChaotencentChao-enable-false-appId-app-id-enable-开启-关闭-兔小巢。-appId-填写之前复制的-ID。-页面统计-LeanCloud-LeanCloud-是一款-ServerLess服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Counter-，访问权限为-所有用户-，写入权限为-限制写入-，如下：-创建LeanCloud-https-pic-izhaoo-com-202011194911-jpg-在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-leancloud用于设置LeanCloud。-yml-LeanCloudleancloud-enable-true-appId-appKey-serverURLs-https-leancloud-cn-enable-开启-关闭-LeanCloud。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-serverURLs-服务路径不用改，保持-https-leancloud-cn-就可以了。-图片懒加载-LazyLoad-配置项-lazyload-用于配置图片懒加载。yml-Lazyloadlazyload-enable-true-only-post-false-loading-images-theme-loading-gif-enable-开启-x2F-关闭-图片懒加载。-onlyPost-只对对文章中的图片开启懒加载功能。-loading-加载动画，默认是开启-placeholder（占位图）-的，可以在网上下载喜欢的动图，填写-图片URL-即可。-图片灯箱-FancyBox-配置项-FancyBox-用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。ymlfancybox-true-无刷新加载-PJAX-配置项-pjax-用于设置无刷新加载，开启后让你的博客嗖嗖嗖-96-96-96-ymlpjax-truetips-该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。-代码高亮-HighLight-在-博客配置-中开启代码高亮效果：ymlhighlight-enable-true-启用代码高亮效果-line-number-true-auto-detect-true-hljs-true-tab-replace-配置项-highlight-用于设置代码高亮效果。yml-HighLighthighlight-enable-true-style-https-highlightjs-org-static-demo-light-Xcode-dark-Solarized-Dark-enable-开启-关闭-代码高亮。-style-gt-light-浅色模式-时的高亮样式。-style-gt-dark-深色模式-时的高亮样式。可以到-官网-https-highlightjs-org-static-demo-预览高亮效果，填写样式名称即可。-SEO配置项-seo-用于设置-SEO（网站关键词优化）功能。yml-SEOseo-baidu-auto-push-true-baidu-auto-push-开启-百度站长平台-https-ziyuan-baidu-com-linksubmit-index-链接自动推送功能。-网页统计配置项-analytics-用于设置网站统计。yml-Analyticsanalytics-baidu-id-google-id-tencent-id-cnzz-id-baidu-百度统计-https-tongji-baidu-com-web-welcome-login-google-谷歌统计-https-analytics-google-com-analytics-web-tencent-腾讯分析-https-ta-qq-com-cnzz-友盟统计-https-www-umeng-com-web-在对应的数据统计官网注册网站应用，复制对应的-id-填写即可。-脚本配置-CDN对于外部静态文件（CSS-或-JS），可以使用第三方-CDN-库进行优化加速。配置项-vendors-用于设置静态库引入位置，直接输入-URL-即可。您可以保持默认配置（BootCDN）-留空则从本地引入。ymlvendors-jquery-js-https-cdn-bootcss-com-jquery-3-4-1-jquery-min-js-fancybox-js-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-js-pjax-js-https-cdn-bootcss-com-jquery-pjax-2-0-1-jquery-pjax-min-js-lazyload-js-https-cdn-bootcdn-net-ajax-libs-jquery-lazyload-1-9-1-jquery-lazyload-min-js-fancybox-css-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-css-highlight-css-https-cdn-bootcss-com-highlight-js-9-18-1-styles-xcode-min-css-iconfont-css-x2F-x2F-at-alicdn-com-x2F-t-x2F-font-1445822-58xq2j9v1id-css-脚本埋点有时候我们需要埋入一些第三方脚本，例如-百度统计-、-百度SEO-等，主题在-头部-和-尾部-分别开放了埋点入口，通过配置项-custom-进行配置。yml-Customcustom-head-foot-css-js-96-96-96-head-引入头部的代码。-foot-引入尾部的代码。-css-外部引入的-CSS-链接。-js-外部引入的-JS-链接。" class="headerlink" title="加载动画 (Loading)配置项 loading 可设置载入动画，会在 页面跳转、懒加载 时加载，目前仅支持图片形式。yml# Loadingloading: /images/theme/loading.gif建议使用 gif 动图，可在 LottieFiles 下载。tips: 未来将支持自定义 css、svg 等多种方式的载入动画，敬请期待。### 欢迎页面配置项 preview 中的一些列配置可自定义欢迎页面。yml# Previewpreview:  enable: true  model: wave # wave cloud  background:     type: image # image video    default_image:      light: /images/theme/welcome-image.jpg      dark: /images/theme/welcome-image.jpg    video:    api: # https://source.unsplash.com/random/1920x1080    size: cover # css: background-size    position: center # css: background-position  motto:    default: 我在开了灯的床头下，想问问自己的心啊。    api: https://v1.hitokoto.cn/?encode=text&amp;c=j    color: &#39;#ffffff&#39;* enable: 用来 开启 &#x2F; 关闭 欢迎页面。#### 效果模式* model: 设置效果模式，有 波浪（wave） 和 云层（cloud） 两种模式可选择。#### 欢迎图片配置项 background 用来设置欢迎图片，其中： type: 图片或视频。* default_image: 配置静态图片，填写静态图片 URL 即可。开启 深色模式 后支持配置 深色&#x2F;浅色 两种模式下的背景图片。* video: 配置动态视频，填写视频 URL 即可。* api: 配置随机图片，可使用第三方 API，优先级 随机图片（api） &gt; 静态图片（default）。推荐 API：Unsplash、必应图片。* size 和 position: 设置图片的 尺寸 和 位置，参考 CSS 中的属性即可。#### 格言配置项 motto 用来设置格言，其中：* default: 配置静态格言，填写格言文本即可。* api: 配置随机格言，可使用第三方 API，优先级 随机格言（api） &gt; 静态格言（default）。推荐 API：一言、今日诗词。* color 配置文字颜色。### 全局搜索前置条件：需要开启头部导航，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装 hexo-generator-searchdb 插件提供支持。安装 hexo-generator-searchdb 插件：bash$ npm install hexo-generator-searchdb --save开启插件，在 博客配置 下新增：ymlsearch:  path: /search.xml  # 索引生成路径（需要设置绝对路径，否则二级页面读不到）  field: post  # post page all  format: html  # 只支持 html 类型  content: true  # 是否包含正文内容### 版权信息配置项 copyright 用来设置页面底部显示的网站版权信息，填写 文本内容 或 HTML 即可。yml# Copyrightcopyright: &lt;p&gt;Powered by &lt;a target=&quot;_blank&quot; href=&quot;https://hexo.io&quot;&gt;Hexo&lt;/a&gt;  |  Theme - &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/izhaoo/hexo-theme-zhaoo&quot;&gt;zhaoo&lt;/a&gt;&lt;/p&gt;### 社交链接配置项 social 用来配置社交链接，在页面底部以 Icon 图标的形式展示，点击即可链接第三方平台。yml# Socialsocial:  qq: tencent://message/?Menu=yes&amp;uin=894519210 || iconQQ || &#39;#12B7F5&#39;  wechat: javascript:; || iconwechat-fill || &#39;#09BB07&#39;  instagram: https://www.instagram.com/izhaoo/ || iconinstagram || &#39;#DA2E76&#39;  github: https://github.com/izhaoo || icongithub-fill || &#39;#24292E&#39;  email: mailto:izhaoo@163.com || iconmail配置内容分为三部分，以 || 划分。第一部分是 社交链接 ，第二部分是 图标样式（IconFont） ，第三部分是 选中颜色（hover）。### 右下角按钮 (Fab)配置项 fab 用于配置右下角的按钮。yml# Fab (Float Action Button)fab:  enable: true  always_show: false* enable: 设置 开启 &#x2F; 关闭 按钮。* always_show: 设置 一直显示 &#x2F; 过渡隐藏 按钮。### 二维码配置项 qrcode 用来设置 二维码，开启后点击 导航栏 左侧的图标即可显示。yml# QR Codeqrcode:  enable: true  type: image # url image  image: https://pic.izhaoo.com/weapp-code.jpg* enable: 设置 开启 &#x2F; 关闭 二维码功能。* type: 设置二维码模式，有两种模式可选。url 显示当前文章链接生成的二维码；image 显示固定的二维码图片（如小程序码等）。* image: 选择 image 模式时需要指定图片链接。### 深色模式配置项 color_mode 用来配置 深色模式。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击 导航栏 左侧的图标手动切换颜色模式，系统会暂存用户选择状态。yml# Color Modecolor_mode:  enable: true* enable: 开启 &#x2F; 关闭 深色模式。深色模式 &#x2F; 浅色模式 的颜色可以参考 主题颜色 设置。### 哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项 gray 设置。yml# Gray (Mourning Mode)gray:  enable: true  #开启哀悼模式* enable: 开启 &#x2F; 关闭 哀悼模式。## 文章配置### 文章封面#### 单独封面可以为每篇文章设置单独的文章封面图片，在文章 Front-matter 中添加 image 字段设置图片。若使用图床，直接添加图片文件的 完整URL 即可：markdown---title: zhaoo - 主题文档image: https://pic.izhaoo.com/20200421200902.jpg  #设置图床图片---若将图片储存在本地，现将图片文件复制到主题 ~/zhaoo/source/images 下，再添加 相对URL 即可：markdown---title: zhaoo - 主题使用文档image: /images/20200421200902.jpg  #设置本地图片---#### 默认封面配置项 post_image 设置配置文章默认封面，就不用为每篇文章单独设置封面了：yml# Post Imagepost_image:  random: galleries # local galleries  default: /images/theme/post-image.jpg* random: 设置随机封面，有 galleries（相册图库） 和 local（本地图库）  两种模式。开启 相册 功能后会自动调取相册中的图片；本地图库需要新建 /_data/local_images.json 文件，填写图片 URL 列表即可。* default: 未设置随机封面时启用 默认封面，填写图片 URL 即可。json// local_images.json[  &quot;https://pic.izhaoo.com/2014031601.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071602.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071603.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072104.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072705.jpg&quot;,  &quot;https://pic.izhaoo.com/20200421201200.jpg&quot;,  &quot;https://pic.izhaoo.com/20200305030152.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065241.jpg&quot;,  &quot;https://pic.izhaoo.com/20200228081718.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065844.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151924.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152003.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152045.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152122.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151427.jpg&quot;]### 关键词在文章 Front-matter 中添加 keywords 字段设置关键词：markdowntitle: zhaoo - 主题使用文档keywords: hexo-theme-zhaoo, hexo, 主题, 使用文档, document配置项 keywords 为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：ymlkeywords: hexo-theme-zhaoo, hexo### 文章尺寸配置项 post_page_size 用于设置文章内容主体部分的相关尺寸。yml# Page Sizepost_page_size:  width: 800px* width: 设置内容宽度。tips: 受外部元素的限制，实际尺寸 由计算后得出，不能保证与 设定尺寸 完全相等，只能保证接近该尺寸。### 图片标注配置项 caption 用于设置 图片标注，开启后会在文章图片下方生成标注。yml# Captioncaption:  enable: true* enable: 开启 &#x2F; 关闭 图片标注。### 文章目录配置项 toc 用于设置 文章目录，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。yml# TOCtoc:  enable: true  min_depth: 1  max_depth: 3* enable: 开启 &#x2F; 关闭 文章目录。* min_depth:* max_depth:全局开启 文章目录 后，可以在文章 Front-matter 中添加 toc 字段单独控制该文章是否展示文章目录。markdown---title: zhaoo - 主题文档toc: false # 关闭文章目录---### 打赏二维码配置项 donate 用于设置 打赏二维码，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧yml# Donatedonate:  enable: true  alipay: https://pic.izhaoo.com/alipay.jpg  wechat: https://pic.izhaoo.com/wechat.jpg* enable: 开启 &#x2F; 关闭 打赏二维码。* alipay: 支付宝收款二维码，填写图片 URL。* wechat: 微信收款二维码，填写图片 URL。### 文章版权配置项 post_copyright 用于设置 文章版权，开启后可在文章下方展示版权信息。yml# Copyrightpost_copyright:  enable: true* enable: 开启 &#x2F; 关闭 文章版权信息。全局开启 文章版权 后，可以在文章 Front-matter 中添加 copyright 字段单独控制该文章是否展示文章版权。markdown---title: zhaoo - 主题文档copyright: false # 关闭文章版权---### 文章搬运配置项 carrier 用于开启 文章搬运 功能，方便博主们全文“借鉴”文章，效果如下：前置条件：全局开启 文章版权yml# Carriercarrier:  enable: true  type: markdown # markdown html text* enable: 开启 &#x2F; 关闭 文章搬运。* type: 搬运模式，可选择一键复制 markdown、html、text 格式的文章。&gt; Hexo - 开发文章搬运功能### 文章置顶找到 /node_modules/hexo-generator-index/lib/generator.js 文件，替换成如下代码：javascript&#39;use strict&#39;;var pagination = require(&#39;hexo-pagination&#39;);module.exports = function (locals) {  var config = this.config;  var posts = locals.posts;  posts.data = posts.data.sort(function (a, b) {    if (a.top &amp;&amp; b.top) {      if (a.top == b.top) return b.date - a.date;      else return b.top - a.top;    } else if (a.top &amp;&amp; !b.top) {      return -1;    } else if (!a.top &amp;&amp; b.top) {      return 1;    } else return b.date - a.date;  });  var paginationDir = config.pagination_dir || &#39;page&#39;;  return pagination(&#39;&#39;, posts, {    perPage: config.index_generator.per_page,    layout: [&#39;index&#39;, &#39;archive&#39;],    format: paginationDir + &#39;/%d/&#39;,    data: {      __index: true    }  });};在文章的 Front-matter 中添加 top 字段，指定数值。数值越大，显示越靠前。markdown---title: zhaoo - 主题使用文档top: 10  #添加该字段---### 数学公式#### MathJax&gt; hexo-filter-mathjax-ssr以 svg 的形式渲染数学公式，兼容性较好，推荐使用。安装 MathJax 插件依赖：bash$ npm install hexo-filter-mathjax-ssr --save开启插件，在 博客配置 下新增：ymlmathjax:  inlineQuote: [&#39;\(&#39;, &#39;\)&#39;]  blockQuote: [&#39;\[&#39;, &#39;\]&#39;]#### KaTex&gt; hexo-katex以 HTML 标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎 hexo-renderer-pandoc：bash$ npm install hexo-renderer-pandoc --save安装 KaTex 插件依赖：bash$ npm install hexo-katex --save开启插件，在 博客配置 下新增：ymlpandoc:  mathEngine: katex## 页面配置### 相册页面&gt; 【瀑布流风格相册】由 AmiKara 友情贡献执行以下命令创建相册页面，会在 source 目录生成 galleries/index.md 文件：bash$ hexo new page galleries  #创建相册页面打开 source/galleries/index.md 文件，设置 Front-matter ，开启相册页面：markdown---title: 相册layout: &quot;galleries&quot;---参考 导航菜单 设置相册页面的导航：ymlmenu:  galleries: /galleries || 相册配置项 galleries 用于开启相册功能：ymlgalleries:  enable: true  title: 相册  subtitle: Galleries  type: waterfull # waterful | grid  columns: 3* enable:  开启 &#x2F; 关闭 相册功能。* title: 相册分类页面标题。* subtitle 相册分类页面副标题。* type: 相册显示风格，有 瀑布流 和 正方形 两种形式。* columns: 相册列数。在 /_data 目录下新建 galleries.json 文件，创建相册分类目录及图片内容：json[{  &quot;name&quot;: &quot;colorful&quot;,  //相册名称  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  //相册封面  &quot;description&quot;: &quot;君未看花时，花与君同寂；君来看花日，花色一时明。&quot;,  //相册介绍  &quot;photos&quot;: [  //图片内容    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]}, {  &quot;name&quot;: &quot;记事&quot;,  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  &quot;description&quot;: &quot;翻开随身携带的记事本，写着许多事都是关于你。&quot;,  &quot;photos&quot;: [    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]}]在 /source/galleries/ 目录下 新建文件夹 ，命名需要和 json 中的 name 字段对应，例如：colorful、记事。 在文件夹下新建 index.md 文件，内容如下：markdown---title: 记事  #名称也需要对应layout: &quot;gallery&quot;---步骤可能有点难以理解，最后放几张截图，比较直观：也可以参考 /_example/source 中的相关栗子。### 归档页面参考 导航菜单 设置归档页面的导航，系统会按文章创建时间自动归档。ymlmenu:  archives: /archives || 归档### 标签页面执行以下命令创建标签页面，会在 source 目录生成 tags/index.md 文件：bash$ hexo new page tags  #创建标签页面打开 source/tags/index.md 文件，设置 Front-matter ，开启标签页面：markdown---title: 标签type: &quot;tags&quot;layout: &quot;tags&quot;---参考 导航菜单 设置标签页面的导航：ymlmenu:  tags: /tags || 标签创建文章时，在文章的 Front-matter 中使用 tags 字段添加标签即可：markdown---title: zhaoo - 主题使用文档tags: [Hexo, 主题]  #设置标签---### 分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在 source 目录生成 categories/index.md 文件：bash$ hexo new page categories  #创建分类页面打开 source/categories/index.md 文件，设置 Front-matter ，开启分类页面：markdown---title: 标签type: &quot;categories&quot;layout: &quot;categories&quot;---参考 导航菜单 设置分类页面的导航：ymlmenu:  categories: /categories || 分类创建文章时，在文章的 Front-matter 中使用 categories 字段添加标签即可：markdown---title: zhaoo - 主题使用文档categories:  #设置分类- 项目- 博客---### 关于页面执行以下命令创建关于页面，会在 source 目录生成 about/index.md 文件：bash$ hexo new page about  #创建关于页面打开 source/about/index.md 文件，设置 Front-matter ，开启关于页面：markdown---title: 标签type: &quot;about&quot;layout: &quot;about&quot;---参考 导航菜单 设置关于页面的导航：ymlmenu:  about: /about || 关于在 source/about/index.md 中编写关于内容，如同写文章一样。tips: 建议在 关于页面 关闭 文章目录 和 文章版权 功能，在 Front-matter 中添加 toc 和 copyright 字段都设置为 false 即可。## 插件配置### 评论系统配置项 comments 用于配置评论系统，目前支持 Gitalk、Valine、畅言 三种评论系统。yml# Commentcomments:  enable: true  type: valine  button: true* enable:  开启 &#x2F; 关闭 评论功能。* type: 开启哪种评论系统，需要配置对应的评论系统。（参考下文）* button: 显示 &#x2F; 隐藏 评论按钮，隐藏按钮后将直接展示评论。#### GitalkGitalk 基于 GitHub 存储评论内容，优点是支持 GitHub 直接登录；缺点是需要 科学上网 才能访问，水土不服。首先需要在 GitHub 创建一个仓库，如有 GitHub Pages 也可以共用一个仓库。接着创建一个 Github Application，填写相应的参数。创建完成后会生成 clientID 和 clientSecret，记录一下。配置项 gitalk 用于配置 Gitalk。````yml# Gitalkgitalk:  owner:  repo:  admin:  clientID:  clientSecret:```* owner: GitHub的用户名。*repo: 创建的仓库名称。* admin: GitHub的用户名。*clientID: 应用创建后生成。* clientSecret: 应用创建后生成。#### ValineValine是基于 [LeanCloud](https://leancloud.cn/) 实现的评论系统，小清新风格。![Valine演示](https://pic.izhaoo.com/2020111980022.jpg)首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Comment**，访问权限为 **所有用户**，写入权限为 **限制写入**。在【设置】-&gt;【应用Keys】中复制appId和appKey。配置项 valine用于设置Valine评论系统。```yml# Valinevaline:  appId:  appKey:  placeholder: 雁过留痕  avatar: mp  pageSize: 10  lang: zh-CN```*enable: *开启* / *关闭* Valine。* appId: 填入刚才得到的 appId。* appKey: 填入刚才得到的 appKey。* placeholder: 未输入评论时的占位文字。* mp: 默认头像，参考 [Valine头像设置](https://valine.js.org/avatar.html)。* pageSize: 每页评论数量。* lang: 系统语言。&gt; [Valine](https://valine.js.org/)#### 畅言**畅言** 是搜狐家的评论系统，优点是支持 QQ、手机、邮箱等多种登录方式，接地气；个人感觉UI不是我的菜。 ![畅言演示](https://pic.izhaoo.com/2020111984224.jpg)在 [畅言](http://changyan.kuaizhan.com/) 注册账号，进入后台创建一个站点，在【后台总览】记录一下APP ID和APP KEY。配置项 changyan用于设置畅言评论。```yml# ChangYanchangyan:  appId:  conf:```* appId: 生成的 APP ID。* conf: 生成的 APP KEY。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。### 客户沟通 (DaoVoice)[DaoVoice](http://www.daovoice.io/) 是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。![DaoVoice演示](https://pic.izhaoo.com/20200808141245.jpg)因为官方的 Fab按钮 和 主题Fab按钮会重叠，所以作者同学把他集成到主题Fab中了。![官网Fab](https://pic.izhaoo.com/20200808141349.jpg)![主题Fab](https://pic.izhaoo.com/20200808141304.jpg)首先在 [DaoVoice](http://dashboard.daovoice.io/) 官网上注册一个账号。在【安装应用】页面，复制app_id。![appid](https://pic.izhaoo.com/20200808135815.jpg)配置项 daovoice配置应用。```yml# Daovoicedaovoice:  enable: true  appId: abcdefg  #你的 app_id  ```*enable: *开启* / *关闭* DaoVoice。* appId: 填写之前复制的 app_id。点击 Fab中的 **消息图标** 即可打开。### 意见反馈平台 (腾讯兔小巢)[腾讯兔小巢](https://txc.qq.com/) 是一款用户意见反馈平台。首先在 [腾讯兔小巢](https://txc.qq.com/) 官网上注册一个产品，在 [产品设置](https://txc.qq.com/dashboard/products/) 中复制ID。配置项 tencentChao用于配置兔小巢。```yml# Tencent ChaotencentChao:  enable: false  appId: # app_id```*enable:  *开启* / *关闭* 兔小巢。* appId: 填写之前复制的 ID。### 页面统计 (LeanCloud)**LeanCloud** 是一款 ServerLess服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Counter**，访问权限为 **所有用户**，写入权限为 **限制写入**，如下：![创建LeanCloud](https://pic.izhaoo.com/202011194911.jpg)在【设置】-&gt;【应用Keys】中复制appId和appKey。配置项 leancloud用于设置LeanCloud。```yml# LeanCloudleancloud:  enable: true  appId:  appKey:  serverURLs: https://leancloud.cn/```* enable: *开启* / *关闭* LeanCloud。* appId: 填入刚才得到的 appId。* appKey: 填入刚才得到的 appKey。* serverURLs: 服务路径不用改，保持 https://leancloud.cn/` 就可以了。### 图片懒加载 (LazyLoad)配置项 lazyload 用于配置图片懒加载。yml# Lazyloadlazyload:  enable: true  only_post: false  loading: /images/theme/loading.gif* enable: 开启 &#x2F; 关闭 图片懒加载。* onlyPost: 只对对文章中的图片开启懒加载功能。* loading: 加载动画，默认是开启 placeholder（占位图） 的，可以在网上下载喜欢的动图，填写 图片URL 即可。### 图片灯箱 (FancyBox)配置项 FancyBox 用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。ymlfancybox: true### 无刷新加载 (PJAX)配置项 pjax 用于设置无刷新加载，开启后让你的博客嗖嗖嗖~&#96;&#96;&#96;ymlpjax: truetips: 该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。### 代码高亮 (HighLight)在 **博客配置** 中开启代码高亮效果：ymlhighlight:  enable: true  #启用代码高亮效果  line_number: true  auto_detect: true  hljs: true  tab_replace:配置项 `highlight` 用于设置代码高亮效果。yml# HighLighthighlight:  enable: true  style: # https://highlightjs.org/static/demo/    light: Xcode    dark: Solarized Dark* `enable`: *开启* / *关闭* 代码高亮。* `style -&gt; light`: *浅色模式* 时的高亮样式。* `style -&gt; dark`: *深色模式* 时的高亮样式。可以到 [官网](https://highlightjs.org/static/demo/) 预览高亮效果，填写样式名称即可。### SEO配置项 `seo` 用于设置 SEO（网站关键词优化）功能。yml# SEOseo:  baidu_auto_push: true* `baidu_auto_push`: 开启 [百度站长平台](https://ziyuan.baidu.com/linksubmit/index) 链接自动推送功能。### 网页统计配置项 `analytics` 用于设置网站统计。yml# Analyticsanalytics:  baidu: # id  google: # id  tencent: # id  cnzz: # id* `baidu`: [百度统计](https://tongji.baidu.com/web/welcome/login)* `google`: [谷歌统计](https://analytics.google.com/analytics/web)* `tencent`: [腾讯分析](https://ta.qq.com/#/)* `cnzz`: [友盟统计](https://www.umeng.com/web)在对应的数据统计官网注册网站应用，复制对应的 `id` 填写即可。## 脚本配置### CDN对于外部静态文件（CSS 或 JS），可以使用第三方 `CDN` 库进行优化加速。配置项 `vendors` 用于设置静态库引入位置，直接输入 `URL` 即可。您可以保持默认配置（BootCDN）,留空则从本地引入。ymlvendors:  jquery_js: https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js  fancybox_js: https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js  pjax_js: https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js  lazyload_js: https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js  fancybox_css: https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css  highlight_css: https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css  iconfont_css: &#x2F;&#x2F;at.alicdn.com&#x2F;t&#x2F;font_1445822_58xq2j9v1id.css### 脚本埋点有时候我们需要埋入一些第三方脚本，例如 `百度统计`、`百度SEO` 等，主题在 **头部** 和 **尾部** 分别开放了埋点入口，通过配置项 `custom` 进行配置。yml# Customcustom:  head:  foot:  css:  js:&#96;&#96;&#96;* head: 引入头部的代码。* foot: 引入尾部的代码。* css: 外部引入的 CSS 链接。* js: 外部引入的 JS 链接。"></a>加载动画 (Loading)配置项 <code>loading</code> 可设置载入动画，会在 <em>页面跳转</em>、<em>懒加载</em> 时加载，目前仅支持图片形式。<code>yml# Loadingloading: /images/theme/loading.gif</code>建议使用 <code>gif</code> 动图，可在 <a href="https://lottiefiles.com/">LottieFiles</a> 下载。tips: 未来将支持自定义 <code>css</code>、<code>svg</code> 等多种方式的载入动画，敬请期待。### 欢迎页面配置项 <code>preview</code> 中的一些列配置可自定义欢迎页面。<code>yml# Previewpreview:  enable: true  model: wave # wave cloud  background:     type: image # image video    default_image:      light: /images/theme/welcome-image.jpg      dark: /images/theme/welcome-image.jpg    video:    api: # https://source.unsplash.com/random/1920x1080    size: cover # css: background-size    position: center # css: background-position  motto:    default: 我在开了灯的床头下，想问问自己的心啊。    api: https://v1.hitokoto.cn/?encode=text&amp;c=j    color: &#39;#ffffff&#39;</code>* <code>enable</code>: 用来 <em>开启</em> &#x2F; <em>关闭</em> 欢迎页面。#### 效果模式* <code>model</code>: 设置效果模式，有 <em><strong>波浪（wave）</strong> 和 <strong>云层（cloud）</strong> 两种模式可选择。#### 欢迎图片配置项 <code>background</code> 用来设置欢迎图片，其中：</em> <code>type</code>: 图片或视频。* <code>default_image</code>: 配置静态图片，填写静态图片 <code>URL</code> 即可。开启 <a href="#%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F">深色模式</a> 后支持配置 深色&#x2F;浅色 两种模式下的背景图片。* <code>video</code>: 配置动态视频，填写视频 <code>URL</code> 即可。* <code>api</code>: 配置随机图片，可使用第三方 <code>API</code>，优先级 <em>随机图片（api）</em> &gt; <em>静态图片（default）</em>。推荐 <code>API</code>：<a href="https://source.unsplash.com/random/1920x1080">Unsplash</a>、<a href="https://api.vvhan.com/api/bing?type=sj">必应图片</a>。* <code>size</code> 和 <code>position</code>: 设置图片的 <strong>尺寸</strong> 和 <strong>位置</strong>，参考 <code>CSS</code> 中的属性即可。#### 格言配置项 <code>motto</code> 用来设置格言，其中：* <code>default</code>: 配置静态格言，填写格言文本即可。* <code>api</code>: 配置随机格言，可使用第三方 <code>API</code>，优先级 <em>随机格言（api）</em> &gt; <em>静态格言（default）</em>。推荐 <code>API</code>：<a href="https://hitokoto.cn/">一言</a>、<a href="https://www.jinrishici.com/">今日诗词</a>。* <code>color</code> 配置文字颜色。### 全局搜索前置条件：需要开启<a href="#%E5%A4%B4%E9%83%A8%E5%AF%BC%E8%88%AA">头部导航</a>，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装 <a href="https://github.com/theme-next/hexo-generator-searchdb">hexo-generator-searchdb</a> 插件提供支持。安装 <code>hexo-generator-searchdb</code> 插件：<code>bash$ npm install hexo-generator-searchdb --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlsearch:  path: /search.xml  # 索引生成路径（需要设置绝对路径，否则二级页面读不到）  field: post  # post page all  format: html  # 只支持 html 类型  content: true  # 是否包含正文内容</code>### 版权信息配置项 <code>copyright</code> 用来设置页面底部显示的网站版权信息，填写 <strong>文本内容</strong> 或 <strong>HTML</strong> 即可。<code>yml# Copyrightcopyright: &lt;p&gt;Powered by &lt;a target=&quot;_blank&quot; href=&quot;https://hexo.io&quot;&gt;Hexo&lt;/a&gt;  |  Theme - &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/izhaoo/hexo-theme-zhaoo&quot;&gt;zhaoo&lt;/a&gt;&lt;/p&gt;</code>### 社交链接配置项 <code>social</code> 用来配置社交链接，在页面底部以 <code>Icon</code> 图标的形式展示，点击即可链接第三方平台。<code>yml# Socialsocial:  qq: tencent://message/?Menu=yes&amp;uin=894519210 || iconQQ || &#39;#12B7F5&#39;  wechat: javascript:; || iconwechat-fill || &#39;#09BB07&#39;  instagram: https://www.instagram.com/izhaoo/ || iconinstagram || &#39;#DA2E76&#39;  github: https://github.com/izhaoo || icongithub-fill || &#39;#24292E&#39;  email: mailto:izhaoo@163.com || iconmail</code>配置内容分为三部分，以 <code>||</code> 划分。第一部分是 <em>社交链接</em> ，第二部分是 <em>图标样式（IconFont）</em> ，第三部分是 <em>选中颜色（hover）</em>。### 右下角按钮 (Fab)配置项 <code>fab</code> 用于配置右下角的按钮。<code>yml# Fab (Float Action Button)fab:  enable: true  always_show: false</code>* <code>enable</code>: 设置 <em>开启</em> &#x2F; <em>关闭</em> 按钮。* <code>always_show</code>: 设置 <em>一直显示</em> &#x2F; <em>过渡隐藏</em> 按钮。### 二维码配置项 <code>qrcode</code> 用来设置 <strong>二维码</strong>，开启后点击 <strong>导航栏</strong> 左侧的图标即可显示。<code>yml# QR Codeqrcode:  enable: true  type: image # url image  image: https://pic.izhaoo.com/weapp-code.jpg</code>* <code>enable</code>: 设置 <em>开启</em> &#x2F; <em>关闭</em> 二维码功能。* <code>type</code>: 设置二维码模式，有两种模式可选。<code>url</code> 显示当前文章链接生成的二维码；<code>image</code> 显示固定的二维码图片（如小程序码等）。* <code>image</code>: 选择 <code>image</code> 模式时需要指定图片链接。### 深色模式配置项 <code>color_mode</code> 用来配置 <strong>深色模式</strong>。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击 <strong>导航栏</strong> 左侧的图标手动切换颜色模式，系统会暂存用户选择状态。<code>yml# Color Modecolor_mode:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 深色模式。<em>深色模式</em> &#x2F; <em>浅色模式</em> 的颜色可以参考 <a href="#%E4%B8%BB%E9%A2%98%E9%A2%9C%E8%89%B2">主题颜色</a> 设置。### 哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项 <code>gray</code> 设置。<code>yml# Gray (Mourning Mode)gray:  enable: true  #开启哀悼模式</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 哀悼模式。<img  src="https://pic.izhaoo.com/20201016102727.jpg"  ><span class="image-caption">哀悼</span>## 文章配置### 文章封面#### 单独封面可以为每篇文章设置单独的文章封面图片，在文章 <code>Front-matter</code> 中添加 <code>image</code> 字段设置图片。若使用图床，直接添加图片文件的 <strong>完整URL</strong> 即可：<code>markdown---title: zhaoo - 主题文档image: https://pic.izhaoo.com/20200421200902.jpg  #设置图床图片---</code>若将图片储存在本地，现将图片文件复制到主题 <code>~/zhaoo/source/images</code> 下，再添加 <strong>相对URL</strong> 即可：<code>markdown---title: zhaoo - 主题使用文档image: /images/20200421200902.jpg  #设置本地图片---</code>#### 默认封面配置项 <code>post_image</code> 设置配置文章默认封面，就不用为每篇文章单独设置封面了：<code>yml# Post Imagepost_image:  random: galleries # local galleries  default: /images/theme/post-image.jpg</code>* <code>random</code>: 设置随机封面，有 <strong>galleries（相册图库）</strong> 和 <strong>local（本地图库）</strong>  两种模式。开启 <a href="#%E7%9B%B8%E5%86%8C">相册</a> 功能后会自动调取相册中的图片；本地图库需要新建 <code>/_data/local_images.json</code> 文件，填写图片 <code>URL</code> 列表即可。* <code>default</code>: 未设置随机封面时启用 <strong>默认封面</strong>，填写图片 <code>URL</code> 即可。<code>json// local_images.json[  &quot;https://pic.izhaoo.com/2014031601.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071602.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071603.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072104.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072705.jpg&quot;,  &quot;https://pic.izhaoo.com/20200421201200.jpg&quot;,  &quot;https://pic.izhaoo.com/20200305030152.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065241.jpg&quot;,  &quot;https://pic.izhaoo.com/20200228081718.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065844.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151924.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152003.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152045.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152122.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151427.jpg&quot;]</code>### 关键词在文章 <code>Front-matter</code> 中添加 <code>keywords</code> 字段设置关键词：<code>markdowntitle: zhaoo - 主题使用文档keywords: hexo-theme-zhaoo, hexo, 主题, 使用文档, document</code>配置项 <code>keywords</code> 为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：<code>ymlkeywords: hexo-theme-zhaoo, hexo</code>### 文章尺寸配置项 <code>post_page_size</code> 用于设置文章内容主体部分的相关尺寸。<code>yml# Page Sizepost_page_size:  width: 800px</code>* <code>width</code>: 设置内容宽度。tips: 受外部元素的限制，<em>实际尺寸</em> 由计算后得出，不能保证与 <em>设定尺寸</em> 完全相等，只能保证接近该尺寸。### 图片标注配置项 <code>caption</code> 用于设置 <strong>图片标注</strong>，开启后会在文章图片下方生成标注。<code>yml# Captioncaption:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 图片标注。### 文章目录配置项 <code>toc</code> 用于设置 <strong>文章目录</strong>，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。<code>yml# TOCtoc:  enable: true  min_depth: 1  max_depth: 3</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章目录。* <code>min_depth</code>:* <code>max_depth</code>:全局开启 <strong>文章目录</strong> 后，可以在文章 <code>Front-matter</code> 中添加 <code>toc</code> 字段单独控制该文章是否展示文章目录。<code>markdown---title: zhaoo - 主题文档toc: false # 关闭文章目录---</code>### 打赏二维码配置项 <code>donate</code> 用于设置 <strong>打赏二维码</strong>，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧<del><code>yml# Donatedonate:  enable: true  alipay: https://pic.izhaoo.com/alipay.jpg  wechat: https://pic.izhaoo.com/wechat.jpg</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 打赏二维码。* <code>alipay</code>: 支付宝收款二维码，填写图片 <code>URL</code>。* <code>wechat</code>: 微信收款二维码，填写图片 <code>URL</code>。### 文章版权配置项 <code>post_copyright</code> 用于设置 <strong>文章版权</strong>，开启后可在文章下方展示版权信息。<code>yml# Copyrightpost_copyright:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章版权信息。全局开启 <strong>文章版权</strong> 后，可以在文章 <code>Front-matter</code> 中添加 <code>copyright</code> 字段单独控制该文章是否展示文章版权。<code>markdown---title: zhaoo - 主题文档copyright: false # 关闭文章版权---</code>### 文章搬运配置项 <code>carrier</code> 用于开启 <strong>文章搬运</strong> 功能，方便博主们全文“借鉴”文章，效果如下：<img  src="https://pic.izhaoo.com/20200727125519.jpg"  ><span class="image-caption">文章搬运</span><img  src="https://pic.izhaoo.com/20200727125724.jpg"  ><span class="image-caption">弹窗提示</span>前置条件：全局开启 <a href="#%E6%96%87%E7%AB%A0%E7%89%88%E6%9D%83">文章版权</a><code>yml# Carriercarrier:  enable: true  type: markdown # markdown html text</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章搬运。* <code>type</code>: 搬运模式，可选择一键复制 <code>markdown</code>、<code>html</code>、<code>text</code> 格式的文章。&gt; <a href="http://localhost:4000/2020/07/25/hexo-article-carrier/">Hexo - 开发文章搬运功能</a>### 文章置顶找到 <code>/node_modules/hexo-generator-index/lib/generator.js</code> 文件，替换成如下代码：<code>javascript&#39;use strict&#39;;var pagination = require(&#39;hexo-pagination&#39;);module.exports = function (locals) &#123;  var config = this.config;  var posts = locals.posts;  posts.data = posts.data.sort(function (a, b) &#123;    if (a.top &amp;&amp; b.top) &#123;      if (a.top == b.top) return b.date - a.date;      else return b.top - a.top;    &#125; else if (a.top &amp;&amp; !b.top) &#123;      return -1;    &#125; else if (!a.top &amp;&amp; b.top) &#123;      return 1;    &#125; else return b.date - a.date;  &#125;);  var paginationDir = config.pagination_dir || &#39;page&#39;;  return pagination(&#39;&#39;, posts, &#123;    perPage: config.index_generator.per_page,    layout: [&#39;index&#39;, &#39;archive&#39;],    format: paginationDir + &#39;/%d/&#39;,    data: &#123;      __index: true    &#125;  &#125;);&#125;;</code>在文章的 <code>Front-matter</code> 中添加 <code>top</code> 字段，指定数值。数值越大，显示越靠前。<code>markdown---title: zhaoo - 主题使用文档top: 10  #添加该字段---</code>### 数学公式#### MathJax&gt; <a href="https://github.com/ikeq/hexo-filter-mathjax-ssr">hexo-filter-mathjax-ssr</a>以 <code>svg</code> 的形式渲染数学公式，兼容性较好，推荐使用。安装 <code>MathJax</code> 插件依赖：<code>bash$ npm install hexo-filter-mathjax-ssr --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlmathjax:  inlineQuote: [&#39;\(&#39;, &#39;\)&#39;]  blockQuote: [&#39;\[&#39;, &#39;\]&#39;]</code>#### KaTex&gt; <a href="https://github.com/thcd/hexo-katex">hexo-katex</a>以 <code>HTML</code> 标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎 <code>hexo-renderer-pandoc</code>：<code>bash$ npm install hexo-renderer-pandoc --save</code>安装 <code>KaTex</code> 插件依赖：<code>bash$ npm install hexo-katex --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlpandoc:  mathEngine: katex</code>## 页面配置### 相册页面&gt; 【瀑布流风格相册】由 <a href="https://github.com/HelloAny">AmiKara</a> 友情贡献</del>执行以下命令创建相册页面，会在 <code>source</code> 目录生成 <code>galleries/index.md</code> 文件：<code>bash$ hexo new page galleries  #创建相册页面</code>打开 <code>source/galleries/index.md</code> 文件，设置 <code>Front-matter</code> ，开启相册页面：<code>markdown---title: 相册layout: &quot;galleries&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置相册页面的导航：<code>ymlmenu:  galleries: /galleries || 相册</code>配置项 <code>galleries</code> 用于开启相册功能：<code>ymlgalleries:  enable: true  title: 相册  subtitle: Galleries  type: waterfull # waterful | grid  columns: 3</code>* <code>enable</code>:  <em>开启</em> &#x2F; <em>关闭</em> 相册功能。* <code>title</code>: 相册分类页面标题。* <code>subtitle</code> 相册分类页面副标题。* <code>type</code>: 相册显示风格，有 <em>瀑布流</em> 和 <em>正方形</em> 两种形式。* <code>columns</code>: 相册列数。在 <code>/_data</code> 目录下新建 <code>galleries.json</code> 文件，创建相册分类目录及图片内容：<code>json[&#123;  &quot;name&quot;: &quot;colorful&quot;,  //相册名称  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  //相册封面  &quot;description&quot;: &quot;君未看花时，花与君同寂；君来看花日，花色一时明。&quot;,  //相册介绍  &quot;photos&quot;: [  //图片内容    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]&#125;, &#123;  &quot;name&quot;: &quot;记事&quot;,  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  &quot;description&quot;: &quot;翻开随身携带的记事本，写着许多事都是关于你。&quot;,  &quot;photos&quot;: [    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]&#125;]</code>在 <code>/source/galleries/</code> 目录下 <code>新建文件夹</code> ，命名需要和 <code>json</code> 中的 <code>name</code> 字段对应，例如：<em>colorful</em>、<em>记事</em>。 在文件夹下新建 <code>index.md</code> 文件，内容如下：<code>markdown---title: 记事  #名称也需要对应layout: &quot;gallery&quot;---</code>步骤可能有点难以理解，最后放几张截图，比较直观：<img  src="https://pic.izhaoo.com/20200722185650.jpg"  ><span class="image-caption">gallery-1</span><img  src="https://pic.izhaoo.com/20200722185721.jpg"  ><span class="image-caption">gallery-2</span><img  src="https://pic.izhaoo.com/20200722185814.jpg"  ><span class="image-caption">gallery-3</span><img  src="https://pic.izhaoo.com/20200722185829.jpg"  ><span class="image-caption">gallery-4</span>也可以参考 <code>/_example/source</code> 中的相关栗子。### 归档页面参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置归档页面的导航，系统会按文章创建时间自动归档。<code>ymlmenu:  archives: /archives || 归档</code>### 标签页面执行以下命令创建标签页面，会在 <code>source</code> 目录生成 <code>tags/index.md</code> 文件：<code>bash$ hexo new page tags  #创建标签页面</code>打开 <code>source/tags/index.md</code> 文件，设置 <code>Front-matter</code> ，开启标签页面：<code>markdown---title: 标签type: &quot;tags&quot;layout: &quot;tags&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置标签页面的导航：<code>ymlmenu:  tags: /tags || 标签</code>创建文章时，在文章的 <code>Front-matter</code> 中使用 <code>tags</code> 字段添加标签即可：<code>markdown---title: zhaoo - 主题使用文档tags: [Hexo, 主题]  #设置标签---</code>### 分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在 <code>source</code> 目录生成 <code>categories/index.md</code> 文件：<code>bash$ hexo new page categories  #创建分类页面</code>打开 <code>source/categories/index.md</code> 文件，设置 <code>Front-matter</code> ，开启分类页面：<code>markdown---title: 标签type: &quot;categories&quot;layout: &quot;categories&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置分类页面的导航：<code>ymlmenu:  categories: /categories || 分类</code>创建文章时，在文章的 <code>Front-matter</code> 中使用 <code>categories</code> 字段添加标签即可：<code>markdown---title: zhaoo - 主题使用文档categories:  #设置分类- 项目- 博客---</code>### 关于页面执行以下命令创建关于页面，会在 <code>source</code> 目录生成 <code>about/index.md</code> 文件：<code>bash$ hexo new page about  #创建关于页面</code>打开 <code>source/about/index.md</code> 文件，设置 <code>Front-matter</code> ，开启关于页面：<code>markdown---title: 标签type: &quot;about&quot;layout: &quot;about&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置关于页面的导航：<code>ymlmenu:  about: /about || 关于</code>在 <code>source/about/index.md</code> 中编写关于内容，如同写文章一样。tips: 建议在 <strong>关于页面</strong> 关闭 <em>文章目录</em> 和 <em>文章版权</em> 功能，在 <code>Front-matter</code> 中添加 <code>toc</code> 和 <code>copyright</code> 字段都设置为 <code>false</code> 即可。## 插件配置### 评论系统配置项 <code>comments</code> 用于配置评论系统，目前支持 <strong>Gitalk</strong>、<strong>Valine</strong>、<strong>畅言</strong> 三种评论系统。<code>yml# Commentcomments:  enable: true  type: valine  button: true</code>* <code>enable</code>:  <em>开启</em> &#x2F; <em>关闭</em> 评论功能。* <code>type</code>: 开启哪种评论系统，需要配置对应的评论系统。（参考下文）* <code>button</code>: <em>显示</em> &#x2F; <em>隐藏</em> 评论按钮，隐藏按钮后将直接展示评论。#### Gitalk<strong>Gitalk</strong> 基于 <code>GitHub</code> 存储评论内容，优点是支持 <code>GitHub</code> 直接登录；缺点是需要 <strong>科学上网</strong> 才能访问，水土不服。<img  src="https://pic.izhaoo.com/2020111982651.jpg"  ><span class="image-caption">Gitalk演示</span>首先需要在 <a href="https://github.com/new">GitHub</a> 创建一个仓库，如有 <code>GitHub Pages</code> 也可以共用一个仓库。<img  src="https://pic.izhaoo.com/202011193006.jpg"  ><span class="image-caption">创建仓库</span>接着创建一个 <a href="https://github.com/settings/applications/new">Github Application</a>，填写相应的参数。创建完成后会生成 <code>clientID</code> 和 <code>clientSecret</code>，记录一下。<img  src="https://pic.izhaoo.com/20201119203435.png"  ><span class="image-caption">创建应用</span>配置项 <code>gitalk</code> 用于配置 <code>Gitalk。````yml# Gitalkgitalk:  owner:  repo:  admin:  clientID:  clientSecret:```* </code>owner<code>: </code>GitHub<code>的用户名。*</code>repo<code>: 创建的仓库名称。* </code>admin<code>: </code>GitHub<code>的用户名。*</code>clientID<code>: 应用创建后生成。* </code>clientSecret<code>: 应用创建后生成。#### Valine</code>Valine<code>是基于 [LeanCloud](https://leancloud.cn/) 实现的评论系统，小清新风格。![Valine演示](https://pic.izhaoo.com/2020111980022.jpg)首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Comment**，访问权限为 **所有用户**，写入权限为 **限制写入**。在【设置】-&gt;【应用Keys】中复制</code>appId<code>和</code>appKey<code>。配置项 </code>valine<code>用于设置</code>Valine<code>评论系统。```yml# Valinevaline:  appId:  appKey:  placeholder: 雁过留痕  avatar: mp  pageSize: 10  lang: zh-CN```*</code>enable<code>: *开启* / *关闭* </code>Valine<code>。* </code>appId<code>: 填入刚才得到的 </code>appId<code>。* </code>appKey<code>: 填入刚才得到的 </code>appKey<code>。* </code>placeholder<code>: 未输入评论时的占位文字。* </code>mp<code>: 默认头像，参考 [Valine头像设置](https://valine.js.org/avatar.html)。* </code>pageSize<code>: 每页评论数量。* </code>lang<code>: 系统语言。&gt; [Valine](https://valine.js.org/)#### 畅言**畅言** 是搜狐家的评论系统，优点是支持 </code>QQ<code>、</code>手机<code>、</code>邮箱<code>等多种登录方式，接地气；个人感觉</code>UI<code>不是我的菜。 ![畅言演示](https://pic.izhaoo.com/2020111984224.jpg)在 [畅言](http://changyan.kuaizhan.com/) 注册账号，进入后台创建一个站点，在【后台总览】记录一下</code>APP ID<code>和</code>APP KEY<code>。配置项 </code>changyan<code>用于设置</code>畅言评论<code>。```yml# ChangYanchangyan:  appId:  conf:```* </code>appId<code>: 生成的 </code>APP ID<code>。* </code>conf<code>: 生成的 </code>APP KEY<code>。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。### 客户沟通 (DaoVoice)[DaoVoice](http://www.daovoice.io/) 是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。![DaoVoice演示](https://pic.izhaoo.com/20200808141245.jpg)因为官方的 </code>Fab<code>按钮 和 主题</code>Fab<code>按钮会重叠，所以作者同学把他集成到主题</code>Fab<code>中了。![官网Fab](https://pic.izhaoo.com/20200808141349.jpg)![主题Fab](https://pic.izhaoo.com/20200808141304.jpg)首先在 [DaoVoice](http://dashboard.daovoice.io/) 官网上注册一个账号。在【安装应用】页面，复制</code>app_id<code>。![appid](https://pic.izhaoo.com/20200808135815.jpg)配置项 </code>daovoice<code>配置应用。```yml# Daovoicedaovoice:  enable: true  appId: abcdefg  #你的 app_id  ```*</code>enable<code>: *开启* / *关闭* DaoVoice。* </code>appId<code>: 填写之前复制的 </code>app_id<code>。点击 </code>Fab<code>中的 **消息图标** 即可打开。### 意见反馈平台 (腾讯兔小巢)[腾讯兔小巢](https://txc.qq.com/) 是一款用户意见反馈平台。首先在 [腾讯兔小巢](https://txc.qq.com/) 官网上注册一个产品，在 [产品设置](https://txc.qq.com/dashboard/products/) 中复制</code>ID<code>。配置项 </code>tencentChao<code>用于配置兔小巢。```yml# Tencent ChaotencentChao:  enable: false  appId: # app_id```*</code>enable<code>:  *开启* / *关闭* 兔小巢。* </code>appId<code>: 填写之前复制的 </code>ID<code>。### 页面统计 (LeanCloud)**LeanCloud** 是一款 </code>ServerLess<code>服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Counter**，访问权限为 **所有用户**，写入权限为 **限制写入**，如下：![创建LeanCloud](https://pic.izhaoo.com/202011194911.jpg)在【设置】-&gt;【应用Keys】中复制</code>appId<code>和</code>appKey<code>。配置项 </code>leancloud<code>用于设置</code>LeanCloud<code>。```yml# LeanCloudleancloud:  enable: true  appId:  appKey:  serverURLs: https://leancloud.cn/```* </code>enable<code>: *开启* / *关闭* </code>LeanCloud<code>。* </code>appId<code>: 填入刚才得到的 </code>appId<code>。* </code>appKey<code>: 填入刚才得到的 </code>appKey<code>。* </code>serverURLs<code>: 服务路径不用改，保持 </code><a href="https://leancloud.cn/%60">https://leancloud.cn/`</a> 就可以了。### 图片懒加载 (LazyLoad)配置项 <code>lazyload</code> 用于配置图片懒加载。<code>yml# Lazyloadlazyload:  enable: true  only_post: false  loading: /images/theme/loading.gif</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 图片懒加载。* <code>onlyPost</code>: 只对对文章中的图片开启懒加载功能。* <code>loading</code>: 加载动画，默认是开启 <code>placeholder（占位图）</code> 的，可以在网上下载喜欢的动图，填写 <code>图片URL</code> 即可。### 图片灯箱 (FancyBox)配置项 <code>FancyBox</code> 用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。<code>ymlfancybox: true</code>### 无刷新加载 (PJAX)配置项 <code>pjax</code> 用于设置无刷新加载，开启后让你的博客嗖嗖嗖~&#96;&#96;&#96;ymlpjax: true<code>tips: 该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。### 代码高亮 (HighLight)在 **博客配置** 中开启代码高亮效果：</code>ymlhighlight:  enable: true  #启用代码高亮效果  line_number: true  auto_detect: true  hljs: true  tab_replace:<code>配置项 `highlight` 用于设置代码高亮效果。</code>yml# HighLighthighlight:  enable: true  style: # <a href="https://highlightjs.org/static/demo/">https://highlightjs.org/static/demo/</a>    light: Xcode    dark: Solarized Dark<code>* `enable`: *开启* / *关闭* 代码高亮。* `style -&gt; light`: *浅色模式* 时的高亮样式。* `style -&gt; dark`: *深色模式* 时的高亮样式。可以到 [官网](https://highlightjs.org/static/demo/) 预览高亮效果，填写样式名称即可。### SEO配置项 `seo` 用于设置 SEO（网站关键词优化）功能。</code>yml# SEOseo:  baidu_auto_push: true<code>* `baidu_auto_push`: 开启 [百度站长平台](https://ziyuan.baidu.com/linksubmit/index) 链接自动推送功能。### 网页统计配置项 `analytics` 用于设置网站统计。</code>yml# Analyticsanalytics:  baidu: # id  google: # id  tencent: # id  cnzz: # id<code>* `baidu`: [百度统计](https://tongji.baidu.com/web/welcome/login)* `google`: [谷歌统计](https://analytics.google.com/analytics/web)* `tencent`: [腾讯分析](https://ta.qq.com/#/)* `cnzz`: [友盟统计](https://www.umeng.com/web)在对应的数据统计官网注册网站应用，复制对应的 `id` 填写即可。## 脚本配置### CDN对于外部静态文件（CSS 或 JS），可以使用第三方 `CDN` 库进行优化加速。配置项 `vendors` 用于设置静态库引入位置，直接输入 `URL` 即可。您可以保持默认配置（BootCDN）,留空则从本地引入。</code>ymlvendors:  jquery_js: <a href="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js">https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js</a>  fancybox_js: <a href="https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js">https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js</a>  pjax_js: <a href="https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js">https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js</a>  lazyload_js: <a href="https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js">https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js</a>  fancybox_css: <a href="https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css">https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css</a>  highlight_css: <a href="https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css">https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css</a>  iconfont_css: &#x2F;&#x2F;at.alicdn.com&#x2F;t&#x2F;font_1445822_58xq2j9v1id.css<code>### 脚本埋点有时候我们需要埋入一些第三方脚本，例如 `百度统计`、`百度SEO` 等，主题在 **头部** 和 **尾部** 分别开放了埋点入口，通过配置项 `custom` 进行配置。</code>yml# Customcustom:  head:  foot:  css:  js:&#96;&#96;&#96;* <code>head</code>: 引入头部的代码。* <code>foot</code>: 引入尾部的代码。* <code>css</code>: 外部引入的 <code>CSS</code> 链接。* <code>js</code>: 外部引入的 <code>JS</code> 链接。</h3>]]></content>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>主题</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>为什么现在的年轻人活得那么累？</title>
-    <url>/2022/10/05/%E5%B9%B4%E8%BD%BB%E4%BA%BA/</url>
-    <content><![CDATA[<h2 id="为什么现在的年轻人活得那么累？"><a href="#为什么现在的年轻人活得那么累？" class="headerlink" title="为什么现在的年轻人活得那么累？"></a>为什么现在的年轻人活得那么累？</h2><span id="more"></span>
-<p>21岁的“阿袋”在读者问答征集中提出问题：为什么现在二十岁的年轻人活得那么累？</p>
-<hr>
-<p>看到这个题目时我想起自己二十岁以后常常感叹累的瞬间。</p>
-<p>普通本科学历，笨鸟先飞，我比其他人更早参加实习，两个月后独立负责标杆房企的营销策划方案。领导是名校毕业的白富美，同事是到点就走的本地人，甲方是吹毛求疵、流程繁冗的国企，节点卡在眼前，日日加班，步步为营。那是第一份实习，对于二十二岁的我，要保证毕业不失业，只能追着别人跑。</p>
-<p>辗转几份工作后，已经有了一些可以反向选择的资本，但依然没敢停下来。从房地产的营销策划条线到了设计条线，由于不是相关专业出身，做事情永远慢半拍，平级同事的工作又常交给我处理，我从没拒绝过。那时的累是选择。我大可以完成工作就走，可以拒绝同事的委托，但生活不是孤立的点，今天的一切都不会白费。</p>
-<p>二十五岁时我基本完成了自恰——活着就是很辛苦的。<strong>因为不想跑，所以努力跑</strong>。</p>
-<p><strong>年轻人的累，来自爆炸的信息</strong>。互联网通过一块块屏幕，把金字塔顶端的生活碎片推来我们面前，年轻人眼中的世界充满贫富分化、容貌焦虑。</p>
-<p><strong>年轻人的累，来自教育的局限</strong>。一方面，发达地区和欠发达地区的贫富差距带来了教育资源的巨大落差；另一方面，多数人前二十年埋头苦读，迈出象牙塔时，又发现真正的丛林法则未在书中习得。</p>
-<p><strong>年轻人的累，来自沉重的感恩</strong>。二十岁自然活力无限，但父母老去的脚步从不减慢。如果自由的代价是让父母停在原地，那太多人会选择忍受年轻的累，太少人能把压力轻易卸下，独善其身。</p>
-<p>我们负重前行，有人岁月静好。</p>
-<p>而在我们看得到却触不可及的地方，外交官的儿子轻松成为高考状元，顶级奢侈品牌给疫情封控在家的VIP客户送去物资，女主播靠美貌登上福布斯富豪榜——王侯将相有“种”，天生丽质是“命”。</p>
-<p>作为观众的年轻人常常自嘲：<strong>我来人间凑数的日子</strong>。看似戏谑，实际上裹挟在“躺平”姿态下的真心话却是自卑和害怕——一切似乎已注定，奔跑的脚步将被历史的车轮轧平。</p>
-<p>但我今天写这些的目的并不是渲染年轻人的苦和累，也不是支持躺平和放弃，当然，更不是号召大家“卷”起来。</p>
-<p><strong>痛苦不是生活的唯一真相，一味乐观也不是</strong>。</p>
-<p>中国式教育鼓励比较、竞争、赢，因为我们国家人太多了，坦白讲，所有的机会都是争取来的。上个世纪处于温饱时人民争夺一口粮食，那是活下来的机会；竞争铁饭碗，那是生存的保障；高考，被称为千军万马过独木桥；考公务员，理想的岗位招人时千里挑一……</p>
-<p>物竞天择适者生存的逻辑根植于中国人脑子，因为我们脱贫还没有太久，退休制度和医保制度尚未覆盖全民。说累，其实不过是一边拿二十岁的汗水换六十岁的保障，一边不甘于成为时代沉默的炮灰。</p>
-<p>我在地产行业的第一年，领导告诉我一个极有效的工作技巧，列时间表。事情太多了，新增的太多，变化的也太多，只能靠把所有事项写下来，每天更新，每天完结。二十二岁的青春光鲜亮丽，背地里也在一遍遍时间倒推的紧迫中自我雕刻。</p>
-<p>我在地产行业的第三年，微信签名是很简单的五个字：和时间赛跑。所有的节点、目标都在推着人们走，只好无限增加工作时长。白天出差，晚上回自己的城市到公司做文件。夜与白昼同时被拉长。</p>
-<p>薪水似乎没有因工作年限的增加而产生突破，而中年危机、房价上涨从来没有等过人。</p>
-<p><strong>国人就是这样的，和资源、和同类竞争了以后，还要和时间比、和自己比</strong>。</p>
-<p>到工作第四年，有一天我突然意识到，人在工作中什么时候开始不那么累呢，是不比了。</p>
-<p>做错了事情——错了就错了，改就好了。</p>
-<p>今年业绩没有比去年更好，拿的钱少了——少就少了，继续干就完了。</p>
-<p><strong>生活没有别的办法，只能继续生活</strong>。</p>
-<p>有一天你发现你不是跟自己和解了也不是跟世界和解了，因为<strong>人活着不是一场比赛，每个人的状态、思想观念都不必跟其他人战斗</strong>。</p>
-<p>同为人类，我们承认年轻人的累，根本上是希望能够抚平焦虑：<strong>你的一切都在被“看见”</strong>。</p>
-<p>我们不歌颂苦难教育，也从不认为自己体会过的苦和累比别人更沉重、更深刻，<strong>因为苦难不应该被计算和比较，谁都不能傲慢地轻看他人的遭遇</strong>。</p>
-<p>而你之所以看穿人生艰难却不再愁眉不展，只因为这是你琢磨出来最有效的解法——沉在旋涡里没用，你还得继续冲向浪潮。<strong>我们呼吁勇敢和坚持，因为这是破釜沉舟的觉悟，是不得不做的抉择。倒不是酷不酷的问题，是自你进入生命的这片海，往前漂就成了唯一的使命</strong>。</p>
-]]></content>
-      <categories>
-        <category>问答</category>
-      </categories>
-      <tags>
-        <tag>问答</tag>
-        <tag>阅读</tag>
-        <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>手写信会从这个世界上消失么？</title>
-    <url>/2022/10/05/%E6%89%8B%E5%86%99%E4%BF%A1/</url>
-    <content><![CDATA[<h2 id="手写信会从这个世界上消失么？"><a href="#手写信会从这个世界上消失么？" class="headerlink" title="手写信会从这个世界上消失么？"></a>手写信会从这个世界上消失么？</h2><span id="more"></span>
-<hr>
-<p>我驱车前往临镇时，经过一个红色的邮筒，突然想到——会吧。当我们这代人老去时，写信这种形式会从世界上消失吧。</p>
-<p>现在的年轻人几乎不依赖书信交流，邮局基本成为了老年人寄存养老金和社交的场所。</p>
-<p>微信让沟通变得快捷、方便。</p>
-<p>属于时代的工具不停更迭，大胆一点想，也许待我们老去，微信可能都不存在了。</p>
-<p>也许在未来，人体内植入了义体，只要愿意，想法便可直接通过大脑，传递给对方，连“码字”、“发语音”都省下了。</p>
-<p>也许还能搭配回忆场景特效，话语能配上记忆中的场景和细节。</p>
-<p>不仅快速，而且绝佳隐秘。</p>
-<p>但转念一想，真的隐秘么？</p>
-<p>这样的脑内沟通，被黑客高手破解后更容易窥探到，连最后一层人心隔肚皮都没有了。</p>
-<p>相比之下，书信反而更安全，当二进制代码组成的程序甜美地品鉴着你的生物信息，反倒不会在意那一份份白色的信笺。阅读完毕，烧掉，于是你完成了一次大逆不道的隐秘传播。</p>
-<p>沟通变得复古，却又安全了起来。那我相信信不会消失。</p>
-<p>当然，我觉得信件最终还是会陈列在博物馆，变成某种人类存在的证明。</p>
-<p>最初的智人因为沟通，相互传递信息，发展成为群落，发明了火，进而孕育出文明。未来的我们，哪一天走到了尽头，也许不是科技导致的肉身毁灭，而是我们再也不会交流了，亦或是说人类再也没有了交流的欲望了。一切都可通过科技完成供应，不论是食物，金钱，抑或是情感。</p>
-<p>如果我们连沟通的欲望都消失了，那么信也会消失的吧。</p>
-<p>车子驶过红色邮筒，后视镜中的它端庄、肃穆，却又有一丝美感，它好像在对我说，这一切都看我们人类自己的选择。</p>
-]]></content>
-      <categories>
-        <category>问答</category>
-      </categories>
-      <tags>
-        <tag>问答</tag>
-        <tag>阅读</tag>
-        <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>只能在18岁喝醉</title>
     <url>/2021/04/11/%E5%8F%AA%E8%83%BD%E5%9C%A818%E5%B2%81%E5%96%9D%E9%86%89/</url>
     <content><![CDATA[<h2 id="只能在18岁喝醉"><a href="#只能在18岁喝醉" class="headerlink" title="只能在18岁喝醉"></a>只能在18岁喝醉</h2><p><span style="border-top: 3px solid black; padding-top:10px">文／专三千</span></p>
@@ -1274,185 +863,9 @@
         <category>阅读</category>
       </categories>
       <tags>
+        <tag>转载</tag>
         <tag>阅读</tag>
         <tag>文章</tag>
-        <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>面试题</title>
-    <url>/2022/09/25/%E9%9D%A2%E9%A2%98/</url>
-    <content><![CDATA[<p> 面试指南</p>
-<span id="more"></span>
-<h1 id="CSS-x2F-HTML部分"><a href="#CSS-x2F-HTML部分" class="headerlink" title="CSS&#x2F;HTML部分"></a>CSS&#x2F;HTML部分</h1><h2 id="1-css布局方式"><a href="#1-css布局方式" class="headerlink" title="1.css布局方式"></a>1.css布局方式</h2><pre><code>1.table布局(不常用)
-2.flex布局
-3.float布局
-4.响应式布局
-</code></pre>
-<h2 id="2-盒子模型"><a href="#2-盒子模型" class="headerlink" title="2.盒子模型"></a>2.盒子模型</h2><blockquote>
-<p>标准盒子模型和IE盒子模型</p>
-</blockquote>
-<pre><code>    IE盒子模型的宽度包括content和padding还有border，标准盒子不包括
-</code></pre>
-<blockquote>
-<p>这两个的区别主要是什么</p>
-</blockquote>
-<pre><code>    box-sizing:content-box 标准盒子模型
-    box-sizing:border-box IE盒子模型
-</code></pre>
-<h2 id="3-html5新标签"><a href="#3-html5新标签" class="headerlink" title="3.html5新标签"></a>3.html5新标签</h2><blockquote>
-<p>canvas 新元素</p>
-</blockquote>
-<pre><code>    &lt;canvas&gt;标签定义图形，比如图表和其他图像。该标签基于js的绘图API
-</code></pre>
-<blockquote>
-<p>新多媒体元素</p>
-</blockquote>
-<pre><code>     &lt;audio&gt; 定义音频内容
-     &lt;video&gt; 定义视频
-</code></pre>
-<h2 id="4-BFC"><a href="#4-BFC" class="headerlink" title="4.BFC"></a>4.BFC</h2><blockquote>
-<p>BFC，块级格式化上下文，它是页面中一个独立的容器，容器中的元素不会影响到外面的元素。</p>
-</blockquote>
-<blockquote>
-<p>触发条件 (包括但不限于)</p>
-</blockquote>
-<ul>
-<li>根元素，及HTML元素</li>
-<li>浮动元素:float值为left、right</li>
-<li>overflow值不为visible，为auto、scroll、 hidden</li>
-<li>display的值为inline—block，inltable-cell、table-caption、table、inline-table、<br> flex、inline-flex、grid、inline-grid</li>
-<li>position的值为absolute或fixed</li>
-</ul>
-<h2 id="5-浏览器运行机制"><a href="#5-浏览器运行机制" class="headerlink" title="5.浏览器运行机制"></a>5.浏览器运行机制</h2><pre><code>    1.创建DOM树
-    2.构建渲染树，css渲染
-    3.布局渲染，每个元素的大小位置
-    4.绘制渲染树，画出来
-    重绘 : 改变元素的外观属性例如div的color、background-color等属性发生改变时
-
-    重排(回流) ：元素的规模尺寸、布局、隐藏改变时
-
-    代价 : 耗时，导致浏览器卡慢
-</code></pre>
-<h2 id="6-居中的方式"><a href="#6-居中的方式" class="headerlink" title="6.居中的方式"></a>6.居中的方式</h2><p>  <strong>垂直居中的方式</strong></p>
-<p>  行高&#x3D;高</p>
-<p>  绝对定位top50%,自身宽度的50%的负值<br>  flex布局 align—center</p>
-<p>  <strong>水平居中的方式</strong><br>  绝对定位</p>
-<p>  flex布局juest—center</p>
-<p>  text-align center</p>
-<h2 id="7-rem-em-vh-px各自代表的含义"><a href="#7-rem-em-vh-px各自代表的含义" class="headerlink" title="7.rem,em,vh,px各自代表的含义"></a>7.rem,em,vh,px各自代表的含义</h2><p> <strong>px</strong>:绝对单位，页面按照精确像素展示<br> <strong>em</strong>:相对单位，基准点为父节点字体的大小，如果自身定义了font-size按照自身来计算，整个页面内 <strong>1em</strong> 不是一个固定的值<br> <strong>rem</strong>：相对单位,理解为 <strong>root em</strong>,相对根节点<strong>html</strong>的字体大小来计算<br> <strong>vh、vw</strong>:主要用于视口大小布局，在页面布局上更加方便简单</p>
-<h2 id="8-有哪些方式可以隐藏页面元素以及区别"><a href="#8-有哪些方式可以隐藏页面元素以及区别" class="headerlink" title="8.有哪些方式可以隐藏页面元素以及区别"></a>8.有哪些方式可以隐藏页面元素以及区别</h2><ul>
-<li>display:none</li>
-<li>visibility:hidden</li>
-<li>opacity:0</li>
-<li>设置height、widht模型属性为0</li>
-<li>position:absolute</li>
-<li>clip-path</li>
-</ul>
-<p><strong>区别</strong><br>  <img src="隐藏元素.jpg"></p>
-<h2 id="9-什么是响应式设计？响应式设计的基本原理是什么？如何做？"><a href="#9-什么是响应式设计？响应式设计的基本原理是什么？如何做？" class="headerlink" title="9.什么是响应式设计？响应式设计的基本原理是什么？如何做？"></a>9.什么是响应式设计？响应式设计的基本原理是什么？如何做？</h2><pre><code>    响应式网站设计是一种网络页面设计布局，页面的设计与开发应当根据用户行为以及设备环境进行相应的响应和调整
-</code></pre>
-<p>  <strong>响应式网站常见特点</strong></p>
-<ul>
-<li>同时适配PC+平板+手机等</li>
-<li>标签导航在接近手持设备时改变为经典的抽屉式导航</li>
-<li>网站的布局会根据视口来调整模块的大小和位置</li>
-</ul>
-<p><strong>实现响应式布局的方式如下</strong></p>
-<ul>
-<li>媒体查询（我们可以设置不同类型的媒体条件，并根据对应的条件，给相应符合条件的媒体调用相对应的样式表）</li>
-<li>百分比</li>
-<li>vm&#x2F;vh</li>
-<li>rem</li>
-</ul>
-<p>响应式设计实现通常会从以下几个方面思考</p>
-<ul>
-<li>弹性盒子(包括图片、表格、视频)和媒体查询等技术</li>
-<li>使用百分比布局创建流式布局的弹性UI，同时使用媒体查询限制元素的尺寸和内容变更范围</li>
-<li>使用相对单位使得内容自适应调节</li>
-<li>选择断点，针对不同断点实现不同布局和内容展示</li>
-</ul>
-<h2 id="10-css选择器有哪些以及优先级"><a href="#10-css选择器有哪些以及优先级" class="headerlink" title="10.css选择器有哪些以及优先级"></a>10.css选择器有哪些以及优先级</h2><p><strong>关于css属性选择器常用的有:</strong></p>
-<ul>
-<li>id选择器</li>
-<li>类(class)选择器</li>
-<li>标签选择器</li>
-<li>后代选择器</li>
-<li>子选择器</li>
-<li>相邻同胞选择器</li>
-<li>群组选择器</li>
-</ul>
-<p><strong>还有一些使用频率没那么多的选择器</strong></p>
-<ul>
-<li><p>伪类选择器</p>
-<pre><code>  :link 选择未被访问的链接
-  :visited 选择已被访问的链接
-  :active 选择活动链接
-  :hover 鼠标指针浮动在上面的元素
-  :focus 选择具有焦点的
-  :first-child 父元素的首个子元素
-</code></pre>
-</li>
-<li><p>伪元素选择器</p>
-<pre><code>  :first-letter ：用于选取指定选择器的首字母
-  :first-line ：选取指定选择器的首行
-  :before : 选择器在被选元素的内容前面插入内容
-  :after : 选择器在被选元素的内容后面插入内容
-</code></pre>
-</li>
-<li><p>属性选择器</p>
-<pre><code>  [attribute] 选择带有attribute属性的元素
-  [attribute=value] 选择所有使用attribute=value的元素
-  [attribute~=value] 选择attribute属性包含value的元素
-  [attribute|=value]：选择attribute属性以value开头的元素
-</code></pre>
-</li>
-</ul>
-<p><strong>在css3中新增的选择器</strong></p>
-<ul>
-<li><p>层次选择器（p~ul），选择前面有p元素的每个ul元素</p>
-</li>
-<li><p>伪类选择器</p>
-<pre><code>  :first-of-type 父元素的首个元素
-  :last-of-type 父元素的最后一个元素
-  :only-of-type 父元素的特定类型的唯一子元素
-  :only-child 父元素中唯一子元素
-  :nth-child(n) 选择父元素中第N个子元素
-  :nth-last-of-type(n) 选择父元素中第N个子元素，从后往前
-  :last-child 父元素的最后一个元素
-  :root 设置HTML文档
-  :empty 指定空的元素
-  :enabled 选择被禁用元素
-  :disabled 选择被禁用元素
-  :checked 选择选中的元素
-  :not(selector) 选择非 &lt;selector&gt; 元素的所有元素
-</code></pre>
-</li>
-<li><p>属性选择器</p>
-<pre><code>  [attribute*=value]：选择attribute属性值包含value的所有元素
-  [attribute^=value]：选择attribute属性开头为value的所有元素
-  [attribute$=value]：选择attribute属性结尾为value的所有元素
-</code></pre>
-</li>
-</ul>
-<p><strong>优先级</strong></p>
-<pre><code>    内联 &gt; ID选择器 &gt; 类选择器 &gt; 标签选择器
-</code></pre>
-<h2 id="清楚浮动的方法"><a href="#清楚浮动的方法" class="headerlink" title="清楚浮动的方法"></a>清楚浮动的方法</h2><p><strong>方法一：使用带 clear 属性的空元素</strong></p>
-<p>在浮动元素后使用一个空元素,并在 CSS 中赋 予.clear{clear:both;}属性即可清理浮动。</p>
-<p><strong>方法二：使用 CSS 的 overflow 属性</strong></p>
-<p>给浮动元素的容器添加 overflow:hidden;或 overflow:auto;可以清除浮动，另外在 IE6 中还 需要触发 hasLayout ，例如为父元素设置容器宽高或设置 zoom:1。 在添加 overflow 属性后，浮动元素又回到了容器层，把容器高度撑起，达到了清理浮动 的效果。</p>
-<p><strong>方法三：给浮动的元素的容器添加浮动</strong></p>
-<p>给浮动元素的容器也添加上浮动属性即可清除内部浮动，但是这样会使其整体浮动，影 响布局，不推荐使用。</p>
-<p><strong>方法四：使用 CSS 的:after 伪元素</strong>    </p>
-<p>结合:after 伪元素（注意这不是伪类，而是伪元素，代表一个元素之后最近的元素）和 IEhack ，可以完美兼容当前主流的各大浏览器，这里的 IEhack 指的是触发 hasLayout。 给浮动元素的容器添加一个 clearfix 的 class，然后给这个 class 添加一个:after 伪元素实 现元素末尾添加一个看不见的块元素清除浮动</p>
-]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>前端</tag>
-        <tag>面试</tag>
       </tags>
   </entry>
   <entry>
@@ -1940,9 +1353,541 @@
         <category>阅读</category>
       </categories>
       <tags>
+        <tag>转载</tag>
         <tag>阅读</tag>
         <tag>文章</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>为什么现在的年轻人活得那么累？</title>
+    <url>/2022/10/05/%E5%B9%B4%E8%BD%BB%E4%BA%BA/</url>
+    <content><![CDATA[<h2 id="为什么现在的年轻人活得那么累？"><a href="#为什么现在的年轻人活得那么累？" class="headerlink" title="为什么现在的年轻人活得那么累？"></a>为什么现在的年轻人活得那么累？</h2><span id="more"></span>
+<p>21岁的“阿袋”在读者问答征集中提出问题：为什么现在二十岁的年轻人活得那么累？</p>
+<hr>
+<p>看到这个题目时我想起自己二十岁以后常常感叹累的瞬间。</p>
+<p>普通本科学历，笨鸟先飞，我比其他人更早参加实习，两个月后独立负责标杆房企的营销策划方案。领导是名校毕业的白富美，同事是到点就走的本地人，甲方是吹毛求疵、流程繁冗的国企，节点卡在眼前，日日加班，步步为营。那是第一份实习，对于二十二岁的我，要保证毕业不失业，只能追着别人跑。</p>
+<p>辗转几份工作后，已经有了一些可以反向选择的资本，但依然没敢停下来。从房地产的营销策划条线到了设计条线，由于不是相关专业出身，做事情永远慢半拍，平级同事的工作又常交给我处理，我从没拒绝过。那时的累是选择。我大可以完成工作就走，可以拒绝同事的委托，但生活不是孤立的点，今天的一切都不会白费。</p>
+<p>二十五岁时我基本完成了自恰——活着就是很辛苦的。<strong>因为不想跑，所以努力跑</strong>。</p>
+<p><strong>年轻人的累，来自爆炸的信息</strong>。互联网通过一块块屏幕，把金字塔顶端的生活碎片推来我们面前，年轻人眼中的世界充满贫富分化、容貌焦虑。</p>
+<p><strong>年轻人的累，来自教育的局限</strong>。一方面，发达地区和欠发达地区的贫富差距带来了教育资源的巨大落差；另一方面，多数人前二十年埋头苦读，迈出象牙塔时，又发现真正的丛林法则未在书中习得。</p>
+<p><strong>年轻人的累，来自沉重的感恩</strong>。二十岁自然活力无限，但父母老去的脚步从不减慢。如果自由的代价是让父母停在原地，那太多人会选择忍受年轻的累，太少人能把压力轻易卸下，独善其身。</p>
+<p>我们负重前行，有人岁月静好。</p>
+<p>而在我们看得到却触不可及的地方，外交官的儿子轻松成为高考状元，顶级奢侈品牌给疫情封控在家的VIP客户送去物资，女主播靠美貌登上福布斯富豪榜——王侯将相有“种”，天生丽质是“命”。</p>
+<p>作为观众的年轻人常常自嘲：<strong>我来人间凑数的日子</strong>。看似戏谑，实际上裹挟在“躺平”姿态下的真心话却是自卑和害怕——一切似乎已注定，奔跑的脚步将被历史的车轮轧平。</p>
+<p>但我今天写这些的目的并不是渲染年轻人的苦和累，也不是支持躺平和放弃，当然，更不是号召大家“卷”起来。</p>
+<p><strong>痛苦不是生活的唯一真相，一味乐观也不是</strong>。</p>
+<p>中国式教育鼓励比较、竞争、赢，因为我们国家人太多了，坦白讲，所有的机会都是争取来的。上个世纪处于温饱时人民争夺一口粮食，那是活下来的机会；竞争铁饭碗，那是生存的保障；高考，被称为千军万马过独木桥；考公务员，理想的岗位招人时千里挑一……</p>
+<p>物竞天择适者生存的逻辑根植于中国人脑子，因为我们脱贫还没有太久，退休制度和医保制度尚未覆盖全民。说累，其实不过是一边拿二十岁的汗水换六十岁的保障，一边不甘于成为时代沉默的炮灰。</p>
+<p>我在地产行业的第一年，领导告诉我一个极有效的工作技巧，列时间表。事情太多了，新增的太多，变化的也太多，只能靠把所有事项写下来，每天更新，每天完结。二十二岁的青春光鲜亮丽，背地里也在一遍遍时间倒推的紧迫中自我雕刻。</p>
+<p>我在地产行业的第三年，微信签名是很简单的五个字：和时间赛跑。所有的节点、目标都在推着人们走，只好无限增加工作时长。白天出差，晚上回自己的城市到公司做文件。夜与白昼同时被拉长。</p>
+<p>薪水似乎没有因工作年限的增加而产生突破，而中年危机、房价上涨从来没有等过人。</p>
+<p><strong>国人就是这样的，和资源、和同类竞争了以后，还要和时间比、和自己比</strong>。</p>
+<p>到工作第四年，有一天我突然意识到，人在工作中什么时候开始不那么累呢，是不比了。</p>
+<p>做错了事情——错了就错了，改就好了。</p>
+<p>今年业绩没有比去年更好，拿的钱少了——少就少了，继续干就完了。</p>
+<p><strong>生活没有别的办法，只能继续生活</strong>。</p>
+<p>有一天你发现你不是跟自己和解了也不是跟世界和解了，因为<strong>人活着不是一场比赛，每个人的状态、思想观念都不必跟其他人战斗</strong>。</p>
+<p>同为人类，我们承认年轻人的累，根本上是希望能够抚平焦虑：<strong>你的一切都在被“看见”</strong>。</p>
+<p>我们不歌颂苦难教育，也从不认为自己体会过的苦和累比别人更沉重、更深刻，<strong>因为苦难不应该被计算和比较，谁都不能傲慢地轻看他人的遭遇</strong>。</p>
+<p>而你之所以看穿人生艰难却不再愁眉不展，只因为这是你琢磨出来最有效的解法——沉在旋涡里没用，你还得继续冲向浪潮。<strong>我们呼吁勇敢和坚持，因为这是破釜沉舟的觉悟，是不得不做的抉择。倒不是酷不酷的问题，是自你进入生命的这片海，往前漂就成了唯一的使命</strong>。</p>
+]]></content>
+      <categories>
+        <category>问答</category>
+      </categories>
+      <tags>
+        <tag>问答</tag>
         <tag>转载</tag>
+        <tag>阅读</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>手写信会从这个世界上消失么？</title>
+    <url>/2022/10/05/%E6%89%8B%E5%86%99%E4%BF%A1/</url>
+    <content><![CDATA[<h2 id="手写信会从这个世界上消失么？"><a href="#手写信会从这个世界上消失么？" class="headerlink" title="手写信会从这个世界上消失么？"></a>手写信会从这个世界上消失么？</h2><span id="more"></span>
+<hr>
+<p>我驱车前往临镇时，经过一个红色的邮筒，突然想到——会吧。当我们这代人老去时，写信这种形式会从世界上消失吧。</p>
+<p>现在的年轻人几乎不依赖书信交流，邮局基本成为了老年人寄存养老金和社交的场所。</p>
+<p>微信让沟通变得快捷、方便。</p>
+<p>属于时代的工具不停更迭，大胆一点想，也许待我们老去，微信可能都不存在了。</p>
+<p>也许在未来，人体内植入了义体，只要愿意，想法便可直接通过大脑，传递给对方，连“码字”、“发语音”都省下了。</p>
+<p>也许还能搭配回忆场景特效，话语能配上记忆中的场景和细节。</p>
+<p>不仅快速，而且绝佳隐秘。</p>
+<p>但转念一想，真的隐秘么？</p>
+<p>这样的脑内沟通，被黑客高手破解后更容易窥探到，连最后一层人心隔肚皮都没有了。</p>
+<p>相比之下，书信反而更安全，当二进制代码组成的程序甜美地品鉴着你的生物信息，反倒不会在意那一份份白色的信笺。阅读完毕，烧掉，于是你完成了一次大逆不道的隐秘传播。</p>
+<p>沟通变得复古，却又安全了起来。那我相信信不会消失。</p>
+<p>当然，我觉得信件最终还是会陈列在博物馆，变成某种人类存在的证明。</p>
+<p>最初的智人因为沟通，相互传递信息，发展成为群落，发明了火，进而孕育出文明。未来的我们，哪一天走到了尽头，也许不是科技导致的肉身毁灭，而是我们再也不会交流了，亦或是说人类再也没有了交流的欲望了。一切都可通过科技完成供应，不论是食物，金钱，抑或是情感。</p>
+<p>如果我们连沟通的欲望都消失了，那么信也会消失的吧。</p>
+<p>车子驶过红色邮筒，后视镜中的它端庄、肃穆，却又有一丝美感，它好像在对我说，这一切都看我们人类自己的选择。</p>
+]]></content>
+      <categories>
+        <category>问答</category>
+      </categories>
+      <tags>
+        <tag>问答</tag>
+        <tag>转载</tag>
+        <tag>阅读</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>推荐一下适合假期的片单 or 书单？</title>
+    <url>/2022/10/02/%E4%B9%A6%E7%B1%8D%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<h2 id="推荐一下适合假期的片单-or-书单？"><a href="#推荐一下适合假期的片单-or-书单？" class="headerlink" title="推荐一下适合假期的片单 or 书单？"></a>推荐一下适合假期的片单 or 书单？</h2><span id="more"></span>
+<hr>
+<br>
+
+<blockquote>
+<p>1.《<strong>肖申克的救赎</strong>》。每一次，无论是看书还是看电影，《肖申克的救赎》都能让我流泪。真的好棒。好真诚，没有主角光环，不刻意，但能让你感受希望的力量。</p>
+</blockquote>
+<br>
+<br>
+
+
+<blockquote>
+<p>2.刘擎教授的《<strong>现代西方思想讲义</strong>》因为我很喜欢刘擎教授的表达的方式，内容可以理解，每章结束后面还有思考小问题，真的很喜欢这本书，打开思维</p>
+</blockquote>
+<br>
+<br>
+ 
+
+<blockquote>
+<p>3.《<strong>漫长的余生——一个北魏宫女和她的时代</strong>》历史也可以是普通人视角下的，她的命运，被能写进诗书的人和事所改变着，书写着。但只有她的碑文在告诉后世的人，她是谁，她经历过什么。通过她，我们也能感知到历史中没有碑文的芸芸众生的鲜活，她们都曾来过这个世界，亦如你我！</p>
+</blockquote>
+<br>
+<br>
+
+<blockquote>
+<p>4.《<strong>我不是完美小孩</strong>》<br>一位被现实撞得伤痕累累的“小孩”身份，看到的“大人”再也不是大人，我这个小孩也再也不是以前的“小孩”。我依旧不完美，依旧没那么阳光，那么勃勃生机。一幅幅画既是大人的也是小孩的倒影，我们何尝不是被要求“完美”地成长。但是最后的我成了一个普普通通的人，面对很多问题还是有很多不解，我也逐渐失去毫不犹豫的孤勇。可我依旧热爱着这本绘本，来源于最深处的勇气。来源于每个不完美，爱与被爱，期待与被期待，依旧伴随自己生活。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>5.推荐适合假期的片单：刚看完美剧《<strong>闪亮女孩</strong>》，本是奔着科幻去的，看完发现是心理创伤治愈片（女主视角），但一点不妨碍前五集悬疑+科幻的品质，这个和电影《妈的多重宇宙》类似，在科幻的框架中去创作，想起莫言曾经说：“文学艺术，永远不是唱赞歌的工具”，真心佩服小说作者的脑洞，另外影视化水准也极佳，真心强烈推荐！</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>6.《<strong>鄙视</strong>》把男性的情感和心理动态描写得很到位，激烈的暴力和性仿佛翻手覆手。一出完美的心理剧，和奥德修斯的呼应既是弗洛伊德式的，爱情是人的支撑，也放大了人的世俗、自大、自欺与妒忌。</p>
+</blockquote>
+<br>
+<br>
+ 
+
+<blockquote>
+<p>7.推荐刘瑜的《<strong>送你一颗子弹</strong>》。因为这是轻松幽默又有点小哲理思考的日常合集。适合在轻松休闲的假期里，放手边随时看一篇，放下后出去玩，回头再拿起看下一篇也不会吃力。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>8.李娟《<strong>冬牧场</strong>》，用写实的笔触记录了新疆游牧民族在零下几十度寒冬里的放牧生活，有寒冷，也有人文的温情。通过李娟细腻的笔触，读起来让人心神荡漾。这本书，让我看到了，新疆这片广袤的土地上，另一种我从未了解过的牧民的生活，同时，也从中感受到了生生不息的生命的力量。有时我们一再追问生命的意义，这本书给我们提供了一个视角，每天艰辛地劳作放牧，辛苦枯燥，但却又让人感受到一种蓬勃生命力，一种质朴坚实的力量。也向读者诠释了，活着，本身就是意义。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>9.读辛波斯卡的诗吧《<strong>我曾这样寂寞生活</strong>》最开始因为电台知道辛波斯卡，去查了一下百度百科，感觉她应该是一个很帅气的诗人，在她的诗歌中能看到很多情绪，坚韧？勇敢？自由？难受？失落……虽不是个喜欢凄美文学的人，但是诗歌有时候或多或少有些“忧郁”成分，而且因为电台的滤镜加持，即便有些诗歌的情绪感觉有些down但是还是很喜欢！对辛波斯卡的爱一发不可收拾！如果你也喜欢诗，邀请你读辛波斯卡呀，一个很帅气的女人。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>10.我认为在假期主要是放松平和地享受快乐，《<strong>有熊谷守一的地方</strong>》，《<strong>日日是好日</strong>》，《<strong>人生果实</strong>》，《<strong>小花的味噌汤</strong>》都是我非常喜欢n刷的片子。</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>11.真的特别特别爱蔡崇达，推荐假期看的话，就是蔡崇达的《<strong>皮囊</strong>》吧<br>理由：这本书是由各个小故事构成的，每天都可以看一个，读起来不会觉得很累，从一些和阿婆，跟着自己长大的朋友，从外面回来开KTV的妹妹，从他们的故事里都可以或多或少找到自己的影子，然后再收拾好心情出发，是真的读起来很有趣味！</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>12.书最近在看：《<strong>十三邀3：我们都在给大问题做注脚</strong>》，有些深刻的话语值得用文字记录下来，反复咀嚼。<br>电影推荐《<strong>普罗旺斯的夏天</strong>》，在夏天的尾巴回顾一下夏日美好吧！每一帧都像画一样~</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>13.阿伦森的《<strong>绝非偶然</strong>》，这本书真是改变了我对自我的认知，让我从一个胆小很自卑的人，开始想去尝试自己想要又不敢做的事情。虽然不能说一步跨越，但是潜移默化中心里多了很多积极乐观的东西。它从心理学的角度剖析了每个人的认知心理和自我行为的关联性，告诉人们只要你想改变，并付出行动，就有可能改变。</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>14.最近读了余华的《<strong>文城</strong>》，这是一部“道路小说”，讲了北方男人林祥福，为了寻找不辞而别的妻子，只身一人来到南方小镇的故事。读余华的小说，更像是寓言，他把时代的遭遇，压缩在符号化的人物身上，从而让我们记住历史，记住那些容易被遗忘被忽略的小人物。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>15.推荐影片：《<strong>落叶归根</strong>》<br>理由：虽然是比较老的电影，而且讲的内容也很简单，是一个在外打工的中年男子，带着自己的工友回家的故事（此时的工友已经因病去世了），所以他带上的只是一具尸体，但是，一路上的颠沛他都没有抛下工友，打劫没有，没车坐也没有，全片简单没有杂冗的剧情，虽然故事简单但是看完真的会让人情触之深，原来时间也有温情，原来人与人之间也会温存这样的故事，串联着你和我……</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>16.假期片单推荐：《<strong>托斯卡纳艳阳下</strong>》<br>因为一次旅行，婚姻不顺的女作家定居在了意大利托斯卡尼，人生开始有了转变，在这里拥有一座自己的别墅，一个爱的人，然后过着面朝大海春暖花开的生活，内心也开始变得丰盈，这个假期跟着电影一起去感受一下阳光下的爱情，令人向往而感动。</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>17.《<strong>唐顿庄园</strong>》创作者不约而同聚焦于人性之恶时，还有人愿意思考善良、伟大、优雅，是这个时代难得的品质（ps节奏缓慢的英剧就是消磨时间的利器）。</p>
+</blockquote>
+<br>
+<br>
+
+
+<blockquote>
+<p>18.推荐《<strong>亚历山大和他最糟糕的一天</strong>》！不用被电影名字误导，是一部非常轻松的喜剧电影，围绕一大家人展开的荒诞搞笑故事，结局也非常温馨～适合一个人看，也适合和家人朋友一起看，假期当然要无脑笑！</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>19.《<strong>纯真博物馆</strong>》吧，每次看了都有新感受，让人思考究竟什么是爱和欲望，故事有时候并没有一个完美的结局，人生也是一样，但是永远不要丢失对美好的幻想。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>20.推荐简媜的《<strong>谁在银光闪闪的地方，等你</strong>》这本书用幽默戏谑的语言谈论“老病死”话题，年轻的朋友阅读，既可以预见自己未来的变化，又能增加在生活中对父母的了解，学会多一份体谅。</p>
+</blockquote>
+<br>
+<br>
+ 
+
+<blockquote>
+<p>21.《<strong>你长大了就会懂</strong>》<br>虽然嘴上经常说老了以后去养老院，但是从来也没有了解过养老院到底是什么情况，也从来没有好好想一想死亡到底意味着什么，我们所追求的意义究竟有没有意义…… 跟着书中的人物感受他们在养老院的生活日常，慢慢领悟来人世这一趟的不易。</p>
+</blockquote>
+<br>
+<br>
+ 
+
+<blockquote>
+<p>22.《<strong>纽约的一个雨天</strong>》。成都入秋了，雨每天下个不停。我在教室的窗边复习考研，昨天学累了索性休息一下。翻了好久没用的迅雷，想着纽约的雨天还没看，姑且看着换换脑。结果片中的甜茶那么文艺，范宁那么灵动，还有同样下着雨的纽约的傍晚，有钢琴，有爵士。我在最合适的时间看了这部电影。</p>
+</blockquote>
+<br>
+<br>
+
+ 
+
+<blockquote>
+<p>23.书单：<br>《<strong>不安之书</strong>》费尔南多·佩索阿：我们是两个深渊，是举目凝视天空的深井。<br>《<strong>安德鲁不想孤独终老</strong>》理查德·罗珀：独居且从不请人到家里来至少有一个好处——没人能够对他的生活方式评头论足。<br>《<strong>蝲蛄吟唱的地方</strong>》迪莉娅·欧文斯：她知道自己难过的并不是蔡斯，而是被定义为抛弃的一生。头顶的天空和云层互相搏斗着，她大声说：“我只能一个人生活。我知道这点。我早就知道没有人会为我停留。”<br>《<strong>母爱的羁绊</strong>》卡瑞尔·麦克布莱恩：<br>康复来自理解和爱，而非指责。一旦我们理解了母亲所面对的那些导致她们无力爱我们的困难，接下来就能开始改善我们自己的生活，最终目标是了解自己、对自己负责，进而获得康复。</p>
+</blockquote>
+<br>
+<br>
+
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>24.《<strong>如果我们的语言是威士忌</strong>》，村上春树的游记在假期旅途中就可以看完，读着惬意舒服，就像喝着一杯冰威士忌。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>25.推荐一个导演：伍迪·艾伦。当你不想看沉闷深刻的艺术电影（没有说伯格曼不好的意思），也不想看爆米花式的商业大片的时候，他是最好的选择！他的几部作品：《<strong>安妮·霍尔</strong>》《<strong>曼哈顿</strong>》《<strong>开罗紫玫瑰</strong>》。</p>
+</blockquote>
+<br>
+<br>
+
+
+
+<blockquote>
+<p>26.书本推荐《<strong>香水</strong>》，在悠闲的假期里一起感受格雷诺耶的嗅觉艺术吧！还有是枝裕和的电影也非常治愈系，《<strong>海街日记</strong>》也是个不错的选择！</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>27.很久没有静下心来认真看一部电影了，今天看了《<strong>秋天的故事</strong>》，影片的风格画面色调看着都很舒服，把秋天拍得太好了。<br>恋爱都不容易，哪有什么偶遇一见钟情啊，等不再年轻的时候，两个人能聊得来就已经很好了。<br>其实欧嘉莉还是很幸运的，虽然不再年轻了，但是有很好的朋友，有自己的葡萄园，不爱热闹不愿交友最后还遇见了爱情。真好。</p>
+</blockquote>
+<br>
+<br>
+
+
+ 
+
+<blockquote>
+<p>28.我建议读一下四大名著，从最基础的开始，加强自身文化涵养和家国情怀。<br>现代网络，最不缺乏的就是推荐，只要想找，比比皆是，很多人在纷杂的网络信息里逐渐迷失了自己的根，总习惯去追求那些看似很高大上但实则并不适用的文学艺术。<br>四大名著看似很普通，但很多人未必完整地读过一遍，而且很多都是在自己学生时代阅读的，理解浅显或片面，拿到现在来看，我们也许更加能够看清楚那些妖魔鬼怪、世事人情背后所隐藏的意义。</p>
+</blockquote>
+<br>
+<br>
+
+
+
+ 
+
+<blockquote>
+<p>29.那我推荐一下片单吧：<br>日剧《<strong>凪的新生活</strong>》：是一个女性蜕变和成长，有自己的主见选择正确的、有尊严的感情的故事。这部剧还蛮适合正处于感情成长期的女孩子们看的。<br>日剧《<strong>短剧开始了</strong>》：每一集的侧重点都不一样，但又像一个圆圈一样星星点点地串在一起，让人感叹编剧情节巧妙。是当代青年的真实写照，没有夸张的表演，但像五谷杂粮，越嚼越有味道。*<br>日剧神剧《<strong>legal high</strong>》：这部剧出了一个神角色古美门，每一集不仅与新垣结衣饰演的律师助理斗嘴拌嘴外，还以超强嘴炮“战无不胜”，其中的博弈也很精彩，十分推荐。<br>日剧《<strong>追忆潸然</strong>》：这是一部对我而言很奇妙的剧。平常也就匆匆略过，但每到冬天就会自动打开这部剧。也许是金句王坂元裕二，也许是那句“没关系，我会跑着穿过雨和雨之间的缝隙。”<br>美剧《<strong>怪奇物语</strong>》：这部剧一共有四部，剧情是相互串联的。我本来是不爱看连续季的，可是打开了第一部后就一集一集停不下来了，下饭好剧。</p>
+</blockquote>
+<br>
+<br>
+ 
+
+<blockquote>
+<p>30.国庆片单day1到day7《<strong>筋疲力尽</strong>》《<strong>四百击</strong>》《<strong>祖与占</strong>》《<strong>法外之徒</strong>》《<strong>慕德家一夜</strong>》《<strong>漂亮的塞尔日</strong>》《<strong>巴黎属于我们</strong>》美好的七天长假，何不用心去了解一个电影时代呢？法国新浪潮是朦胧的，在这个好莱坞工业化电影挟风俱雨地侵入每个人关于电影的印象时，那一套奉为模板的视听语言在法国新浪潮面前全部黯然失色。开始看时也许会觉得无聊，我为何浪费时间好似我邻居日常的鸡毛蒜皮上？但是相信在这每天的一部片之后，在搜索百科，影评的途中，它会像一剂晨雾在心中氤氲开来，耳目一新。</p>
+</blockquote>
+<br>
+
+<h3 id="好的推荐，欢迎下方留言，好的作品，应让更多人看见"><a href="#好的推荐，欢迎下方留言，好的作品，应让更多人看见" class="headerlink" title="好的推荐，欢迎下方留言，好的作品，应让更多人看见 "></a><center>好的推荐，欢迎下方留言，好的作品，应让更多人看见 </center></h3>]]></content>
+      <categories>
+        <category>问答</category>
+      </categories>
+      <tags>
+        <tag>问答</tag>
+        <tag>书籍</tag>
+        <tag>电影</tag>
+        <tag>交流</tag>
+        <tag>转载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>面试题</title>
+    <url>/2022/09/25/%E9%9D%A2%E9%A2%98/</url>
+    <content><![CDATA[<p> 面试指南</p>
+<span id="more"></span>
+<h1 id="CSS-x2F-HTML部分"><a href="#CSS-x2F-HTML部分" class="headerlink" title="CSS&#x2F;HTML部分"></a>CSS&#x2F;HTML部分</h1><h2 id="1-css布局方式"><a href="#1-css布局方式" class="headerlink" title="1.css布局方式"></a>1.css布局方式</h2><pre><code>1.table布局(不常用)
+2.flex布局
+3.float布局
+4.响应式布局
+</code></pre>
+<h2 id="2-盒子模型"><a href="#2-盒子模型" class="headerlink" title="2.盒子模型"></a>2.盒子模型</h2><blockquote>
+<p>标准盒子模型和IE盒子模型</p>
+</blockquote>
+<pre><code>    IE盒子模型的宽度包括content和padding还有border，标准盒子不包括
+</code></pre>
+<blockquote>
+<p>这两个的区别主要是什么</p>
+</blockquote>
+<pre><code>    box-sizing:content-box 标准盒子模型
+    box-sizing:border-box IE盒子模型
+</code></pre>
+<h2 id="3-html5新标签"><a href="#3-html5新标签" class="headerlink" title="3.html5新标签"></a>3.html5新标签</h2><blockquote>
+<p>canvas 新元素</p>
+</blockquote>
+<pre><code>    &lt;canvas&gt;标签定义图形，比如图表和其他图像。该标签基于js的绘图API
+</code></pre>
+<blockquote>
+<p>新多媒体元素</p>
+</blockquote>
+<pre><code>     &lt;audio&gt; 定义音频内容
+     &lt;video&gt; 定义视频
+</code></pre>
+<h2 id="4-BFC"><a href="#4-BFC" class="headerlink" title="4.BFC"></a>4.BFC</h2><blockquote>
+<p>BFC，块级格式化上下文，它是页面中一个独立的容器，容器中的元素不会影响到外面的元素。</p>
+</blockquote>
+<blockquote>
+<p>触发条件 (包括但不限于)</p>
+</blockquote>
+<ul>
+<li>根元素，及HTML元素</li>
+<li>浮动元素:float值为left、right</li>
+<li>overflow值不为visible，为auto、scroll、 hidden</li>
+<li>display的值为inline—block，inltable-cell、table-caption、table、inline-table、<br> flex、inline-flex、grid、inline-grid</li>
+<li>position的值为absolute或fixed</li>
+</ul>
+<h2 id="5-浏览器运行机制"><a href="#5-浏览器运行机制" class="headerlink" title="5.浏览器运行机制"></a>5.浏览器运行机制</h2><pre><code>    1.创建DOM树
+    2.构建渲染树，css渲染
+    3.布局渲染，每个元素的大小位置
+    4.绘制渲染树，画出来
+    重绘 : 改变元素的外观属性例如div的color、background-color等属性发生改变时
+
+    重排(回流) ：元素的规模尺寸、布局、隐藏改变时
+
+    代价 : 耗时，导致浏览器卡慢
+</code></pre>
+<h2 id="6-居中的方式"><a href="#6-居中的方式" class="headerlink" title="6.居中的方式"></a>6.居中的方式</h2><p>  <strong>垂直居中的方式</strong></p>
+<p>  行高&#x3D;高</p>
+<p>  绝对定位top50%,自身宽度的50%的负值<br>  flex布局 align—center</p>
+<p>  <strong>水平居中的方式</strong><br>  绝对定位</p>
+<p>  flex布局juest—center</p>
+<p>  text-align center</p>
+<h2 id="7-rem-em-vh-px各自代表的含义"><a href="#7-rem-em-vh-px各自代表的含义" class="headerlink" title="7.rem,em,vh,px各自代表的含义"></a>7.rem,em,vh,px各自代表的含义</h2><p> <strong>px</strong>:绝对单位，页面按照精确像素展示<br> <strong>em</strong>:相对单位，基准点为父节点字体的大小，如果自身定义了font-size按照自身来计算，整个页面内 <strong>1em</strong> 不是一个固定的值<br> <strong>rem</strong>：相对单位,理解为 <strong>root em</strong>,相对根节点<strong>html</strong>的字体大小来计算<br> <strong>vh、vw</strong>:主要用于视口大小布局，在页面布局上更加方便简单</p>
+<h2 id="8-有哪些方式可以隐藏页面元素以及区别"><a href="#8-有哪些方式可以隐藏页面元素以及区别" class="headerlink" title="8.有哪些方式可以隐藏页面元素以及区别"></a>8.有哪些方式可以隐藏页面元素以及区别</h2><ul>
+<li>display:none</li>
+<li>visibility:hidden</li>
+<li>opacity:0</li>
+<li>设置height、widht模型属性为0</li>
+<li>position:absolute</li>
+<li>clip-path</li>
+</ul>
+<p><strong>区别</strong><br>  <img src="隐藏元素.jpg"></p>
+<h2 id="9-什么是响应式设计？响应式设计的基本原理是什么？如何做？"><a href="#9-什么是响应式设计？响应式设计的基本原理是什么？如何做？" class="headerlink" title="9.什么是响应式设计？响应式设计的基本原理是什么？如何做？"></a>9.什么是响应式设计？响应式设计的基本原理是什么？如何做？</h2><pre><code>    响应式网站设计是一种网络页面设计布局，页面的设计与开发应当根据用户行为以及设备环境进行相应的响应和调整
+</code></pre>
+<p>  <strong>响应式网站常见特点</strong></p>
+<ul>
+<li>同时适配PC+平板+手机等</li>
+<li>标签导航在接近手持设备时改变为经典的抽屉式导航</li>
+<li>网站的布局会根据视口来调整模块的大小和位置</li>
+</ul>
+<p><strong>实现响应式布局的方式如下</strong></p>
+<ul>
+<li>媒体查询（我们可以设置不同类型的媒体条件，并根据对应的条件，给相应符合条件的媒体调用相对应的样式表）</li>
+<li>百分比</li>
+<li>vm&#x2F;vh</li>
+<li>rem</li>
+</ul>
+<p>响应式设计实现通常会从以下几个方面思考</p>
+<ul>
+<li>弹性盒子(包括图片、表格、视频)和媒体查询等技术</li>
+<li>使用百分比布局创建流式布局的弹性UI，同时使用媒体查询限制元素的尺寸和内容变更范围</li>
+<li>使用相对单位使得内容自适应调节</li>
+<li>选择断点，针对不同断点实现不同布局和内容展示</li>
+</ul>
+<h2 id="10-css选择器有哪些以及优先级"><a href="#10-css选择器有哪些以及优先级" class="headerlink" title="10.css选择器有哪些以及优先级"></a>10.css选择器有哪些以及优先级</h2><p><strong>关于css属性选择器常用的有:</strong></p>
+<ul>
+<li>id选择器</li>
+<li>类(class)选择器</li>
+<li>标签选择器</li>
+<li>后代选择器</li>
+<li>子选择器</li>
+<li>相邻同胞选择器</li>
+<li>群组选择器</li>
+</ul>
+<p><strong>还有一些使用频率没那么多的选择器</strong></p>
+<ul>
+<li><p>伪类选择器</p>
+<pre><code>  :link 选择未被访问的链接
+  :visited 选择已被访问的链接
+  :active 选择活动链接
+  :hover 鼠标指针浮动在上面的元素
+  :focus 选择具有焦点的
+  :first-child 父元素的首个子元素
+</code></pre>
+</li>
+<li><p>伪元素选择器</p>
+<pre><code>  :first-letter ：用于选取指定选择器的首字母
+  :first-line ：选取指定选择器的首行
+  :before : 选择器在被选元素的内容前面插入内容
+  :after : 选择器在被选元素的内容后面插入内容
+</code></pre>
+</li>
+<li><p>属性选择器</p>
+<pre><code>  [attribute] 选择带有attribute属性的元素
+  [attribute=value] 选择所有使用attribute=value的元素
+  [attribute~=value] 选择attribute属性包含value的元素
+  [attribute|=value]：选择attribute属性以value开头的元素
+</code></pre>
+</li>
+</ul>
+<p><strong>在css3中新增的选择器</strong></p>
+<ul>
+<li><p>层次选择器（p~ul），选择前面有p元素的每个ul元素</p>
+</li>
+<li><p>伪类选择器</p>
+<pre><code>  :first-of-type 父元素的首个元素
+  :last-of-type 父元素的最后一个元素
+  :only-of-type 父元素的特定类型的唯一子元素
+  :only-child 父元素中唯一子元素
+  :nth-child(n) 选择父元素中第N个子元素
+  :nth-last-of-type(n) 选择父元素中第N个子元素，从后往前
+  :last-child 父元素的最后一个元素
+  :root 设置HTML文档
+  :empty 指定空的元素
+  :enabled 选择被禁用元素
+  :disabled 选择被禁用元素
+  :checked 选择选中的元素
+  :not(selector) 选择非 &lt;selector&gt; 元素的所有元素
+</code></pre>
+</li>
+<li><p>属性选择器</p>
+<pre><code>  [attribute*=value]：选择attribute属性值包含value的所有元素
+  [attribute^=value]：选择attribute属性开头为value的所有元素
+  [attribute$=value]：选择attribute属性结尾为value的所有元素
+</code></pre>
+</li>
+</ul>
+<p><strong>优先级</strong></p>
+<pre><code>    内联 &gt; ID选择器 &gt; 类选择器 &gt; 标签选择器
+</code></pre>
+<h2 id="清楚浮动的方法"><a href="#清楚浮动的方法" class="headerlink" title="清楚浮动的方法"></a>清楚浮动的方法</h2><p><strong>方法一：使用带 clear 属性的空元素</strong></p>
+<p>在浮动元素后使用一个空元素,并在 CSS 中赋 予.clear{clear:both;}属性即可清理浮动。</p>
+<p><strong>方法二：使用 CSS 的 overflow 属性</strong></p>
+<p>给浮动元素的容器添加 overflow:hidden;或 overflow:auto;可以清除浮动，另外在 IE6 中还 需要触发 hasLayout ，例如为父元素设置容器宽高或设置 zoom:1。 在添加 overflow 属性后，浮动元素又回到了容器层，把容器高度撑起，达到了清理浮动 的效果。</p>
+<p><strong>方法三：给浮动的元素的容器添加浮动</strong></p>
+<p>给浮动元素的容器也添加上浮动属性即可清除内部浮动，但是这样会使其整体浮动，影 响布局，不推荐使用。</p>
+<p><strong>方法四：使用 CSS 的:after 伪元素</strong>    </p>
+<p>结合:after 伪元素（注意这不是伪类，而是伪元素，代表一个元素之后最近的元素）和 IEhack ，可以完美兼容当前主流的各大浏览器，这里的 IEhack 指的是触发 hasLayout。 给浮动元素的容器添加一个 clearfix 的 class，然后给这个 class 添加一个:after 伪元素实 现元素末尾添加一个看不见的块元素清除浮动</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/09/24/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span> <br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -2016,8 +1961,63 @@
       </categories>
       <tags>
         <tag>问答</tag>
-        <tag>阅读</tag>
         <tag>转载</tag>
+        <tag>阅读</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>主题配置文档</title>
+    <url>/2020/05/05/hexo-theme-zhaoo-doc/</url>
+    <content><![CDATA[<p><code>zhaoo</code> 主题的使用指南以及配置指北。</p>
+<span id="more"></span>
+<h2 id="关于文档"><a href="#关于文档" class="headerlink" title="关于文档"></a>关于文档</h2><blockquote>
+<p>如有疑惑欢迎加鹅群咨询：<strong>550262893</strong>&gt; 约定：无特殊说明时，文中“博客配置”指 <code>/_config.yml</code>，“主题配置”指 <code>/theme/hexo-theme-zhaoo/_config.yml</code>，缺省为“主题配置”。</p>
+</blockquote>
+<p style="text-align: right;">文档更新于：2021年4月4日</p>
+
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="主题安装"><a href="#主题安装" class="headerlink" title="主题安装"></a>主题安装</h3><p>安装 <code>Hexo</code> 后进入根目录：</p>
+<p><code>bash$ cd hexo</code><br>安装 <code>zhaoo</code> 主题：</p>
+<p><code>bash$ git clone https://github.com/izhaoo/hexo-theme-zhaoo.git themes/zhaoo</code></p>
+<h3 id="开启主题"><a href="#开启主题" class="headerlink" title="开启主题"></a>开启主题</h3><p>修改 <code>Hexo</code> 根目录下的 <code>_config.yml</code> 文件启用 <code>zhaoo</code> 主题：</p>
+<p><code>ymltheme: zhaoo</code></p>
+<p>启动 <code>Hexo</code> 服务器预览：</p>
+<p><code>bash$ hexo clean &amp;&amp; hexo s</code></p>
+<h3 id="博客配置"><a href="#博客配置" class="headerlink" title="博客配置"></a>博客配置</h3><p>编辑 <code>Hexo</code> 根目录下的 <code>_config.yml</code> 文件，配置博客网站相关功能，对整个网站生效。</p>
+<p>建议将文章数量改为<strong>9</strong>篇：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">index_generator:</span>  <br><span class="hljs-attr">path:</span> <span class="hljs-string">&#x27;&#x27;</span>  <br><span class="hljs-attr">per_page:</span> <span class="hljs-number">9</span>  <span class="hljs-comment">#文章数量改为9篇（3的倍数更和谐）  </span><br><span class="hljs-attr">order_by:</span> <span class="hljs-string">-date</span><br></code></pre></td></tr></table></figure>
+<p>启用代码高亮效果：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">highlight:</span><br><span class="hljs-attr">enable:</span> <span class="hljs-literal">true</span>  <span class="hljs-comment">#启用代码高亮效果</span><br><span class="hljs-attr">line_number:</span> <span class="hljs-literal">true</span><br><span class="hljs-attr">auto_detect:</span> <span class="hljs-literal">true</span>  <br><span class="hljs-attr">hljs:</span> <span class="hljs-literal">true</span>  <br><span class="hljs-attr">tab_replace:</span><br></code></pre></td></tr></table></figure>
+<p>编辑 <code>zhaoo</code> 主题目录下的 <code>_config.yml</code> 文件，配置主题相关功能，只对主题生效。建议参考 <a href="https://github.com/izhaoo/hexo-theme-zhaoo/blob/master/_config.yml">_config.yml</a> 和本文进行配置，具体配置内容见下文。</p>
+<h3 id="主题更新"><a href="#主题更新" class="headerlink" title="主题更新"></a>主题更新</h3><p>进入到 <code>zhaoo</code> 主题目录：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">cd</span> themes/zhaoo<br></code></pre></td></tr></table></figure>
+<p>从 <code>GitHub</code> 获取更新：<br><code>bash$ git pull</code></p>
+<h2 id="全局配置"><a href="#全局配置" class="headerlink" title="全局配置"></a>全局配置</h2><h3 id="头部导航-NavBar"><a href="#头部导航-NavBar" class="headerlink" title="头部导航 (NavBar)"></a>头部导航 (NavBar)</h3><p>配置项 <code>navbar</code> 用于设置 <strong>头部导航条</strong>。</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">navbar:</span>  <br><span class="hljs-attr">enable:</span> <span class="hljs-literal">true</span>  <br><span class="hljs-attr">back_home:</span> <span class="hljs-literal">true</span><br><span class="hljs-string">````</span><br><span class="hljs-string">enable`</span> <span class="hljs-string">用于控制头部导航条全局显示/隐藏。</span><br><br><span class="hljs-string">`back_home`</span> <span class="hljs-string">用于开启返回首页按钮；其余的功能按钮随各自配置开启，例如“二维码”、“黑夜模式”、“搜索”等。</span><br><br><span class="hljs-comment">### 导航菜单 (Menu)</span><br><span class="hljs-string">配置项</span> <span class="hljs-string">`menu`</span> <span class="hljs-string">用于设置</span> <span class="hljs-string">**导航菜单**。</span><br><span class="hljs-string">```yml</span><br><span class="hljs-comment"># Menu</span><br><span class="hljs-attr">menu:</span>  <br><span class="hljs-attr">home:</span> <span class="hljs-string">/</span> <span class="hljs-string">||</span> <span class="hljs-string">首页</span>  <br><span class="hljs-attr">galleries:</span> <span class="hljs-string">/galleries</span> <span class="hljs-string">||</span> <span class="hljs-string">摄影</span>  <br><span class="hljs-attr">archives:</span> <span class="hljs-string">/archives</span> <span class="hljs-string">||</span> <span class="hljs-string">归档</span>  <br><span class="hljs-attr">tags:</span> <span class="hljs-string">/tags</span> <span class="hljs-string">||</span> <span class="hljs-string">标签</span>  <br><span class="hljs-attr">categories:</span> <span class="hljs-string">/categories</span> <span class="hljs-string">||</span> <span class="hljs-string">分类</span>  <br><span class="hljs-attr">about:</span> <span class="hljs-string">/about</span> <span class="hljs-string">||</span> <span class="hljs-string">关于</span><br></code></pre></td></tr></table></figure>
+<p>用 <strong>||</strong> 将内容分割为两部分，前面部分为页面 <code>URL</code>，后面部分为菜单中显示的名称。</p>
+<p>对于系统默认页面，如 <code>归档（/archives）</code>、<code>首页（/）</code> 等，直接添加菜单即可；对于独立页面，如 <code>标签（tags）</code>、<code>分类（categories）</code>，则需先创建页面后再添加菜单。</p>
+<h3 id="主题颜色"><a href="#主题颜色" class="headerlink" title="主题颜色"></a>主题颜色</h3><p>可以根据个人喜好，定制主题颜色。在配置项 <code>color</code> 中设置颜色。</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Color</span><br><span class="hljs-attr">color:</span>  <br><span class="hljs-attr">text:</span> <span class="hljs-string">&#x27;#33333D&#x27;</span>  <br><span class="hljs-attr">text-secondary:</span> <span class="hljs-string">&#x27;#4e4e4e&#x27;</span>  <br><span class="hljs-attr">text-third:</span> <span class="hljs-string">&#x27;#999999&#x27;</span>  <br><span class="hljs-attr">background:</span> <span class="hljs-string">&#x27;#ffffff&#x27;</span>  <br><span class="hljs-attr">background-secondary:</span> <span class="hljs-string">&#x27;#f6f8fa&#x27;</span>  <br><span class="hljs-attr">border:</span> <span class="hljs-string">&#x27;#eeeeee&#x27;</span>  <br><span class="hljs-attr">text-dark:</span> <span class="hljs-string">&#x27;#dddddd&#x27;</span>  <br><span class="hljs-attr">text-secondary-dark:</span> <span class="hljs-string">&#x27;#9899ab&#x27;</span>  <br><span class="hljs-attr">text-third-dark:</span> <span class="hljs-string">&#x27;#7d8594&#x27;</span>  <br><span class="hljs-attr">background-dark:</span> <span class="hljs-string">&#x27;#1e2128&#x27;</span>  <br><span class="hljs-attr">background-secondary-dark:</span> <span class="hljs-string">&#x27;#1a1d22&#x27;</span>  <br><span class="hljs-attr">border-dark:</span> <span class="hljs-string">&#x27;#2b3038&#x27;</span>  <br><span class="hljs-attr">link:</span> <span class="hljs-string">&#x27;#FF3B00&#x27;</span><br></code></pre></td></tr></table></figure>
+<p>可以使用 <code>十六进制</code>、<code>rgba</code>、<code>颜色名称</code> 方式，注意需要用引号包裹。</p>
+<p>目前有两套颜色模式，分别是 <strong>浅色模式（白天）</strong> 和 <strong>深色模式（黑夜）</strong>，请注意颜色搭配。<code>link</code> 为强调色，表现为 <code>hover</code>、<code>active</code> 等。</p>
+<p>分享几个配色网站：<a href="https://colors.ichuantong.cn/">中国传统颜色</a>、<a href="https://nipponcolors.com/">日本传统颜色</a></p>
+<h3 id="站点图标"><a href="#站点图标" class="headerlink" title="站点图标"></a>站点图标</h3><p>配置项 <code>favicon</code> 可设置站点图标，建议使用 <code>ico</code> 或 <code>png</code> 格式。</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Favicon</span><br><span class="hljs-attr">favicon:</span>  <br><span class="hljs-attr">small:</span> <span class="hljs-string">/images/icons/favicon-16x16.png</span>  <br><span class="hljs-attr">medium:</span> <span class="hljs-string">/images/icons/favicon-32x32.png</span><br><span class="hljs-attr">apple_touch_icon:</span> <span class="hljs-string">/images/icons/apple-touch-icon.png</span> <br><span class="hljs-attr">safari_pinned_tab:</span> <span class="hljs-string">/images/icons/stun-logo.svg</span><br><span class="hljs-attr">msapplication:</span> <span class="hljs-string">/images/icons/favicon-144x144.png</span><br><br></code></pre></td></tr></table></figure>
+<p>有多种尺寸的图片需要配置，可以参考默认图标的尺寸用 <code>PS</code> 裁剪，或使用：<a href="https://icon.wuruihong.com/">图标工厂</a></p>
+<h3 id="全局字体"><a href="#全局字体" class="headerlink" title="全局字体"></a>全局字体</h3><p>配置项 <code>font</code> 中可设置全局字体的 <strong>大小</strong> 和 <strong>风格系列</strong>。</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Font</span><br><span class="hljs-attr">font:</span>  <br><span class="hljs-attr">size:</span> <span class="hljs-string">14px</span>  <br><span class="hljs-attr">family:</span> <span class="hljs-string">&#x27;Hiragino Sans GB&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">&#x27;Hiragino Sans GB W3&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">&#x27;Microsoft YaHei&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">&#x27;WenQuanYi Micro Hei&#x27;</span><span class="hljs-string">,</span> <span class="hljs-string">sans-serif</span><br><br></code></pre></td></tr></table></figure>
+<ul>
+<li><code>size</code>: 字体大小。</li>
+<li><ul>
+<li><code>family</code>: 字体风格系列。</li>
+</ul>
+</li>
+<li><h3 id="背景图片"><a href="#背景图片" class="headerlink" title="背景图片"></a>背景图片</h3></li>
+</ul>
+<p> 配置项 <code>background_image</code> 可设置背景图片，直接填写图片地址即可。<br> <figure class="highlight yml"><table><tr><td class="code"><pre><code class="hljs yml"><span class="hljs-comment"># Background Image</span><br><span class="hljs-attr">background_image:</span><br><br></code></pre></td></tr></table></figure><br> tips: 建议不设置背景图片，默认的 <strong>纯白背景</strong> 最搭配，背景颜色也可在 <a href="#%E4%B8%BB%E9%A2%98%E9%A2%9C%E8%89%B2">主题颜色</a> 中设置。</p>
+<h3 id="加载动画-Loading-配置项-loading-可设置载入动画，会在-页面跳转、懒加载-时加载，目前仅支持图片形式。yml-Loadingloading-images-theme-loading-gif建议使用-gif-动图，可在-LottieFiles-下载。tips-未来将支持自定义-css、svg-等多种方式的载入动画，敬请期待。-欢迎页面配置项-preview-中的一些列配置可自定义欢迎页面。yml-Previewpreview-enable-true-model-wave-wave-cloud-background-type-image-image-video-default-image-light-images-theme-welcome-image-jpg-dark-images-theme-welcome-image-jpg-video-api-https-source-unsplash-com-random-1920x1080-size-cover-css-background-size-position-center-css-background-position-motto-default-我在开了灯的床头下，想问问自己的心啊。-api-https-v1-hitokoto-cn-encode-text-amp-c-j-color-39-ffffff-39-enable-用来-开启-x2F-关闭-欢迎页面。-效果模式-model-设置效果模式，有-波浪（wave）-和-云层（cloud）-两种模式可选择。-欢迎图片配置项-background-用来设置欢迎图片，其中：-type-图片或视频。-default-image-配置静态图片，填写静态图片-URL-即可。开启-深色模式-后支持配置-深色-x2F-浅色-两种模式下的背景图片。-video-配置动态视频，填写视频-URL-即可。-api-配置随机图片，可使用第三方-API，优先级-随机图片（api）-gt-静态图片（default）。推荐-API：Unsplash、必应图片。-size-和-position-设置图片的-尺寸-和-位置，参考-CSS-中的属性即可。-格言配置项-motto-用来设置格言，其中：-default-配置静态格言，填写格言文本即可。-api-配置随机格言，可使用第三方-API，优先级-随机格言（api）-gt-静态格言（default）。推荐-API：一言、今日诗词。-color-配置文字颜色。-全局搜索前置条件：需要开启头部导航，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装-hexo-generator-searchdb-插件提供支持。安装-hexo-generator-searchdb-插件：bash-npm-install-hexo-generator-searchdb-save开启插件，在-博客配置-下新增：ymlsearch-path-search-xml-索引生成路径（需要设置绝对路径，否则二级页面读不到）-field-post-post-page-all-format-html-只支持-html-类型-content-true-是否包含正文内容-版权信息配置项-copyright-用来设置页面底部显示的网站版权信息，填写-文本内容-或-HTML-即可。yml-Copyrightcopyright-lt-p-gt-Powered-by-lt-a-target-quot-blank-quot-href-quot-https-hexo-io-quot-gt-Hexo-lt-a-gt-Theme-lt-a-target-quot-blank-quot-href-quot-https-github-com-izhaoo-hexo-theme-zhaoo-quot-gt-zhaoo-lt-a-gt-lt-p-gt-社交链接配置项-social-用来配置社交链接，在页面底部以-Icon-图标的形式展示，点击即可链接第三方平台。yml-Socialsocial-qq-tencent-message-Menu-yes-amp-uin-894519210-iconQQ-39-12B7F5-39-wechat-javascript-iconwechat-fill-39-09BB07-39-instagram-https-www-instagram-com-izhaoo-iconinstagram-39-DA2E76-39-github-https-github-com-izhaoo-icongithub-fill-39-24292E-39-email-mailto-izhaoo-163-com-iconmail配置内容分为三部分，以-划分。第一部分是-社交链接-，第二部分是-图标样式（IconFont）-，第三部分是-选中颜色（hover）。-右下角按钮-Fab-配置项-fab-用于配置右下角的按钮。yml-Fab-Float-Action-Button-fab-enable-true-always-show-false-enable-设置-开启-x2F-关闭-按钮。-always-show-设置-一直显示-x2F-过渡隐藏-按钮。-二维码配置项-qrcode-用来设置-二维码，开启后点击-导航栏-左侧的图标即可显示。yml-QR-Codeqrcode-enable-true-type-image-url-image-image-https-pic-izhaoo-com-weapp-code-jpg-enable-设置-开启-x2F-关闭-二维码功能。-type-设置二维码模式，有两种模式可选。url-显示当前文章链接生成的二维码；image-显示固定的二维码图片（如小程序码等）。-image-选择-image-模式时需要指定图片链接。-深色模式配置项-color-mode-用来配置-深色模式。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击-导航栏-左侧的图标手动切换颜色模式，系统会暂存用户选择状态。yml-Color-Modecolor-mode-enable-true-enable-开启-x2F-关闭-深色模式。深色模式-x2F-浅色模式-的颜色可以参考-主题颜色-设置。-哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项-gray-设置。yml-Gray-Mourning-Mode-gray-enable-true-开启哀悼模式-enable-开启-x2F-关闭-哀悼模式。-文章配置-文章封面-单独封面可以为每篇文章设置单独的文章封面图片，在文章-Front-matter-中添加-image-字段设置图片。若使用图床，直接添加图片文件的-完整URL-即可：markdown-title-zhaoo-主题文档image-https-pic-izhaoo-com-20200421200902-jpg-设置图床图片-若将图片储存在本地，现将图片文件复制到主题-zhaoo-source-images-下，再添加-相对URL-即可：markdown-title-zhaoo-主题使用文档image-images-20200421200902-jpg-设置本地图片-默认封面配置项-post-image-设置配置文章默认封面，就不用为每篇文章单独设置封面了：yml-Post-Imagepost-image-random-galleries-local-galleries-default-images-theme-post-image-jpg-random-设置随机封面，有-galleries（相册图库）-和-local（本地图库）-两种模式。开启-相册-功能后会自动调取相册中的图片；本地图库需要新建-data-local-images-json-文件，填写图片-URL-列表即可。-default-未设置随机封面时启用-默认封面，填写图片-URL-即可。json-local-images-json-quot-https-pic-izhaoo-com-2014031601-jpg-quot-quot-https-pic-izhaoo-com-2017071602-jpg-quot-quot-https-pic-izhaoo-com-2017071603-jpg-quot-quot-https-pic-izhaoo-com-2017072104-jpg-quot-quot-https-pic-izhaoo-com-2017072705-jpg-quot-quot-https-pic-izhaoo-com-20200421201200-jpg-quot-quot-https-pic-izhaoo-com-20200305030152-jpg-quot-quot-https-pic-izhaoo-com-20191211065241-jpg-quot-quot-https-pic-izhaoo-com-20200228081718-jpg-quot-quot-https-pic-izhaoo-com-20191211065844-jpg-quot-quot-https-pic-izhaoo-com-20200718151924-jpg-quot-quot-https-pic-izhaoo-com-20200718152003-jpg-quot-quot-https-pic-izhaoo-com-20200718152045-jpg-quot-quot-https-pic-izhaoo-com-20200718152122-jpg-quot-quot-https-pic-izhaoo-com-20200718151427-jpg-quot-关键词在文章-Front-matter-中添加-keywords-字段设置关键词：markdowntitle-zhaoo-主题使用文档keywords-hexo-theme-zhaoo-hexo-主题-使用文档-document配置项-keywords-为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：ymlkeywords-hexo-theme-zhaoo-hexo-文章尺寸配置项-post-page-size-用于设置文章内容主体部分的相关尺寸。yml-Page-Sizepost-page-size-width-800px-width-设置内容宽度。tips-受外部元素的限制，实际尺寸-由计算后得出，不能保证与-设定尺寸-完全相等，只能保证接近该尺寸。-图片标注配置项-caption-用于设置-图片标注，开启后会在文章图片下方生成标注。yml-Captioncaption-enable-true-enable-开启-x2F-关闭-图片标注。-文章目录配置项-toc-用于设置-文章目录，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。yml-TOCtoc-enable-true-min-depth-1-max-depth-3-enable-开启-x2F-关闭-文章目录。-min-depth-max-depth-全局开启-文章目录-后，可以在文章-Front-matter-中添加-toc-字段单独控制该文章是否展示文章目录。markdown-title-zhaoo-主题文档toc-false-关闭文章目录-打赏二维码配置项-donate-用于设置-打赏二维码，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧yml-Donatedonate-enable-true-alipay-https-pic-izhaoo-com-alipay-jpg-wechat-https-pic-izhaoo-com-wechat-jpg-enable-开启-x2F-关闭-打赏二维码。-alipay-支付宝收款二维码，填写图片-URL。-wechat-微信收款二维码，填写图片-URL。-文章版权配置项-post-copyright-用于设置-文章版权，开启后可在文章下方展示版权信息。yml-Copyrightpost-copyright-enable-true-enable-开启-x2F-关闭-文章版权信息。全局开启-文章版权-后，可以在文章-Front-matter-中添加-copyright-字段单独控制该文章是否展示文章版权。markdown-title-zhaoo-主题文档copyright-false-关闭文章版权-文章搬运配置项-carrier-用于开启-文章搬运-功能，方便博主们全文“借鉴”文章，效果如下：前置条件：全局开启-文章版权yml-Carriercarrier-enable-true-type-markdown-markdown-html-text-enable-开启-x2F-关闭-文章搬运。-type-搬运模式，可选择一键复制-markdown、html、text-格式的文章。-gt-Hexo-开发文章搬运功能-文章置顶找到-node-modules-hexo-generator-index-lib-generator-js-文件，替换成如下代码：javascript-39-use-strict-39-var-pagination-require-39-hexo-pagination-39-module-exports-function-locals-var-config-this-config-var-posts-locals-posts-posts-data-posts-data-sort-function-a-b-if-a-top-amp-amp-b-top-if-a-top-b-top-return-b-date-a-date-else-return-b-top-a-top-else-if-a-top-amp-amp-b-top-return-1-else-if-a-top-amp-amp-b-top-return-1-else-return-b-date-a-date-var-paginationDir-config-pagination-dir-39-page-39-return-pagination-39-39-posts-perPage-config-index-generator-per-page-layout-39-index-39-39-archive-39-format-paginationDir-39-d-39-data-index-true-在文章的-Front-matter-中添加-top-字段，指定数值。数值越大，显示越靠前。markdown-title-zhaoo-主题使用文档top-10-添加该字段-数学公式-MathJax-gt-hexo-filter-mathjax-ssr以-svg-的形式渲染数学公式，兼容性较好，推荐使用。安装-MathJax-插件依赖：bash-npm-install-hexo-filter-mathjax-ssr-save开启插件，在-博客配置-下新增：ymlmathjax-inlineQuote-39-39-39-39-blockQuote-39-39-39-39-KaTex-gt-hexo-katex以-HTML-标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎-hexo-renderer-pandoc：bash-npm-install-hexo-renderer-pandoc-save安装-KaTex-插件依赖：bash-npm-install-hexo-katex-save开启插件，在-博客配置-下新增：ymlpandoc-mathEngine-katex-页面配置-相册页面-gt-【瀑布流风格相册】由-AmiKara-友情贡献执行以下命令创建相册页面，会在-source-目录生成-galleries-index-md-文件：bash-hexo-new-page-galleries-创建相册页面打开-source-galleries-index-md-文件，设置-Front-matter-，开启相册页面：markdown-title-相册layout-quot-galleries-quot-参考-导航菜单-设置相册页面的导航：ymlmenu-galleries-galleries-相册配置项-galleries-用于开启相册功能：ymlgalleries-enable-true-title-相册-subtitle-Galleries-type-waterfull-waterful-grid-columns-3-enable-开启-x2F-关闭-相册功能。-title-相册分类页面标题。-subtitle-相册分类页面副标题。-type-相册显示风格，有-瀑布流-和-正方形-两种形式。-columns-相册列数。在-data-目录下新建-galleries-json-文件，创建相册分类目录及图片内容：json-quot-name-quot-quot-colorful-quot-相册名称-quot-cover-quot-quot-images-theme-post-image-jpg-quot-相册封面-quot-description-quot-quot-君未看花时，花与君同寂；君来看花日，花色一时明。-quot-相册介绍-quot-photos-quot-图片内容-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-name-quot-quot-记事-quot-quot-cover-quot-quot-images-theme-post-image-jpg-quot-quot-description-quot-quot-翻开随身携带的记事本，写着许多事都是关于你。-quot-quot-photos-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-在-source-galleries-目录下-新建文件夹-，命名需要和-json-中的-name-字段对应，例如：colorful、记事。-在文件夹下新建-index-md-文件，内容如下：markdown-title-记事-名称也需要对应layout-quot-gallery-quot-步骤可能有点难以理解，最后放几张截图，比较直观：也可以参考-example-source-中的相关栗子。-归档页面参考-导航菜单-设置归档页面的导航，系统会按文章创建时间自动归档。ymlmenu-archives-archives-归档-标签页面执行以下命令创建标签页面，会在-source-目录生成-tags-index-md-文件：bash-hexo-new-page-tags-创建标签页面打开-source-tags-index-md-文件，设置-Front-matter-，开启标签页面：markdown-title-标签type-quot-tags-quot-layout-quot-tags-quot-参考-导航菜单-设置标签页面的导航：ymlmenu-tags-tags-标签创建文章时，在文章的-Front-matter-中使用-tags-字段添加标签即可：markdown-title-zhaoo-主题使用文档tags-Hexo-主题-设置标签-分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在-source-目录生成-categories-index-md-文件：bash-hexo-new-page-categories-创建分类页面打开-source-categories-index-md-文件，设置-Front-matter-，开启分类页面：markdown-title-标签type-quot-categories-quot-layout-quot-categories-quot-参考-导航菜单-设置分类页面的导航：ymlmenu-categories-categories-分类创建文章时，在文章的-Front-matter-中使用-categories-字段添加标签即可：markdown-title-zhaoo-主题使用文档categories-设置分类-项目-博客-关于页面执行以下命令创建关于页面，会在-source-目录生成-about-index-md-文件：bash-hexo-new-page-about-创建关于页面打开-source-about-index-md-文件，设置-Front-matter-，开启关于页面：markdown-title-标签type-quot-about-quot-layout-quot-about-quot-参考-导航菜单-设置关于页面的导航：ymlmenu-about-about-关于在-source-about-index-md-中编写关于内容，如同写文章一样。tips-建议在-关于页面-关闭-文章目录-和-文章版权-功能，在-Front-matter-中添加-toc-和-copyright-字段都设置为-false-即可。-插件配置-评论系统配置项-comments-用于配置评论系统，目前支持-Gitalk、Valine、畅言-三种评论系统。yml-Commentcomments-enable-true-type-valine-button-true-enable-开启-x2F-关闭-评论功能。-type-开启哪种评论系统，需要配置对应的评论系统。（参考下文）-button-显示-x2F-隐藏-评论按钮，隐藏按钮后将直接展示评论。-GitalkGitalk-基于-GitHub-存储评论内容，优点是支持-GitHub-直接登录；缺点是需要-科学上网-才能访问，水土不服。首先需要在-GitHub-创建一个仓库，如有-GitHub-Pages-也可以共用一个仓库。接着创建一个-Github-Application，填写相应的参数。创建完成后会生成-clientID-和-clientSecret，记录一下。配置项-gitalk-用于配置-Gitalk。-yml-Gitalkgitalk-owner-repo-admin-clientID-clientSecret-owner-GitHub的用户名。-repo-创建的仓库名称。-admin-GitHub的用户名。-clientID-应用创建后生成。-clientSecret-应用创建后生成。-ValineValine是基于-LeanCloud-https-leancloud-cn-实现的评论系统，小清新风格。-Valine演示-https-pic-izhaoo-com-2020111980022-jpg-首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Comment-，访问权限为-所有用户-，写入权限为-限制写入-。在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-valine用于设置Valine评论系统。-yml-Valinevaline-appId-appKey-placeholder-雁过留痕-avatar-mp-pageSize-10-lang-zh-CN-enable-开启-关闭-Valine。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-placeholder-未输入评论时的占位文字。-mp-默认头像，参考-Valine头像设置-https-valine-js-org-avatar-html-。-pageSize-每页评论数量。-lang-系统语言。-gt-Valine-https-valine-js-org-畅言-畅言-是搜狐家的评论系统，优点是支持-QQ、手机、邮箱等多种登录方式，接地气；个人感觉UI不是我的菜。-畅言演示-https-pic-izhaoo-com-2020111984224-jpg-在-畅言-http-changyan-kuaizhan-com-注册账号，进入后台创建一个站点，在【后台总览】记录一下APP-ID和APP-KEY。配置项-changyan用于设置畅言评论。-yml-ChangYanchangyan-appId-conf-appId-生成的-APP-ID。-conf-生成的-APP-KEY。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。-客户沟通-DaoVoice-DaoVoice-http-www-daovoice-io-是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。-DaoVoice演示-https-pic-izhaoo-com-20200808141245-jpg-因为官方的-Fab按钮-和-主题Fab按钮会重叠，所以作者同学把他集成到主题Fab中了。-官网Fab-https-pic-izhaoo-com-20200808141349-jpg-主题Fab-https-pic-izhaoo-com-20200808141304-jpg-首先在-DaoVoice-http-dashboard-daovoice-io-官网上注册一个账号。在【安装应用】页面，复制app-id。-appid-https-pic-izhaoo-com-20200808135815-jpg-配置项-daovoice配置应用。-yml-Daovoicedaovoice-enable-true-appId-abcdefg-你的-app-id-enable-开启-关闭-DaoVoice。-appId-填写之前复制的-app-id。点击-Fab中的-消息图标-即可打开。-意见反馈平台-腾讯兔小巢-腾讯兔小巢-https-txc-qq-com-是一款用户意见反馈平台。首先在-腾讯兔小巢-https-txc-qq-com-官网上注册一个产品，在-产品设置-https-txc-qq-com-dashboard-products-中复制ID。配置项-tencentChao用于配置兔小巢。-yml-Tencent-ChaotencentChao-enable-false-appId-app-id-enable-开启-关闭-兔小巢。-appId-填写之前复制的-ID。-页面统计-LeanCloud-LeanCloud-是一款-ServerLess服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Counter-，访问权限为-所有用户-，写入权限为-限制写入-，如下：-创建LeanCloud-https-pic-izhaoo-com-202011194911-jpg-在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-leancloud用于设置LeanCloud。-yml-LeanCloudleancloud-enable-true-appId-appKey-serverURLs-https-leancloud-cn-enable-开启-关闭-LeanCloud。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-serverURLs-服务路径不用改，保持-https-leancloud-cn-就可以了。-图片懒加载-LazyLoad-配置项-lazyload-用于配置图片懒加载。yml-Lazyloadlazyload-enable-true-only-post-false-loading-images-theme-loading-gif-enable-开启-x2F-关闭-图片懒加载。-onlyPost-只对对文章中的图片开启懒加载功能。-loading-加载动画，默认是开启-placeholder（占位图）-的，可以在网上下载喜欢的动图，填写-图片URL-即可。-图片灯箱-FancyBox-配置项-FancyBox-用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。ymlfancybox-true-无刷新加载-PJAX-配置项-pjax-用于设置无刷新加载，开启后让你的博客嗖嗖嗖-96-96-96-ymlpjax-truetips-该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。-代码高亮-HighLight-在-博客配置-中开启代码高亮效果：ymlhighlight-enable-true-启用代码高亮效果-line-number-true-auto-detect-true-hljs-true-tab-replace-配置项-highlight-用于设置代码高亮效果。yml-HighLighthighlight-enable-true-style-https-highlightjs-org-static-demo-light-Xcode-dark-Solarized-Dark-enable-开启-关闭-代码高亮。-style-gt-light-浅色模式-时的高亮样式。-style-gt-dark-深色模式-时的高亮样式。可以到-官网-https-highlightjs-org-static-demo-预览高亮效果，填写样式名称即可。-SEO配置项-seo-用于设置-SEO（网站关键词优化）功能。yml-SEOseo-baidu-auto-push-true-baidu-auto-push-开启-百度站长平台-https-ziyuan-baidu-com-linksubmit-index-链接自动推送功能。-网页统计配置项-analytics-用于设置网站统计。yml-Analyticsanalytics-baidu-id-google-id-tencent-id-cnzz-id-baidu-百度统计-https-tongji-baidu-com-web-welcome-login-google-谷歌统计-https-analytics-google-com-analytics-web-tencent-腾讯分析-https-ta-qq-com-cnzz-友盟统计-https-www-umeng-com-web-在对应的数据统计官网注册网站应用，复制对应的-id-填写即可。-脚本配置-CDN对于外部静态文件（CSS-或-JS），可以使用第三方-CDN-库进行优化加速。配置项-vendors-用于设置静态库引入位置，直接输入-URL-即可。您可以保持默认配置（BootCDN）-留空则从本地引入。ymlvendors-jquery-js-https-cdn-bootcss-com-jquery-3-4-1-jquery-min-js-fancybox-js-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-js-pjax-js-https-cdn-bootcss-com-jquery-pjax-2-0-1-jquery-pjax-min-js-lazyload-js-https-cdn-bootcdn-net-ajax-libs-jquery-lazyload-1-9-1-jquery-lazyload-min-js-fancybox-css-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-css-highlight-css-https-cdn-bootcss-com-highlight-js-9-18-1-styles-xcode-min-css-iconfont-css-x2F-x2F-at-alicdn-com-x2F-t-x2F-font-1445822-58xq2j9v1id-css-脚本埋点有时候我们需要埋入一些第三方脚本，例如-百度统计-、-百度SEO-等，主题在-头部-和-尾部-分别开放了埋点入口，通过配置项-custom-进行配置。yml-Customcustom-head-foot-css-js-96-96-96-head-引入头部的代码。-foot-引入尾部的代码。-css-外部引入的-CSS-链接。-js-外部引入的-JS-链接。"><a href="#加载动画-Loading-配置项-loading-可设置载入动画，会在-页面跳转、懒加载-时加载，目前仅支持图片形式。yml-Loadingloading-images-theme-loading-gif建议使用-gif-动图，可在-LottieFiles-下载。tips-未来将支持自定义-css、svg-等多种方式的载入动画，敬请期待。-欢迎页面配置项-preview-中的一些列配置可自定义欢迎页面。yml-Previewpreview-enable-true-model-wave-wave-cloud-background-type-image-image-video-default-image-light-images-theme-welcome-image-jpg-dark-images-theme-welcome-image-jpg-video-api-https-source-unsplash-com-random-1920x1080-size-cover-css-background-size-position-center-css-background-position-motto-default-我在开了灯的床头下，想问问自己的心啊。-api-https-v1-hitokoto-cn-encode-text-amp-c-j-color-39-ffffff-39-enable-用来-开启-x2F-关闭-欢迎页面。-效果模式-model-设置效果模式，有-波浪（wave）-和-云层（cloud）-两种模式可选择。-欢迎图片配置项-background-用来设置欢迎图片，其中：-type-图片或视频。-default-image-配置静态图片，填写静态图片-URL-即可。开启-深色模式-后支持配置-深色-x2F-浅色-两种模式下的背景图片。-video-配置动态视频，填写视频-URL-即可。-api-配置随机图片，可使用第三方-API，优先级-随机图片（api）-gt-静态图片（default）。推荐-API：Unsplash、必应图片。-size-和-position-设置图片的-尺寸-和-位置，参考-CSS-中的属性即可。-格言配置项-motto-用来设置格言，其中：-default-配置静态格言，填写格言文本即可。-api-配置随机格言，可使用第三方-API，优先级-随机格言（api）-gt-静态格言（default）。推荐-API：一言、今日诗词。-color-配置文字颜色。-全局搜索前置条件：需要开启头部导航，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装-hexo-generator-searchdb-插件提供支持。安装-hexo-generator-searchdb-插件：bash-npm-install-hexo-generator-searchdb-save开启插件，在-博客配置-下新增：ymlsearch-path-search-xml-索引生成路径（需要设置绝对路径，否则二级页面读不到）-field-post-post-page-all-format-html-只支持-html-类型-content-true-是否包含正文内容-版权信息配置项-copyright-用来设置页面底部显示的网站版权信息，填写-文本内容-或-HTML-即可。yml-Copyrightcopyright-lt-p-gt-Powered-by-lt-a-target-quot-blank-quot-href-quot-https-hexo-io-quot-gt-Hexo-lt-a-gt-Theme-lt-a-target-quot-blank-quot-href-quot-https-github-com-izhaoo-hexo-theme-zhaoo-quot-gt-zhaoo-lt-a-gt-lt-p-gt-社交链接配置项-social-用来配置社交链接，在页面底部以-Icon-图标的形式展示，点击即可链接第三方平台。yml-Socialsocial-qq-tencent-message-Menu-yes-amp-uin-894519210-iconQQ-39-12B7F5-39-wechat-javascript-iconwechat-fill-39-09BB07-39-instagram-https-www-instagram-com-izhaoo-iconinstagram-39-DA2E76-39-github-https-github-com-izhaoo-icongithub-fill-39-24292E-39-email-mailto-izhaoo-163-com-iconmail配置内容分为三部分，以-划分。第一部分是-社交链接-，第二部分是-图标样式（IconFont）-，第三部分是-选中颜色（hover）。-右下角按钮-Fab-配置项-fab-用于配置右下角的按钮。yml-Fab-Float-Action-Button-fab-enable-true-always-show-false-enable-设置-开启-x2F-关闭-按钮。-always-show-设置-一直显示-x2F-过渡隐藏-按钮。-二维码配置项-qrcode-用来设置-二维码，开启后点击-导航栏-左侧的图标即可显示。yml-QR-Codeqrcode-enable-true-type-image-url-image-image-https-pic-izhaoo-com-weapp-code-jpg-enable-设置-开启-x2F-关闭-二维码功能。-type-设置二维码模式，有两种模式可选。url-显示当前文章链接生成的二维码；image-显示固定的二维码图片（如小程序码等）。-image-选择-image-模式时需要指定图片链接。-深色模式配置项-color-mode-用来配置-深色模式。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击-导航栏-左侧的图标手动切换颜色模式，系统会暂存用户选择状态。yml-Color-Modecolor-mode-enable-true-enable-开启-x2F-关闭-深色模式。深色模式-x2F-浅色模式-的颜色可以参考-主题颜色-设置。-哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项-gray-设置。yml-Gray-Mourning-Mode-gray-enable-true-开启哀悼模式-enable-开启-x2F-关闭-哀悼模式。-文章配置-文章封面-单独封面可以为每篇文章设置单独的文章封面图片，在文章-Front-matter-中添加-image-字段设置图片。若使用图床，直接添加图片文件的-完整URL-即可：markdown-title-zhaoo-主题文档image-https-pic-izhaoo-com-20200421200902-jpg-设置图床图片-若将图片储存在本地，现将图片文件复制到主题-zhaoo-source-images-下，再添加-相对URL-即可：markdown-title-zhaoo-主题使用文档image-images-20200421200902-jpg-设置本地图片-默认封面配置项-post-image-设置配置文章默认封面，就不用为每篇文章单独设置封面了：yml-Post-Imagepost-image-random-galleries-local-galleries-default-images-theme-post-image-jpg-random-设置随机封面，有-galleries（相册图库）-和-local（本地图库）-两种模式。开启-相册-功能后会自动调取相册中的图片；本地图库需要新建-data-local-images-json-文件，填写图片-URL-列表即可。-default-未设置随机封面时启用-默认封面，填写图片-URL-即可。json-local-images-json-quot-https-pic-izhaoo-com-2014031601-jpg-quot-quot-https-pic-izhaoo-com-2017071602-jpg-quot-quot-https-pic-izhaoo-com-2017071603-jpg-quot-quot-https-pic-izhaoo-com-2017072104-jpg-quot-quot-https-pic-izhaoo-com-2017072705-jpg-quot-quot-https-pic-izhaoo-com-20200421201200-jpg-quot-quot-https-pic-izhaoo-com-20200305030152-jpg-quot-quot-https-pic-izhaoo-com-20191211065241-jpg-quot-quot-https-pic-izhaoo-com-20200228081718-jpg-quot-quot-https-pic-izhaoo-com-20191211065844-jpg-quot-quot-https-pic-izhaoo-com-20200718151924-jpg-quot-quot-https-pic-izhaoo-com-20200718152003-jpg-quot-quot-https-pic-izhaoo-com-20200718152045-jpg-quot-quot-https-pic-izhaoo-com-20200718152122-jpg-quot-quot-https-pic-izhaoo-com-20200718151427-jpg-quot-关键词在文章-Front-matter-中添加-keywords-字段设置关键词：markdowntitle-zhaoo-主题使用文档keywords-hexo-theme-zhaoo-hexo-主题-使用文档-document配置项-keywords-为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：ymlkeywords-hexo-theme-zhaoo-hexo-文章尺寸配置项-post-page-size-用于设置文章内容主体部分的相关尺寸。yml-Page-Sizepost-page-size-width-800px-width-设置内容宽度。tips-受外部元素的限制，实际尺寸-由计算后得出，不能保证与-设定尺寸-完全相等，只能保证接近该尺寸。-图片标注配置项-caption-用于设置-图片标注，开启后会在文章图片下方生成标注。yml-Captioncaption-enable-true-enable-开启-x2F-关闭-图片标注。-文章目录配置项-toc-用于设置-文章目录，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。yml-TOCtoc-enable-true-min-depth-1-max-depth-3-enable-开启-x2F-关闭-文章目录。-min-depth-max-depth-全局开启-文章目录-后，可以在文章-Front-matter-中添加-toc-字段单独控制该文章是否展示文章目录。markdown-title-zhaoo-主题文档toc-false-关闭文章目录-打赏二维码配置项-donate-用于设置-打赏二维码，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧yml-Donatedonate-enable-true-alipay-https-pic-izhaoo-com-alipay-jpg-wechat-https-pic-izhaoo-com-wechat-jpg-enable-开启-x2F-关闭-打赏二维码。-alipay-支付宝收款二维码，填写图片-URL。-wechat-微信收款二维码，填写图片-URL。-文章版权配置项-post-copyright-用于设置-文章版权，开启后可在文章下方展示版权信息。yml-Copyrightpost-copyright-enable-true-enable-开启-x2F-关闭-文章版权信息。全局开启-文章版权-后，可以在文章-Front-matter-中添加-copyright-字段单独控制该文章是否展示文章版权。markdown-title-zhaoo-主题文档copyright-false-关闭文章版权-文章搬运配置项-carrier-用于开启-文章搬运-功能，方便博主们全文“借鉴”文章，效果如下：前置条件：全局开启-文章版权yml-Carriercarrier-enable-true-type-markdown-markdown-html-text-enable-开启-x2F-关闭-文章搬运。-type-搬运模式，可选择一键复制-markdown、html、text-格式的文章。-gt-Hexo-开发文章搬运功能-文章置顶找到-node-modules-hexo-generator-index-lib-generator-js-文件，替换成如下代码：javascript-39-use-strict-39-var-pagination-require-39-hexo-pagination-39-module-exports-function-locals-var-config-this-config-var-posts-locals-posts-posts-data-posts-data-sort-function-a-b-if-a-top-amp-amp-b-top-if-a-top-b-top-return-b-date-a-date-else-return-b-top-a-top-else-if-a-top-amp-amp-b-top-return-1-else-if-a-top-amp-amp-b-top-return-1-else-return-b-date-a-date-var-paginationDir-config-pagination-dir-39-page-39-return-pagination-39-39-posts-perPage-config-index-generator-per-page-layout-39-index-39-39-archive-39-format-paginationDir-39-d-39-data-index-true-在文章的-Front-matter-中添加-top-字段，指定数值。数值越大，显示越靠前。markdown-title-zhaoo-主题使用文档top-10-添加该字段-数学公式-MathJax-gt-hexo-filter-mathjax-ssr以-svg-的形式渲染数学公式，兼容性较好，推荐使用。安装-MathJax-插件依赖：bash-npm-install-hexo-filter-mathjax-ssr-save开启插件，在-博客配置-下新增：ymlmathjax-inlineQuote-39-39-39-39-blockQuote-39-39-39-39-KaTex-gt-hexo-katex以-HTML-标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎-hexo-renderer-pandoc：bash-npm-install-hexo-renderer-pandoc-save安装-KaTex-插件依赖：bash-npm-install-hexo-katex-save开启插件，在-博客配置-下新增：ymlpandoc-mathEngine-katex-页面配置-相册页面-gt-【瀑布流风格相册】由-AmiKara-友情贡献执行以下命令创建相册页面，会在-source-目录生成-galleries-index-md-文件：bash-hexo-new-page-galleries-创建相册页面打开-source-galleries-index-md-文件，设置-Front-matter-，开启相册页面：markdown-title-相册layout-quot-galleries-quot-参考-导航菜单-设置相册页面的导航：ymlmenu-galleries-galleries-相册配置项-galleries-用于开启相册功能：ymlgalleries-enable-true-title-相册-subtitle-Galleries-type-waterfull-waterful-grid-columns-3-enable-开启-x2F-关闭-相册功能。-title-相册分类页面标题。-subtitle-相册分类页面副标题。-type-相册显示风格，有-瀑布流-和-正方形-两种形式。-columns-相册列数。在-data-目录下新建-galleries-json-文件，创建相册分类目录及图片内容：json-quot-name-quot-quot-colorful-quot-相册名称-quot-cover-quot-quot-images-theme-post-image-jpg-quot-相册封面-quot-description-quot-quot-君未看花时，花与君同寂；君来看花日，花色一时明。-quot-相册介绍-quot-photos-quot-图片内容-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-name-quot-quot-记事-quot-quot-cover-quot-quot-images-theme-post-image-jpg-quot-quot-description-quot-quot-翻开随身携带的记事本，写着许多事都是关于你。-quot-quot-photos-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-quot-images-theme-post-image-jpg-quot-在-source-galleries-目录下-新建文件夹-，命名需要和-json-中的-name-字段对应，例如：colorful、记事。-在文件夹下新建-index-md-文件，内容如下：markdown-title-记事-名称也需要对应layout-quot-gallery-quot-步骤可能有点难以理解，最后放几张截图，比较直观：也可以参考-example-source-中的相关栗子。-归档页面参考-导航菜单-设置归档页面的导航，系统会按文章创建时间自动归档。ymlmenu-archives-archives-归档-标签页面执行以下命令创建标签页面，会在-source-目录生成-tags-index-md-文件：bash-hexo-new-page-tags-创建标签页面打开-source-tags-index-md-文件，设置-Front-matter-，开启标签页面：markdown-title-标签type-quot-tags-quot-layout-quot-tags-quot-参考-导航菜单-设置标签页面的导航：ymlmenu-tags-tags-标签创建文章时，在文章的-Front-matter-中使用-tags-字段添加标签即可：markdown-title-zhaoo-主题使用文档tags-Hexo-主题-设置标签-分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在-source-目录生成-categories-index-md-文件：bash-hexo-new-page-categories-创建分类页面打开-source-categories-index-md-文件，设置-Front-matter-，开启分类页面：markdown-title-标签type-quot-categories-quot-layout-quot-categories-quot-参考-导航菜单-设置分类页面的导航：ymlmenu-categories-categories-分类创建文章时，在文章的-Front-matter-中使用-categories-字段添加标签即可：markdown-title-zhaoo-主题使用文档categories-设置分类-项目-博客-关于页面执行以下命令创建关于页面，会在-source-目录生成-about-index-md-文件：bash-hexo-new-page-about-创建关于页面打开-source-about-index-md-文件，设置-Front-matter-，开启关于页面：markdown-title-标签type-quot-about-quot-layout-quot-about-quot-参考-导航菜单-设置关于页面的导航：ymlmenu-about-about-关于在-source-about-index-md-中编写关于内容，如同写文章一样。tips-建议在-关于页面-关闭-文章目录-和-文章版权-功能，在-Front-matter-中添加-toc-和-copyright-字段都设置为-false-即可。-插件配置-评论系统配置项-comments-用于配置评论系统，目前支持-Gitalk、Valine、畅言-三种评论系统。yml-Commentcomments-enable-true-type-valine-button-true-enable-开启-x2F-关闭-评论功能。-type-开启哪种评论系统，需要配置对应的评论系统。（参考下文）-button-显示-x2F-隐藏-评论按钮，隐藏按钮后将直接展示评论。-GitalkGitalk-基于-GitHub-存储评论内容，优点是支持-GitHub-直接登录；缺点是需要-科学上网-才能访问，水土不服。首先需要在-GitHub-创建一个仓库，如有-GitHub-Pages-也可以共用一个仓库。接着创建一个-Github-Application，填写相应的参数。创建完成后会生成-clientID-和-clientSecret，记录一下。配置项-gitalk-用于配置-Gitalk。-yml-Gitalkgitalk-owner-repo-admin-clientID-clientSecret-owner-GitHub的用户名。-repo-创建的仓库名称。-admin-GitHub的用户名。-clientID-应用创建后生成。-clientSecret-应用创建后生成。-ValineValine是基于-LeanCloud-https-leancloud-cn-实现的评论系统，小清新风格。-Valine演示-https-pic-izhaoo-com-2020111980022-jpg-首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Comment-，访问权限为-所有用户-，写入权限为-限制写入-。在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-valine用于设置Valine评论系统。-yml-Valinevaline-appId-appKey-placeholder-雁过留痕-avatar-mp-pageSize-10-lang-zh-CN-enable-开启-关闭-Valine。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-placeholder-未输入评论时的占位文字。-mp-默认头像，参考-Valine头像设置-https-valine-js-org-avatar-html-。-pageSize-每页评论数量。-lang-系统语言。-gt-Valine-https-valine-js-org-畅言-畅言-是搜狐家的评论系统，优点是支持-QQ、手机、邮箱等多种登录方式，接地气；个人感觉UI不是我的菜。-畅言演示-https-pic-izhaoo-com-2020111984224-jpg-在-畅言-http-changyan-kuaizhan-com-注册账号，进入后台创建一个站点，在【后台总览】记录一下APP-ID和APP-KEY。配置项-changyan用于设置畅言评论。-yml-ChangYanchangyan-appId-conf-appId-生成的-APP-ID。-conf-生成的-APP-KEY。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。-客户沟通-DaoVoice-DaoVoice-http-www-daovoice-io-是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。-DaoVoice演示-https-pic-izhaoo-com-20200808141245-jpg-因为官方的-Fab按钮-和-主题Fab按钮会重叠，所以作者同学把他集成到主题Fab中了。-官网Fab-https-pic-izhaoo-com-20200808141349-jpg-主题Fab-https-pic-izhaoo-com-20200808141304-jpg-首先在-DaoVoice-http-dashboard-daovoice-io-官网上注册一个账号。在【安装应用】页面，复制app-id。-appid-https-pic-izhaoo-com-20200808135815-jpg-配置项-daovoice配置应用。-yml-Daovoicedaovoice-enable-true-appId-abcdefg-你的-app-id-enable-开启-关闭-DaoVoice。-appId-填写之前复制的-app-id。点击-Fab中的-消息图标-即可打开。-意见反馈平台-腾讯兔小巢-腾讯兔小巢-https-txc-qq-com-是一款用户意见反馈平台。首先在-腾讯兔小巢-https-txc-qq-com-官网上注册一个产品，在-产品设置-https-txc-qq-com-dashboard-products-中复制ID。配置项-tencentChao用于配置兔小巢。-yml-Tencent-ChaotencentChao-enable-false-appId-app-id-enable-开启-关闭-兔小巢。-appId-填写之前复制的-ID。-页面统计-LeanCloud-LeanCloud-是一款-ServerLess服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在-LeanCloud-https-leancloud-cn-注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-gt-【创建Class】，名称为-Counter-，访问权限为-所有用户-，写入权限为-限制写入-，如下：-创建LeanCloud-https-pic-izhaoo-com-202011194911-jpg-在【设置】-gt-【应用Keys】中复制appId和appKey。配置项-leancloud用于设置LeanCloud。-yml-LeanCloudleancloud-enable-true-appId-appKey-serverURLs-https-leancloud-cn-enable-开启-关闭-LeanCloud。-appId-填入刚才得到的-appId。-appKey-填入刚才得到的-appKey。-serverURLs-服务路径不用改，保持-https-leancloud-cn-就可以了。-图片懒加载-LazyLoad-配置项-lazyload-用于配置图片懒加载。yml-Lazyloadlazyload-enable-true-only-post-false-loading-images-theme-loading-gif-enable-开启-x2F-关闭-图片懒加载。-onlyPost-只对对文章中的图片开启懒加载功能。-loading-加载动画，默认是开启-placeholder（占位图）-的，可以在网上下载喜欢的动图，填写-图片URL-即可。-图片灯箱-FancyBox-配置项-FancyBox-用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。ymlfancybox-true-无刷新加载-PJAX-配置项-pjax-用于设置无刷新加载，开启后让你的博客嗖嗖嗖-96-96-96-ymlpjax-truetips-该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。-代码高亮-HighLight-在-博客配置-中开启代码高亮效果：ymlhighlight-enable-true-启用代码高亮效果-line-number-true-auto-detect-true-hljs-true-tab-replace-配置项-highlight-用于设置代码高亮效果。yml-HighLighthighlight-enable-true-style-https-highlightjs-org-static-demo-light-Xcode-dark-Solarized-Dark-enable-开启-关闭-代码高亮。-style-gt-light-浅色模式-时的高亮样式。-style-gt-dark-深色模式-时的高亮样式。可以到-官网-https-highlightjs-org-static-demo-预览高亮效果，填写样式名称即可。-SEO配置项-seo-用于设置-SEO（网站关键词优化）功能。yml-SEOseo-baidu-auto-push-true-baidu-auto-push-开启-百度站长平台-https-ziyuan-baidu-com-linksubmit-index-链接自动推送功能。-网页统计配置项-analytics-用于设置网站统计。yml-Analyticsanalytics-baidu-id-google-id-tencent-id-cnzz-id-baidu-百度统计-https-tongji-baidu-com-web-welcome-login-google-谷歌统计-https-analytics-google-com-analytics-web-tencent-腾讯分析-https-ta-qq-com-cnzz-友盟统计-https-www-umeng-com-web-在对应的数据统计官网注册网站应用，复制对应的-id-填写即可。-脚本配置-CDN对于外部静态文件（CSS-或-JS），可以使用第三方-CDN-库进行优化加速。配置项-vendors-用于设置静态库引入位置，直接输入-URL-即可。您可以保持默认配置（BootCDN）-留空则从本地引入。ymlvendors-jquery-js-https-cdn-bootcss-com-jquery-3-4-1-jquery-min-js-fancybox-js-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-js-pjax-js-https-cdn-bootcss-com-jquery-pjax-2-0-1-jquery-pjax-min-js-lazyload-js-https-cdn-bootcdn-net-ajax-libs-jquery-lazyload-1-9-1-jquery-lazyload-min-js-fancybox-css-https-cdn-bootcss-com-fancybox-3-5-7-jquery-fancybox-min-css-highlight-css-https-cdn-bootcss-com-highlight-js-9-18-1-styles-xcode-min-css-iconfont-css-x2F-x2F-at-alicdn-com-x2F-t-x2F-font-1445822-58xq2j9v1id-css-脚本埋点有时候我们需要埋入一些第三方脚本，例如-百度统计-、-百度SEO-等，主题在-头部-和-尾部-分别开放了埋点入口，通过配置项-custom-进行配置。yml-Customcustom-head-foot-css-js-96-96-96-head-引入头部的代码。-foot-引入尾部的代码。-css-外部引入的-CSS-链接。-js-外部引入的-JS-链接。" class="headerlink" title="加载动画 (Loading)配置项 loading 可设置载入动画，会在 页面跳转、懒加载 时加载，目前仅支持图片形式。yml# Loadingloading: /images/theme/loading.gif建议使用 gif 动图，可在 LottieFiles 下载。tips: 未来将支持自定义 css、svg 等多种方式的载入动画，敬请期待。### 欢迎页面配置项 preview 中的一些列配置可自定义欢迎页面。yml# Previewpreview:  enable: true  model: wave # wave cloud  background:     type: image # image video    default_image:      light: /images/theme/welcome-image.jpg      dark: /images/theme/welcome-image.jpg    video:    api: # https://source.unsplash.com/random/1920x1080    size: cover # css: background-size    position: center # css: background-position  motto:    default: 我在开了灯的床头下，想问问自己的心啊。    api: https://v1.hitokoto.cn/?encode=text&amp;c=j    color: &#39;#ffffff&#39;* enable: 用来 开启 &#x2F; 关闭 欢迎页面。#### 效果模式* model: 设置效果模式，有 波浪（wave） 和 云层（cloud） 两种模式可选择。#### 欢迎图片配置项 background 用来设置欢迎图片，其中： type: 图片或视频。* default_image: 配置静态图片，填写静态图片 URL 即可。开启 深色模式 后支持配置 深色&#x2F;浅色 两种模式下的背景图片。* video: 配置动态视频，填写视频 URL 即可。* api: 配置随机图片，可使用第三方 API，优先级 随机图片（api） &gt; 静态图片（default）。推荐 API：Unsplash、必应图片。* size 和 position: 设置图片的 尺寸 和 位置，参考 CSS 中的属性即可。#### 格言配置项 motto 用来设置格言，其中：* default: 配置静态格言，填写格言文本即可。* api: 配置随机格言，可使用第三方 API，优先级 随机格言（api） &gt; 静态格言（default）。推荐 API：一言、今日诗词。* color 配置文字颜色。### 全局搜索前置条件：需要开启头部导航，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装 hexo-generator-searchdb 插件提供支持。安装 hexo-generator-searchdb 插件：bash$ npm install hexo-generator-searchdb --save开启插件，在 博客配置 下新增：ymlsearch:  path: /search.xml  # 索引生成路径（需要设置绝对路径，否则二级页面读不到）  field: post  # post page all  format: html  # 只支持 html 类型  content: true  # 是否包含正文内容### 版权信息配置项 copyright 用来设置页面底部显示的网站版权信息，填写 文本内容 或 HTML 即可。yml# Copyrightcopyright: &lt;p&gt;Powered by &lt;a target=&quot;_blank&quot; href=&quot;https://hexo.io&quot;&gt;Hexo&lt;/a&gt;  |  Theme - &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/izhaoo/hexo-theme-zhaoo&quot;&gt;zhaoo&lt;/a&gt;&lt;/p&gt;### 社交链接配置项 social 用来配置社交链接，在页面底部以 Icon 图标的形式展示，点击即可链接第三方平台。yml# Socialsocial:  qq: tencent://message/?Menu=yes&amp;uin=894519210 || iconQQ || &#39;#12B7F5&#39;  wechat: javascript:; || iconwechat-fill || &#39;#09BB07&#39;  instagram: https://www.instagram.com/izhaoo/ || iconinstagram || &#39;#DA2E76&#39;  github: https://github.com/izhaoo || icongithub-fill || &#39;#24292E&#39;  email: mailto:izhaoo@163.com || iconmail配置内容分为三部分，以 || 划分。第一部分是 社交链接 ，第二部分是 图标样式（IconFont） ，第三部分是 选中颜色（hover）。### 右下角按钮 (Fab)配置项 fab 用于配置右下角的按钮。yml# Fab (Float Action Button)fab:  enable: true  always_show: false* enable: 设置 开启 &#x2F; 关闭 按钮。* always_show: 设置 一直显示 &#x2F; 过渡隐藏 按钮。### 二维码配置项 qrcode 用来设置 二维码，开启后点击 导航栏 左侧的图标即可显示。yml# QR Codeqrcode:  enable: true  type: image # url image  image: https://pic.izhaoo.com/weapp-code.jpg* enable: 设置 开启 &#x2F; 关闭 二维码功能。* type: 设置二维码模式，有两种模式可选。url 显示当前文章链接生成的二维码；image 显示固定的二维码图片（如小程序码等）。* image: 选择 image 模式时需要指定图片链接。### 深色模式配置项 color_mode 用来配置 深色模式。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击 导航栏 左侧的图标手动切换颜色模式，系统会暂存用户选择状态。yml# Color Modecolor_mode:  enable: true* enable: 开启 &#x2F; 关闭 深色模式。深色模式 &#x2F; 浅色模式 的颜色可以参考 主题颜色 设置。### 哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项 gray 设置。yml# Gray (Mourning Mode)gray:  enable: true  #开启哀悼模式* enable: 开启 &#x2F; 关闭 哀悼模式。## 文章配置### 文章封面#### 单独封面可以为每篇文章设置单独的文章封面图片，在文章 Front-matter 中添加 image 字段设置图片。若使用图床，直接添加图片文件的 完整URL 即可：markdown---title: zhaoo - 主题文档image: https://pic.izhaoo.com/20200421200902.jpg  #设置图床图片---若将图片储存在本地，现将图片文件复制到主题 ~/zhaoo/source/images 下，再添加 相对URL 即可：markdown---title: zhaoo - 主题使用文档image: /images/20200421200902.jpg  #设置本地图片---#### 默认封面配置项 post_image 设置配置文章默认封面，就不用为每篇文章单独设置封面了：yml# Post Imagepost_image:  random: galleries # local galleries  default: /images/theme/post-image.jpg* random: 设置随机封面，有 galleries（相册图库） 和 local（本地图库）  两种模式。开启 相册 功能后会自动调取相册中的图片；本地图库需要新建 /_data/local_images.json 文件，填写图片 URL 列表即可。* default: 未设置随机封面时启用 默认封面，填写图片 URL 即可。json// local_images.json[  &quot;https://pic.izhaoo.com/2014031601.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071602.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071603.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072104.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072705.jpg&quot;,  &quot;https://pic.izhaoo.com/20200421201200.jpg&quot;,  &quot;https://pic.izhaoo.com/20200305030152.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065241.jpg&quot;,  &quot;https://pic.izhaoo.com/20200228081718.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065844.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151924.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152003.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152045.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152122.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151427.jpg&quot;]### 关键词在文章 Front-matter 中添加 keywords 字段设置关键词：markdowntitle: zhaoo - 主题使用文档keywords: hexo-theme-zhaoo, hexo, 主题, 使用文档, document配置项 keywords 为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：ymlkeywords: hexo-theme-zhaoo, hexo### 文章尺寸配置项 post_page_size 用于设置文章内容主体部分的相关尺寸。yml# Page Sizepost_page_size:  width: 800px* width: 设置内容宽度。tips: 受外部元素的限制，实际尺寸 由计算后得出，不能保证与 设定尺寸 完全相等，只能保证接近该尺寸。### 图片标注配置项 caption 用于设置 图片标注，开启后会在文章图片下方生成标注。yml# Captioncaption:  enable: true* enable: 开启 &#x2F; 关闭 图片标注。### 文章目录配置项 toc 用于设置 文章目录，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。yml# TOCtoc:  enable: true  min_depth: 1  max_depth: 3* enable: 开启 &#x2F; 关闭 文章目录。* min_depth:* max_depth:全局开启 文章目录 后，可以在文章 Front-matter 中添加 toc 字段单独控制该文章是否展示文章目录。markdown---title: zhaoo - 主题文档toc: false # 关闭文章目录---### 打赏二维码配置项 donate 用于设置 打赏二维码，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧yml# Donatedonate:  enable: true  alipay: https://pic.izhaoo.com/alipay.jpg  wechat: https://pic.izhaoo.com/wechat.jpg* enable: 开启 &#x2F; 关闭 打赏二维码。* alipay: 支付宝收款二维码，填写图片 URL。* wechat: 微信收款二维码，填写图片 URL。### 文章版权配置项 post_copyright 用于设置 文章版权，开启后可在文章下方展示版权信息。yml# Copyrightpost_copyright:  enable: true* enable: 开启 &#x2F; 关闭 文章版权信息。全局开启 文章版权 后，可以在文章 Front-matter 中添加 copyright 字段单独控制该文章是否展示文章版权。markdown---title: zhaoo - 主题文档copyright: false # 关闭文章版权---### 文章搬运配置项 carrier 用于开启 文章搬运 功能，方便博主们全文“借鉴”文章，效果如下：前置条件：全局开启 文章版权yml# Carriercarrier:  enable: true  type: markdown # markdown html text* enable: 开启 &#x2F; 关闭 文章搬运。* type: 搬运模式，可选择一键复制 markdown、html、text 格式的文章。&gt; Hexo - 开发文章搬运功能### 文章置顶找到 /node_modules/hexo-generator-index/lib/generator.js 文件，替换成如下代码：javascript&#39;use strict&#39;;var pagination = require(&#39;hexo-pagination&#39;);module.exports = function (locals) {  var config = this.config;  var posts = locals.posts;  posts.data = posts.data.sort(function (a, b) {    if (a.top &amp;&amp; b.top) {      if (a.top == b.top) return b.date - a.date;      else return b.top - a.top;    } else if (a.top &amp;&amp; !b.top) {      return -1;    } else if (!a.top &amp;&amp; b.top) {      return 1;    } else return b.date - a.date;  });  var paginationDir = config.pagination_dir || &#39;page&#39;;  return pagination(&#39;&#39;, posts, {    perPage: config.index_generator.per_page,    layout: [&#39;index&#39;, &#39;archive&#39;],    format: paginationDir + &#39;/%d/&#39;,    data: {      __index: true    }  });};在文章的 Front-matter 中添加 top 字段，指定数值。数值越大，显示越靠前。markdown---title: zhaoo - 主题使用文档top: 10  #添加该字段---### 数学公式#### MathJax&gt; hexo-filter-mathjax-ssr以 svg 的形式渲染数学公式，兼容性较好，推荐使用。安装 MathJax 插件依赖：bash$ npm install hexo-filter-mathjax-ssr --save开启插件，在 博客配置 下新增：ymlmathjax:  inlineQuote: [&#39;\(&#39;, &#39;\)&#39;]  blockQuote: [&#39;\[&#39;, &#39;\]&#39;]#### KaTex&gt; hexo-katex以 HTML 标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎 hexo-renderer-pandoc：bash$ npm install hexo-renderer-pandoc --save安装 KaTex 插件依赖：bash$ npm install hexo-katex --save开启插件，在 博客配置 下新增：ymlpandoc:  mathEngine: katex## 页面配置### 相册页面&gt; 【瀑布流风格相册】由 AmiKara 友情贡献执行以下命令创建相册页面，会在 source 目录生成 galleries/index.md 文件：bash$ hexo new page galleries  #创建相册页面打开 source/galleries/index.md 文件，设置 Front-matter ，开启相册页面：markdown---title: 相册layout: &quot;galleries&quot;---参考 导航菜单 设置相册页面的导航：ymlmenu:  galleries: /galleries || 相册配置项 galleries 用于开启相册功能：ymlgalleries:  enable: true  title: 相册  subtitle: Galleries  type: waterfull # waterful | grid  columns: 3* enable:  开启 &#x2F; 关闭 相册功能。* title: 相册分类页面标题。* subtitle 相册分类页面副标题。* type: 相册显示风格，有 瀑布流 和 正方形 两种形式。* columns: 相册列数。在 /_data 目录下新建 galleries.json 文件，创建相册分类目录及图片内容：json[{  &quot;name&quot;: &quot;colorful&quot;,  //相册名称  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  //相册封面  &quot;description&quot;: &quot;君未看花时，花与君同寂；君来看花日，花色一时明。&quot;,  //相册介绍  &quot;photos&quot;: [  //图片内容    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]}, {  &quot;name&quot;: &quot;记事&quot;,  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  &quot;description&quot;: &quot;翻开随身携带的记事本，写着许多事都是关于你。&quot;,  &quot;photos&quot;: [    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]}]在 /source/galleries/ 目录下 新建文件夹 ，命名需要和 json 中的 name 字段对应，例如：colorful、记事。 在文件夹下新建 index.md 文件，内容如下：markdown---title: 记事  #名称也需要对应layout: &quot;gallery&quot;---步骤可能有点难以理解，最后放几张截图，比较直观：也可以参考 /_example/source 中的相关栗子。### 归档页面参考 导航菜单 设置归档页面的导航，系统会按文章创建时间自动归档。ymlmenu:  archives: /archives || 归档### 标签页面执行以下命令创建标签页面，会在 source 目录生成 tags/index.md 文件：bash$ hexo new page tags  #创建标签页面打开 source/tags/index.md 文件，设置 Front-matter ，开启标签页面：markdown---title: 标签type: &quot;tags&quot;layout: &quot;tags&quot;---参考 导航菜单 设置标签页面的导航：ymlmenu:  tags: /tags || 标签创建文章时，在文章的 Front-matter 中使用 tags 字段添加标签即可：markdown---title: zhaoo - 主题使用文档tags: [Hexo, 主题]  #设置标签---### 分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在 source 目录生成 categories/index.md 文件：bash$ hexo new page categories  #创建分类页面打开 source/categories/index.md 文件，设置 Front-matter ，开启分类页面：markdown---title: 标签type: &quot;categories&quot;layout: &quot;categories&quot;---参考 导航菜单 设置分类页面的导航：ymlmenu:  categories: /categories || 分类创建文章时，在文章的 Front-matter 中使用 categories 字段添加标签即可：markdown---title: zhaoo - 主题使用文档categories:  #设置分类- 项目- 博客---### 关于页面执行以下命令创建关于页面，会在 source 目录生成 about/index.md 文件：bash$ hexo new page about  #创建关于页面打开 source/about/index.md 文件，设置 Front-matter ，开启关于页面：markdown---title: 标签type: &quot;about&quot;layout: &quot;about&quot;---参考 导航菜单 设置关于页面的导航：ymlmenu:  about: /about || 关于在 source/about/index.md 中编写关于内容，如同写文章一样。tips: 建议在 关于页面 关闭 文章目录 和 文章版权 功能，在 Front-matter 中添加 toc 和 copyright 字段都设置为 false 即可。## 插件配置### 评论系统配置项 comments 用于配置评论系统，目前支持 Gitalk、Valine、畅言 三种评论系统。yml# Commentcomments:  enable: true  type: valine  button: true* enable:  开启 &#x2F; 关闭 评论功能。* type: 开启哪种评论系统，需要配置对应的评论系统。（参考下文）* button: 显示 &#x2F; 隐藏 评论按钮，隐藏按钮后将直接展示评论。#### GitalkGitalk 基于 GitHub 存储评论内容，优点是支持 GitHub 直接登录；缺点是需要 科学上网 才能访问，水土不服。首先需要在 GitHub 创建一个仓库，如有 GitHub Pages 也可以共用一个仓库。接着创建一个 Github Application，填写相应的参数。创建完成后会生成 clientID 和 clientSecret，记录一下。配置项 gitalk 用于配置 Gitalk。````yml# Gitalkgitalk:  owner:  repo:  admin:  clientID:  clientSecret:```* owner: GitHub的用户名。*repo: 创建的仓库名称。* admin: GitHub的用户名。*clientID: 应用创建后生成。* clientSecret: 应用创建后生成。#### ValineValine是基于 [LeanCloud](https://leancloud.cn/) 实现的评论系统，小清新风格。![Valine演示](https://pic.izhaoo.com/2020111980022.jpg)首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Comment**，访问权限为 **所有用户**，写入权限为 **限制写入**。在【设置】-&gt;【应用Keys】中复制appId和appKey。配置项 valine用于设置Valine评论系统。```yml# Valinevaline:  appId:  appKey:  placeholder: 雁过留痕  avatar: mp  pageSize: 10  lang: zh-CN```*enable: *开启* / *关闭* Valine。* appId: 填入刚才得到的 appId。* appKey: 填入刚才得到的 appKey。* placeholder: 未输入评论时的占位文字。* mp: 默认头像，参考 [Valine头像设置](https://valine.js.org/avatar.html)。* pageSize: 每页评论数量。* lang: 系统语言。&gt; [Valine](https://valine.js.org/)#### 畅言**畅言** 是搜狐家的评论系统，优点是支持 QQ、手机、邮箱等多种登录方式，接地气；个人感觉UI不是我的菜。 ![畅言演示](https://pic.izhaoo.com/2020111984224.jpg)在 [畅言](http://changyan.kuaizhan.com/) 注册账号，进入后台创建一个站点，在【后台总览】记录一下APP ID和APP KEY。配置项 changyan用于设置畅言评论。```yml# ChangYanchangyan:  appId:  conf:```* appId: 生成的 APP ID。* conf: 生成的 APP KEY。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。### 客户沟通 (DaoVoice)[DaoVoice](http://www.daovoice.io/) 是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。![DaoVoice演示](https://pic.izhaoo.com/20200808141245.jpg)因为官方的 Fab按钮 和 主题Fab按钮会重叠，所以作者同学把他集成到主题Fab中了。![官网Fab](https://pic.izhaoo.com/20200808141349.jpg)![主题Fab](https://pic.izhaoo.com/20200808141304.jpg)首先在 [DaoVoice](http://dashboard.daovoice.io/) 官网上注册一个账号。在【安装应用】页面，复制app_id。![appid](https://pic.izhaoo.com/20200808135815.jpg)配置项 daovoice配置应用。```yml# Daovoicedaovoice:  enable: true  appId: abcdefg  #你的 app_id  ```*enable: *开启* / *关闭* DaoVoice。* appId: 填写之前复制的 app_id。点击 Fab中的 **消息图标** 即可打开。### 意见反馈平台 (腾讯兔小巢)[腾讯兔小巢](https://txc.qq.com/) 是一款用户意见反馈平台。首先在 [腾讯兔小巢](https://txc.qq.com/) 官网上注册一个产品，在 [产品设置](https://txc.qq.com/dashboard/products/) 中复制ID。配置项 tencentChao用于配置兔小巢。```yml# Tencent ChaotencentChao:  enable: false  appId: # app_id```*enable:  *开启* / *关闭* 兔小巢。* appId: 填写之前复制的 ID。### 页面统计 (LeanCloud)**LeanCloud** 是一款 ServerLess服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Counter**，访问权限为 **所有用户**，写入权限为 **限制写入**，如下：![创建LeanCloud](https://pic.izhaoo.com/202011194911.jpg)在【设置】-&gt;【应用Keys】中复制appId和appKey。配置项 leancloud用于设置LeanCloud。```yml# LeanCloudleancloud:  enable: true  appId:  appKey:  serverURLs: https://leancloud.cn/```* enable: *开启* / *关闭* LeanCloud。* appId: 填入刚才得到的 appId。* appKey: 填入刚才得到的 appKey。* serverURLs: 服务路径不用改，保持 https://leancloud.cn/` 就可以了。### 图片懒加载 (LazyLoad)配置项 lazyload 用于配置图片懒加载。yml# Lazyloadlazyload:  enable: true  only_post: false  loading: /images/theme/loading.gif* enable: 开启 &#x2F; 关闭 图片懒加载。* onlyPost: 只对对文章中的图片开启懒加载功能。* loading: 加载动画，默认是开启 placeholder（占位图） 的，可以在网上下载喜欢的动图，填写 图片URL 即可。### 图片灯箱 (FancyBox)配置项 FancyBox 用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。ymlfancybox: true### 无刷新加载 (PJAX)配置项 pjax 用于设置无刷新加载，开启后让你的博客嗖嗖嗖~&#96;&#96;&#96;ymlpjax: truetips: 该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。### 代码高亮 (HighLight)在 **博客配置** 中开启代码高亮效果：ymlhighlight:  enable: true  #启用代码高亮效果  line_number: true  auto_detect: true  hljs: true  tab_replace:配置项 `highlight` 用于设置代码高亮效果。yml# HighLighthighlight:  enable: true  style: # https://highlightjs.org/static/demo/    light: Xcode    dark: Solarized Dark* `enable`: *开启* / *关闭* 代码高亮。* `style -&gt; light`: *浅色模式* 时的高亮样式。* `style -&gt; dark`: *深色模式* 时的高亮样式。可以到 [官网](https://highlightjs.org/static/demo/) 预览高亮效果，填写样式名称即可。### SEO配置项 `seo` 用于设置 SEO（网站关键词优化）功能。yml# SEOseo:  baidu_auto_push: true* `baidu_auto_push`: 开启 [百度站长平台](https://ziyuan.baidu.com/linksubmit/index) 链接自动推送功能。### 网页统计配置项 `analytics` 用于设置网站统计。yml# Analyticsanalytics:  baidu: # id  google: # id  tencent: # id  cnzz: # id* `baidu`: [百度统计](https://tongji.baidu.com/web/welcome/login)* `google`: [谷歌统计](https://analytics.google.com/analytics/web)* `tencent`: [腾讯分析](https://ta.qq.com/#/)* `cnzz`: [友盟统计](https://www.umeng.com/web)在对应的数据统计官网注册网站应用，复制对应的 `id` 填写即可。## 脚本配置### CDN对于外部静态文件（CSS 或 JS），可以使用第三方 `CDN` 库进行优化加速。配置项 `vendors` 用于设置静态库引入位置，直接输入 `URL` 即可。您可以保持默认配置（BootCDN）,留空则从本地引入。ymlvendors:  jquery_js: https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js  fancybox_js: https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js  pjax_js: https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js  lazyload_js: https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js  fancybox_css: https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css  highlight_css: https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css  iconfont_css: &#x2F;&#x2F;at.alicdn.com&#x2F;t&#x2F;font_1445822_58xq2j9v1id.css### 脚本埋点有时候我们需要埋入一些第三方脚本，例如 `百度统计`、`百度SEO` 等，主题在 **头部** 和 **尾部** 分别开放了埋点入口，通过配置项 `custom` 进行配置。yml# Customcustom:  head:  foot:  css:  js:&#96;&#96;&#96;* head: 引入头部的代码。* foot: 引入尾部的代码。* css: 外部引入的 CSS 链接。* js: 外部引入的 JS 链接。"></a>加载动画 (Loading)配置项 <code>loading</code> 可设置载入动画，会在 <em>页面跳转</em>、<em>懒加载</em> 时加载，目前仅支持图片形式。<code>yml# Loadingloading: /images/theme/loading.gif</code>建议使用 <code>gif</code> 动图，可在 <a href="https://lottiefiles.com/">LottieFiles</a> 下载。tips: 未来将支持自定义 <code>css</code>、<code>svg</code> 等多种方式的载入动画，敬请期待。### 欢迎页面配置项 <code>preview</code> 中的一些列配置可自定义欢迎页面。<code>yml# Previewpreview:  enable: true  model: wave # wave cloud  background:     type: image # image video    default_image:      light: /images/theme/welcome-image.jpg      dark: /images/theme/welcome-image.jpg    video:    api: # https://source.unsplash.com/random/1920x1080    size: cover # css: background-size    position: center # css: background-position  motto:    default: 我在开了灯的床头下，想问问自己的心啊。    api: https://v1.hitokoto.cn/?encode=text&amp;c=j    color: &#39;#ffffff&#39;</code>* <code>enable</code>: 用来 <em>开启</em> &#x2F; <em>关闭</em> 欢迎页面。#### 效果模式* <code>model</code>: 设置效果模式，有 <em><strong>波浪（wave）</strong> 和 <strong>云层（cloud）</strong> 两种模式可选择。#### 欢迎图片配置项 <code>background</code> 用来设置欢迎图片，其中：</em> <code>type</code>: 图片或视频。* <code>default_image</code>: 配置静态图片，填写静态图片 <code>URL</code> 即可。开启 <a href="#%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F">深色模式</a> 后支持配置 深色&#x2F;浅色 两种模式下的背景图片。* <code>video</code>: 配置动态视频，填写视频 <code>URL</code> 即可。* <code>api</code>: 配置随机图片，可使用第三方 <code>API</code>，优先级 <em>随机图片（api）</em> &gt; <em>静态图片（default）</em>。推荐 <code>API</code>：<a href="https://source.unsplash.com/random/1920x1080">Unsplash</a>、<a href="https://api.vvhan.com/api/bing?type=sj">必应图片</a>。* <code>size</code> 和 <code>position</code>: 设置图片的 <strong>尺寸</strong> 和 <strong>位置</strong>，参考 <code>CSS</code> 中的属性即可。#### 格言配置项 <code>motto</code> 用来设置格言，其中：* <code>default</code>: 配置静态格言，填写格言文本即可。* <code>api</code>: 配置随机格言，可使用第三方 <code>API</code>，优先级 <em>随机格言（api）</em> &gt; <em>静态格言（default）</em>。推荐 <code>API</code>：<a href="https://hitokoto.cn/">一言</a>、<a href="https://www.jinrishici.com/">今日诗词</a>。* <code>color</code> 配置文字颜色。### 全局搜索前置条件：需要开启<a href="#%E5%A4%B4%E9%83%A8%E5%AF%BC%E8%88%AA">头部导航</a>，否则会找不到入口滴。目前仅支持静态搜索能力（渲染时生成搜索索引文件），需要安装 <a href="https://github.com/theme-next/hexo-generator-searchdb">hexo-generator-searchdb</a> 插件提供支持。安装 <code>hexo-generator-searchdb</code> 插件：<code>bash$ npm install hexo-generator-searchdb --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlsearch:  path: /search.xml  # 索引生成路径（需要设置绝对路径，否则二级页面读不到）  field: post  # post page all  format: html  # 只支持 html 类型  content: true  # 是否包含正文内容</code>### 版权信息配置项 <code>copyright</code> 用来设置页面底部显示的网站版权信息，填写 <strong>文本内容</strong> 或 <strong>HTML</strong> 即可。<code>yml# Copyrightcopyright: &lt;p&gt;Powered by &lt;a target=&quot;_blank&quot; href=&quot;https://hexo.io&quot;&gt;Hexo&lt;/a&gt;  |  Theme - &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/izhaoo/hexo-theme-zhaoo&quot;&gt;zhaoo&lt;/a&gt;&lt;/p&gt;</code>### 社交链接配置项 <code>social</code> 用来配置社交链接，在页面底部以 <code>Icon</code> 图标的形式展示，点击即可链接第三方平台。<code>yml# Socialsocial:  qq: tencent://message/?Menu=yes&amp;uin=894519210 || iconQQ || &#39;#12B7F5&#39;  wechat: javascript:; || iconwechat-fill || &#39;#09BB07&#39;  instagram: https://www.instagram.com/izhaoo/ || iconinstagram || &#39;#DA2E76&#39;  github: https://github.com/izhaoo || icongithub-fill || &#39;#24292E&#39;  email: mailto:izhaoo@163.com || iconmail</code>配置内容分为三部分，以 <code>||</code> 划分。第一部分是 <em>社交链接</em> ，第二部分是 <em>图标样式（IconFont）</em> ，第三部分是 <em>选中颜色（hover）</em>。### 右下角按钮 (Fab)配置项 <code>fab</code> 用于配置右下角的按钮。<code>yml# Fab (Float Action Button)fab:  enable: true  always_show: false</code>* <code>enable</code>: 设置 <em>开启</em> &#x2F; <em>关闭</em> 按钮。* <code>always_show</code>: 设置 <em>一直显示</em> &#x2F; <em>过渡隐藏</em> 按钮。### 二维码配置项 <code>qrcode</code> 用来设置 <strong>二维码</strong>，开启后点击 <strong>导航栏</strong> 左侧的图标即可显示。<code>yml# QR Codeqrcode:  enable: true  type: image # url image  image: https://pic.izhaoo.com/weapp-code.jpg</code>* <code>enable</code>: 设置 <em>开启</em> &#x2F; <em>关闭</em> 二维码功能。* <code>type</code>: 设置二维码模式，有两种模式可选。<code>url</code> 显示当前文章链接生成的二维码；<code>image</code> 显示固定的二维码图片（如小程序码等）。* <code>image</code>: 选择 <code>image</code> 模式时需要指定图片链接。### 深色模式配置项 <code>color_mode</code> 用来配置 <strong>深色模式</strong>。开启后主题会根据设备系统自动切换颜色模式，用户也可以点击 <strong>导航栏</strong> 左侧的图标手动切换颜色模式，系统会暂存用户选择状态。<code>yml# Color Modecolor_mode:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 深色模式。<em>深色模式</em> &#x2F; <em>浅色模式</em> 的颜色可以参考 <a href="#%E4%B8%BB%E9%A2%98%E9%A2%9C%E8%89%B2">主题颜色</a> 设置。### 哀悼模式在举国默哀的日子，我们可以将博客灰化，通过配置项 <code>gray</code> 设置。<code>yml# Gray (Mourning Mode)gray:  enable: true  #开启哀悼模式</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 哀悼模式。<img  src="https://pic.izhaoo.com/20201016102727.jpg"  ><span class="image-caption">哀悼</span>## 文章配置### 文章封面#### 单独封面可以为每篇文章设置单独的文章封面图片，在文章 <code>Front-matter</code> 中添加 <code>image</code> 字段设置图片。若使用图床，直接添加图片文件的 <strong>完整URL</strong> 即可：<code>markdown---title: zhaoo - 主题文档image: https://pic.izhaoo.com/20200421200902.jpg  #设置图床图片---</code>若将图片储存在本地，现将图片文件复制到主题 <code>~/zhaoo/source/images</code> 下，再添加 <strong>相对URL</strong> 即可：<code>markdown---title: zhaoo - 主题使用文档image: /images/20200421200902.jpg  #设置本地图片---</code>#### 默认封面配置项 <code>post_image</code> 设置配置文章默认封面，就不用为每篇文章单独设置封面了：<code>yml# Post Imagepost_image:  random: galleries # local galleries  default: /images/theme/post-image.jpg</code>* <code>random</code>: 设置随机封面，有 <strong>galleries（相册图库）</strong> 和 <strong>local（本地图库）</strong>  两种模式。开启 <a href="#%E7%9B%B8%E5%86%8C">相册</a> 功能后会自动调取相册中的图片；本地图库需要新建 <code>/_data/local_images.json</code> 文件，填写图片 <code>URL</code> 列表即可。* <code>default</code>: 未设置随机封面时启用 <strong>默认封面</strong>，填写图片 <code>URL</code> 即可。<code>json// local_images.json[  &quot;https://pic.izhaoo.com/2014031601.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071602.jpg&quot;,  &quot;https://pic.izhaoo.com/2017071603.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072104.jpg&quot;,  &quot;https://pic.izhaoo.com/2017072705.jpg&quot;,  &quot;https://pic.izhaoo.com/20200421201200.jpg&quot;,  &quot;https://pic.izhaoo.com/20200305030152.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065241.jpg&quot;,  &quot;https://pic.izhaoo.com/20200228081718.jpg&quot;,  &quot;https://pic.izhaoo.com/20191211065844.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151924.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152003.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152045.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718152122.jpg&quot;,  &quot;https://pic.izhaoo.com/20200718151427.jpg&quot;]</code>### 关键词在文章 <code>Front-matter</code> 中添加 <code>keywords</code> 字段设置关键词：<code>markdowntitle: zhaoo - 主题使用文档keywords: hexo-theme-zhaoo, hexo, 主题, 使用文档, document</code>配置项 <code>keywords</code> 为网站设置全局关键词，每个页面都会渲染，文章中无需重复添加：<code>ymlkeywords: hexo-theme-zhaoo, hexo</code>### 文章尺寸配置项 <code>post_page_size</code> 用于设置文章内容主体部分的相关尺寸。<code>yml# Page Sizepost_page_size:  width: 800px</code>* <code>width</code>: 设置内容宽度。tips: 受外部元素的限制，<em>实际尺寸</em> 由计算后得出，不能保证与 <em>设定尺寸</em> 完全相等，只能保证接近该尺寸。### 图片标注配置项 <code>caption</code> 用于设置 <strong>图片标注</strong>，开启后会在文章图片下方生成标注。<code>yml# Captioncaption:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 图片标注。### 文章目录配置项 <code>toc</code> 用于设置 <strong>文章目录</strong>，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处。<code>yml# TOCtoc:  enable: true  min_depth: 1  max_depth: 3</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章目录。* <code>min_depth</code>:* <code>max_depth</code>:全局开启 <strong>文章目录</strong> 后，可以在文章 <code>Front-matter</code> 中添加 <code>toc</code> 字段单独控制该文章是否展示文章目录。<code>markdown---title: zhaoo - 主题文档toc: false # 关闭文章目录---</code>### 打赏二维码配置项 <code>donate</code> 用于设置 <strong>打赏二维码</strong>，开启后可在文章下方展示二维码，扫一扫请博主喝杯咖啡吧<del><code>yml# Donatedonate:  enable: true  alipay: https://pic.izhaoo.com/alipay.jpg  wechat: https://pic.izhaoo.com/wechat.jpg</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 打赏二维码。* <code>alipay</code>: 支付宝收款二维码，填写图片 <code>URL</code>。* <code>wechat</code>: 微信收款二维码，填写图片 <code>URL</code>。### 文章版权配置项 <code>post_copyright</code> 用于设置 <strong>文章版权</strong>，开启后可在文章下方展示版权信息。<code>yml# Copyrightpost_copyright:  enable: true</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章版权信息。全局开启 <strong>文章版权</strong> 后，可以在文章 <code>Front-matter</code> 中添加 <code>copyright</code> 字段单独控制该文章是否展示文章版权。<code>markdown---title: zhaoo - 主题文档copyright: false # 关闭文章版权---</code>### 文章搬运配置项 <code>carrier</code> 用于开启 <strong>文章搬运</strong> 功能，方便博主们全文“借鉴”文章，效果如下：<img  src="https://pic.izhaoo.com/20200727125519.jpg"  ><span class="image-caption">文章搬运</span><img  src="https://pic.izhaoo.com/20200727125724.jpg"  ><span class="image-caption">弹窗提示</span>前置条件：全局开启 <a href="#%E6%96%87%E7%AB%A0%E7%89%88%E6%9D%83">文章版权</a><code>yml# Carriercarrier:  enable: true  type: markdown # markdown html text</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 文章搬运。* <code>type</code>: 搬运模式，可选择一键复制 <code>markdown</code>、<code>html</code>、<code>text</code> 格式的文章。&gt; <a href="http://localhost:4000/2020/07/25/hexo-article-carrier/">Hexo - 开发文章搬运功能</a>### 文章置顶找到 <code>/node_modules/hexo-generator-index/lib/generator.js</code> 文件，替换成如下代码：<code>javascript&#39;use strict&#39;;var pagination = require(&#39;hexo-pagination&#39;);module.exports = function (locals) &#123;  var config = this.config;  var posts = locals.posts;  posts.data = posts.data.sort(function (a, b) &#123;    if (a.top &amp;&amp; b.top) &#123;      if (a.top == b.top) return b.date - a.date;      else return b.top - a.top;    &#125; else if (a.top &amp;&amp; !b.top) &#123;      return -1;    &#125; else if (!a.top &amp;&amp; b.top) &#123;      return 1;    &#125; else return b.date - a.date;  &#125;);  var paginationDir = config.pagination_dir || &#39;page&#39;;  return pagination(&#39;&#39;, posts, &#123;    perPage: config.index_generator.per_page,    layout: [&#39;index&#39;, &#39;archive&#39;],    format: paginationDir + &#39;/%d/&#39;,    data: &#123;      __index: true    &#125;  &#125;);&#125;;</code>在文章的 <code>Front-matter</code> 中添加 <code>top</code> 字段，指定数值。数值越大，显示越靠前。<code>markdown---title: zhaoo - 主题使用文档top: 10  #添加该字段---</code>### 数学公式#### MathJax&gt; <a href="https://github.com/ikeq/hexo-filter-mathjax-ssr">hexo-filter-mathjax-ssr</a>以 <code>svg</code> 的形式渲染数学公式，兼容性较好，推荐使用。安装 <code>MathJax</code> 插件依赖：<code>bash$ npm install hexo-filter-mathjax-ssr --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlmathjax:  inlineQuote: [&#39;\(&#39;, &#39;\)&#39;]  blockQuote: [&#39;\[&#39;, &#39;\]&#39;]</code>#### KaTex&gt; <a href="https://github.com/thcd/hexo-katex">hexo-katex</a>以 <code>HTML</code> 标签的形式渲染数学公式，渲染速度较快，语法较简单，但是兼容性不是很好。安装渲染引擎 <code>hexo-renderer-pandoc</code>：<code>bash$ npm install hexo-renderer-pandoc --save</code>安装 <code>KaTex</code> 插件依赖：<code>bash$ npm install hexo-katex --save</code>开启插件，在 <strong>博客配置</strong> 下新增：<code>ymlpandoc:  mathEngine: katex</code>## 页面配置### 相册页面&gt; 【瀑布流风格相册】由 <a href="https://github.com/HelloAny">AmiKara</a> 友情贡献</del>执行以下命令创建相册页面，会在 <code>source</code> 目录生成 <code>galleries/index.md</code> 文件：<code>bash$ hexo new page galleries  #创建相册页面</code>打开 <code>source/galleries/index.md</code> 文件，设置 <code>Front-matter</code> ，开启相册页面：<code>markdown---title: 相册layout: &quot;galleries&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置相册页面的导航：<code>ymlmenu:  galleries: /galleries || 相册</code>配置项 <code>galleries</code> 用于开启相册功能：<code>ymlgalleries:  enable: true  title: 相册  subtitle: Galleries  type: waterfull # waterful | grid  columns: 3</code>* <code>enable</code>:  <em>开启</em> &#x2F; <em>关闭</em> 相册功能。* <code>title</code>: 相册分类页面标题。* <code>subtitle</code> 相册分类页面副标题。* <code>type</code>: 相册显示风格，有 <em>瀑布流</em> 和 <em>正方形</em> 两种形式。* <code>columns</code>: 相册列数。在 <code>/_data</code> 目录下新建 <code>galleries.json</code> 文件，创建相册分类目录及图片内容：<code>json[&#123;  &quot;name&quot;: &quot;colorful&quot;,  //相册名称  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  //相册封面  &quot;description&quot;: &quot;君未看花时，花与君同寂；君来看花日，花色一时明。&quot;,  //相册介绍  &quot;photos&quot;: [  //图片内容    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]&#125;, &#123;  &quot;name&quot;: &quot;记事&quot;,  &quot;cover&quot;: &quot;/images/theme/post-image.jpg&quot;,  &quot;description&quot;: &quot;翻开随身携带的记事本，写着许多事都是关于你。&quot;,  &quot;photos&quot;: [    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;,    &quot;/images/theme/post-image.jpg&quot;  ]&#125;]</code>在 <code>/source/galleries/</code> 目录下 <code>新建文件夹</code> ，命名需要和 <code>json</code> 中的 <code>name</code> 字段对应，例如：<em>colorful</em>、<em>记事</em>。 在文件夹下新建 <code>index.md</code> 文件，内容如下：<code>markdown---title: 记事  #名称也需要对应layout: &quot;gallery&quot;---</code>步骤可能有点难以理解，最后放几张截图，比较直观：<img  src="https://pic.izhaoo.com/20200722185650.jpg"  ><span class="image-caption">gallery-1</span><img  src="https://pic.izhaoo.com/20200722185721.jpg"  ><span class="image-caption">gallery-2</span><img  src="https://pic.izhaoo.com/20200722185814.jpg"  ><span class="image-caption">gallery-3</span><img  src="https://pic.izhaoo.com/20200722185829.jpg"  ><span class="image-caption">gallery-4</span>也可以参考 <code>/_example/source</code> 中的相关栗子。### 归档页面参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置归档页面的导航，系统会按文章创建时间自动归档。<code>ymlmenu:  archives: /archives || 归档</code>### 标签页面执行以下命令创建标签页面，会在 <code>source</code> 目录生成 <code>tags/index.md</code> 文件：<code>bash$ hexo new page tags  #创建标签页面</code>打开 <code>source/tags/index.md</code> 文件，设置 <code>Front-matter</code> ，开启标签页面：<code>markdown---title: 标签type: &quot;tags&quot;layout: &quot;tags&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置标签页面的导航：<code>ymlmenu:  tags: /tags || 标签</code>创建文章时，在文章的 <code>Front-matter</code> 中使用 <code>tags</code> 字段添加标签即可：<code>markdown---title: zhaoo - 主题使用文档tags: [Hexo, 主题]  #设置标签---</code>### 分类页面同标签页面，更改一些关键词即可。执行以下命令创建分类页面，会在 <code>source</code> 目录生成 <code>categories/index.md</code> 文件：<code>bash$ hexo new page categories  #创建分类页面</code>打开 <code>source/categories/index.md</code> 文件，设置 <code>Front-matter</code> ，开启分类页面：<code>markdown---title: 标签type: &quot;categories&quot;layout: &quot;categories&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置分类页面的导航：<code>ymlmenu:  categories: /categories || 分类</code>创建文章时，在文章的 <code>Front-matter</code> 中使用 <code>categories</code> 字段添加标签即可：<code>markdown---title: zhaoo - 主题使用文档categories:  #设置分类- 项目- 博客---</code>### 关于页面执行以下命令创建关于页面，会在 <code>source</code> 目录生成 <code>about/index.md</code> 文件：<code>bash$ hexo new page about  #创建关于页面</code>打开 <code>source/about/index.md</code> 文件，设置 <code>Front-matter</code> ，开启关于页面：<code>markdown---title: 标签type: &quot;about&quot;layout: &quot;about&quot;---</code>参考 <a href="#%E5%AF%BC%E8%88%AA%E8%8F%9C%E5%8D%95">导航菜单</a> 设置关于页面的导航：<code>ymlmenu:  about: /about || 关于</code>在 <code>source/about/index.md</code> 中编写关于内容，如同写文章一样。tips: 建议在 <strong>关于页面</strong> 关闭 <em>文章目录</em> 和 <em>文章版权</em> 功能，在 <code>Front-matter</code> 中添加 <code>toc</code> 和 <code>copyright</code> 字段都设置为 <code>false</code> 即可。## 插件配置### 评论系统配置项 <code>comments</code> 用于配置评论系统，目前支持 <strong>Gitalk</strong>、<strong>Valine</strong>、<strong>畅言</strong> 三种评论系统。<code>yml# Commentcomments:  enable: true  type: valine  button: true</code>* <code>enable</code>:  <em>开启</em> &#x2F; <em>关闭</em> 评论功能。* <code>type</code>: 开启哪种评论系统，需要配置对应的评论系统。（参考下文）* <code>button</code>: <em>显示</em> &#x2F; <em>隐藏</em> 评论按钮，隐藏按钮后将直接展示评论。#### Gitalk<strong>Gitalk</strong> 基于 <code>GitHub</code> 存储评论内容，优点是支持 <code>GitHub</code> 直接登录；缺点是需要 <strong>科学上网</strong> 才能访问，水土不服。<img  src="https://pic.izhaoo.com/2020111982651.jpg"  ><span class="image-caption">Gitalk演示</span>首先需要在 <a href="https://github.com/new">GitHub</a> 创建一个仓库，如有 <code>GitHub Pages</code> 也可以共用一个仓库。<img  src="https://pic.izhaoo.com/202011193006.jpg"  ><span class="image-caption">创建仓库</span>接着创建一个 <a href="https://github.com/settings/applications/new">Github Application</a>，填写相应的参数。创建完成后会生成 <code>clientID</code> 和 <code>clientSecret</code>，记录一下。<img  src="https://pic.izhaoo.com/20201119203435.png"  ><span class="image-caption">创建应用</span>配置项 <code>gitalk</code> 用于配置 <code>Gitalk。````yml# Gitalkgitalk:  owner:  repo:  admin:  clientID:  clientSecret:```* </code>owner<code>: </code>GitHub<code>的用户名。*</code>repo<code>: 创建的仓库名称。* </code>admin<code>: </code>GitHub<code>的用户名。*</code>clientID<code>: 应用创建后生成。* </code>clientSecret<code>: 应用创建后生成。#### Valine</code>Valine<code>是基于 [LeanCloud](https://leancloud.cn/) 实现的评论系统，小清新风格。![Valine演示](https://pic.izhaoo.com/2020111980022.jpg)首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Comment**，访问权限为 **所有用户**，写入权限为 **限制写入**。在【设置】-&gt;【应用Keys】中复制</code>appId<code>和</code>appKey<code>。配置项 </code>valine<code>用于设置</code>Valine<code>评论系统。```yml# Valinevaline:  appId:  appKey:  placeholder: 雁过留痕  avatar: mp  pageSize: 10  lang: zh-CN```*</code>enable<code>: *开启* / *关闭* </code>Valine<code>。* </code>appId<code>: 填入刚才得到的 </code>appId<code>。* </code>appKey<code>: 填入刚才得到的 </code>appKey<code>。* </code>placeholder<code>: 未输入评论时的占位文字。* </code>mp<code>: 默认头像，参考 [Valine头像设置](https://valine.js.org/avatar.html)。* </code>pageSize<code>: 每页评论数量。* </code>lang<code>: 系统语言。&gt; [Valine](https://valine.js.org/)#### 畅言**畅言** 是搜狐家的评论系统，优点是支持 </code>QQ<code>、</code>手机<code>、</code>邮箱<code>等多种登录方式，接地气；个人感觉</code>UI<code>不是我的菜。 ![畅言演示](https://pic.izhaoo.com/2020111984224.jpg)在 [畅言](http://changyan.kuaizhan.com/) 注册账号，进入后台创建一个站点，在【后台总览】记录一下</code>APP ID<code>和</code>APP KEY<code>。配置项 </code>changyan<code>用于设置</code>畅言评论<code>。```yml# ChangYanchangyan:  appId:  conf:```* </code>appId<code>: 生成的 </code>APP ID<code>。* </code>conf<code>: 生成的 </code>APP KEY<code>。畅言的相关配置在【管理后台】设置，可参考官方文档进行配置。### 客户沟通 (DaoVoice)[DaoVoice](http://www.daovoice.io/) 是一款客户沟通插件，支持即时通讯、留言等形式反馈消息。![DaoVoice演示](https://pic.izhaoo.com/20200808141245.jpg)因为官方的 </code>Fab<code>按钮 和 主题</code>Fab<code>按钮会重叠，所以作者同学把他集成到主题</code>Fab<code>中了。![官网Fab](https://pic.izhaoo.com/20200808141349.jpg)![主题Fab](https://pic.izhaoo.com/20200808141304.jpg)首先在 [DaoVoice](http://dashboard.daovoice.io/) 官网上注册一个账号。在【安装应用】页面，复制</code>app_id<code>。![appid](https://pic.izhaoo.com/20200808135815.jpg)配置项 </code>daovoice<code>配置应用。```yml# Daovoicedaovoice:  enable: true  appId: abcdefg  #你的 app_id  ```*</code>enable<code>: *开启* / *关闭* DaoVoice。* </code>appId<code>: 填写之前复制的 </code>app_id<code>。点击 </code>Fab<code>中的 **消息图标** 即可打开。### 意见反馈平台 (腾讯兔小巢)[腾讯兔小巢](https://txc.qq.com/) 是一款用户意见反馈平台。首先在 [腾讯兔小巢](https://txc.qq.com/) 官网上注册一个产品，在 [产品设置](https://txc.qq.com/dashboard/products/) 中复制</code>ID<code>。配置项 </code>tencentChao<code>用于配置兔小巢。```yml# Tencent ChaotencentChao:  enable: false  appId: # app_id```*</code>enable<code>:  *开启* / *关闭* 兔小巢。* </code>appId<code>: 填写之前复制的 </code>ID<code>。### 页面统计 (LeanCloud)**LeanCloud** 是一款 </code>ServerLess<code>服务，主题中被用来统计每个页面的访问量，并在页面中展示。首先在 [LeanCloud](https://leancloud.cn/) 注册一个账号，并创建一个应用（开发版）。进入应用管理界面，点击【存储】-&gt;【创建Class】，名称为 **Counter**，访问权限为 **所有用户**，写入权限为 **限制写入**，如下：![创建LeanCloud](https://pic.izhaoo.com/202011194911.jpg)在【设置】-&gt;【应用Keys】中复制</code>appId<code>和</code>appKey<code>。配置项 </code>leancloud<code>用于设置</code>LeanCloud<code>。```yml# LeanCloudleancloud:  enable: true  appId:  appKey:  serverURLs: https://leancloud.cn/```* </code>enable<code>: *开启* / *关闭* </code>LeanCloud<code>。* </code>appId<code>: 填入刚才得到的 </code>appId<code>。* </code>appKey<code>: 填入刚才得到的 </code>appKey<code>。* </code>serverURLs<code>: 服务路径不用改，保持 </code><a href="https://leancloud.cn/%60">https://leancloud.cn/`</a> 就可以了。### 图片懒加载 (LazyLoad)配置项 <code>lazyload</code> 用于配置图片懒加载。<code>yml# Lazyloadlazyload:  enable: true  only_post: false  loading: /images/theme/loading.gif</code>* <code>enable</code>: <em>开启</em> &#x2F; <em>关闭</em> 图片懒加载。* <code>onlyPost</code>: 只对对文章中的图片开启懒加载功能。* <code>loading</code>: 加载动画，默认是开启 <code>placeholder（占位图）</code> 的，可以在网上下载喜欢的动图，填写 <code>图片URL</code> 即可。### 图片灯箱 (FancyBox)配置项 <code>FancyBox</code> 用于设置图片灯箱效果，开启后点击文章中的图片会以幻灯片的形式播放。<code>ymlfancybox: true</code>### 无刷新加载 (PJAX)配置项 <code>pjax</code> 用于设置无刷新加载，开启后让你的博客嗖嗖嗖~&#96;&#96;&#96;ymlpjax: true<code>tips: 该功能暂时不稳定，会引起一些特效、功能的异常，暂时不建议开启。### 代码高亮 (HighLight)在 **博客配置** 中开启代码高亮效果：</code>ymlhighlight:  enable: true  #启用代码高亮效果  line_number: true  auto_detect: true  hljs: true  tab_replace:<code>配置项 `highlight` 用于设置代码高亮效果。</code>yml# HighLighthighlight:  enable: true  style: # <a href="https://highlightjs.org/static/demo/">https://highlightjs.org/static/demo/</a>    light: Xcode    dark: Solarized Dark<code>* `enable`: *开启* / *关闭* 代码高亮。* `style -&gt; light`: *浅色模式* 时的高亮样式。* `style -&gt; dark`: *深色模式* 时的高亮样式。可以到 [官网](https://highlightjs.org/static/demo/) 预览高亮效果，填写样式名称即可。### SEO配置项 `seo` 用于设置 SEO（网站关键词优化）功能。</code>yml# SEOseo:  baidu_auto_push: true<code>* `baidu_auto_push`: 开启 [百度站长平台](https://ziyuan.baidu.com/linksubmit/index) 链接自动推送功能。### 网页统计配置项 `analytics` 用于设置网站统计。</code>yml# Analyticsanalytics:  baidu: # id  google: # id  tencent: # id  cnzz: # id<code>* `baidu`: [百度统计](https://tongji.baidu.com/web/welcome/login)* `google`: [谷歌统计](https://analytics.google.com/analytics/web)* `tencent`: [腾讯分析](https://ta.qq.com/#/)* `cnzz`: [友盟统计](https://www.umeng.com/web)在对应的数据统计官网注册网站应用，复制对应的 `id` 填写即可。## 脚本配置### CDN对于外部静态文件（CSS 或 JS），可以使用第三方 `CDN` 库进行优化加速。配置项 `vendors` 用于设置静态库引入位置，直接输入 `URL` 即可。您可以保持默认配置（BootCDN）,留空则从本地引入。</code>ymlvendors:  jquery_js: <a href="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js">https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js</a>  fancybox_js: <a href="https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js">https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js</a>  pjax_js: <a href="https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js">https://cdn.bootcss.com/jquery.pjax/2.0.1/jquery.pjax.min.js</a>  lazyload_js: <a href="https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js">https://cdn.bootcdn.net/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js</a>  fancybox_css: <a href="https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css">https://cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css</a>  highlight_css: <a href="https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css">https://cdn.bootcss.com/highlight.js/9.18.1/styles/xcode.min.css</a>  iconfont_css: &#x2F;&#x2F;at.alicdn.com&#x2F;t&#x2F;font_1445822_58xq2j9v1id.css<code>### 脚本埋点有时候我们需要埋入一些第三方脚本，例如 `百度统计`、`百度SEO` 等，主题在 **头部** 和 **尾部** 分别开放了埋点入口，通过配置项 `custom` 进行配置。</code>yml# Customcustom:  head:  foot:  css:  js:&#96;&#96;&#96;* <code>head</code>: 引入头部的代码。* <code>foot</code>: 引入尾部的代码。* <code>css</code>: 外部引入的 <code>CSS</code> 链接。* <code>js</code>: 外部引入的 <code>JS</code> 链接。</h3>]]></content>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>主题</tag>
       </tags>
   </entry>
 </search>
