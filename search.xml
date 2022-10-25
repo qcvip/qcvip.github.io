@@ -864,8 +864,8 @@
       </categories>
       <tags>
         <tag>转载</tag>
-        <tag>文章</tag>
         <tag>阅读</tag>
+        <tag>文章</tag>
       </tags>
   </entry>
   <entry>
@@ -1354,21 +1354,142 @@
       </categories>
       <tags>
         <tag>转载</tag>
-        <tag>文章</tag>
         <tag>阅读</tag>
+        <tag>文章</tag>
       </tags>
   </entry>
   <entry>
     <title>网站推荐</title>
-    <url>/2022/10/24/%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/</url>
+    <url>/2022/10/24/%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90/</url>
     <content><![CDATA[<h2 id="网站推荐"><a href="#网站推荐" class="headerlink" title="网站推荐"></a>网站推荐</h2><span id="more"></span>
 
-<h2 id="电影网站推荐"><a href="#电影网站推荐" class="headerlink" title="电影网站推荐"></a>电影网站推荐</h2><table>
+
+<h2 id="阅读网站推荐"><a href="#阅读网站推荐" class="headerlink" title="阅读网站推荐 "></a><center>阅读网站推荐 </center></h2><table>
 <thead>
 <tr>
-<th align="center">网站名</th>
-<th align="center">网址</th>
-<th align="center">备注</th>
+<th align="center"><strong>网站名</strong></th>
+<th align="center"><strong>网址</strong></th>
+<th align="center"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Topbook</td>
+<td align="center"><a href="https://topbook.cc/overview">https://topbook.cc/overview</a></td>
+<td align="center">阅读</td>
+</tr>
+<tr>
+<td align="center">ONE一个</td>
+<td align="center"><a href="http://wufazhuce.com/">http://wufazhuce.com/</a></td>
+<td align="center">阅读</td>
+</tr>
+<tr>
+<td align="center">少数派</td>
+<td align="center"><a href="https://sspai.com/">https://sspai.com/</a></td>
+<td align="center">阅读</td>
+</tr>
+<tr>
+<td align="center">数字尾巴</td>
+<td align="center"><a href="https://www.dgtle.com/">https://www.dgtle.com/</a></td>
+<td align="center">阅读</td>
+</tr>
+</tbody></table>
+<br>
+
+
+<h2 id="学习网站推荐"><a href="#学习网站推荐" class="headerlink" title="学习网站推荐 "></a><center>学习网站推荐 </center></h2><table>
+<thead>
+<tr>
+<th align="center"><strong>网站名</strong></th>
+<th align="center"><strong>网址</strong></th>
+<th align="center"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">力扣</td>
+<td align="center"><a href="https://leetcode.cn/">https://leetcode.cn/</a></td>
+<td align="center">学习</td>
+</tr>
+<tr>
+<td align="center">Coding</td>
+<td align="center"><a href="https://r2coding.com/#/">https://r2coding.com/#/</a></td>
+<td align="center">学习</td>
+</tr>
+<tr>
+<td align="center">github</td>
+<td align="center"><a href="https://github.com/">https://github.com/</a></td>
+<td align="center">学习</td>
+</tr>
+<tr>
+<td align="center">多邻国</td>
+<td align="center"><a href="https://www.duolingo.cn/">https://www.duolingo.cn/</a></td>
+<td align="center">学习</td>
+</tr>
+</tbody></table>
+<br>
+
+
+<h2 id="工具类网站推荐"><a href="#工具类网站推荐" class="headerlink" title="工具类网站推荐 "></a><center>工具类网站推荐 </center></h2><table>
+<thead>
+<tr>
+<th align="center"><strong>网站名</strong></th>
+<th align="center"><strong>网址</strong></th>
+<th align="center"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Greasy Fork</td>
+<td align="center"><a href="https://greasyfork.org/zh-CN">https://greasyfork.org/zh-CN</a></td>
+<td align="center">油猴脚本</td>
+</tr>
+<tr>
+<td align="center">油猴中文网</td>
+<td align="center"><a href="https://bbs.tampermonkey.net.cn/">https://bbs.tampermonkey.net.cn/</a></td>
+<td align="center">油猴脚本</td>
+</tr>
+<tr>
+<td align="center">找脚本</td>
+<td align="center"><a href="https://www.zhaojiaoben.cn/">https://www.zhaojiaoben.cn/</a></td>
+<td align="center">油猴脚本</td>
+</tr>
+<tr>
+<td align="center">MuscleWiki</td>
+<td align="center"><a href="https://musclewiki.cn/">https://musclewiki.cn/</a></td>
+<td align="center">健身</td>
+</tr>
+<tr>
+<td align="center">Live</td>
+<td align="center"><a href="http://live.yj1211.work/index/home/recommend">http://live.yj1211.work/index/home/recommend</a></td>
+<td align="center">直播</td>
+</tr>
+<tr>
+<td align="center">wallhaven</td>
+<td align="center"><a href="https://wallhaven.cc/">https://wallhaven.cc/</a></td>
+<td align="center">壁纸</td>
+</tr>
+<tr>
+<td align="center">SPEEDTEST</td>
+<td align="center"><a href="https://www.speedtest.net/">https://www.speedtest.net/</a></td>
+<td align="center">测网速</td>
+</tr>
+<tr>
+<td align="center">游戏空间</td>
+<td align="center"><a href="http://gbtgame.ysepan.com/">http://gbtgame.ysepan.com/</a></td>
+<td align="center">游戏资源</td>
+</tr>
+<tr>
+<td align="center">资源避难所</td>
+<td align="center"><a href="http://flysheep.ysepan.com/">http://flysheep.ysepan.com/</a></td>
+<td align="center">游戏资源</td>
+</tr>
+</tbody></table>
+<br>
+ 
+<h2 id="影视网站推荐"><a href="#影视网站推荐" class="headerlink" title="影视网站推荐 "></a><center>影视网站推荐 </center></h2><table>
+<thead>
+<tr>
+<th align="center"><strong>网站名</strong></th>
+<th align="center"><strong>网址</strong></th>
+<th align="center"><strong>备注</strong></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -1391,40 +1512,44 @@
 <td align="center"><a href="https://yanetflix.com/">https://yanetflix.com/</a></td>
 <td align="center">影视</td>
 </tr>
+</tbody></table>
+<h2 id="外部-特殊"><a href="#外部-特殊" class="headerlink" title="外部 特殊"></a><center>外部 特殊</center></h2><table>
+<thead>
 <tr>
-<td align="center">MuscleWiki</td>
-<td align="center"><a href="https://musclewiki.cn/">https://musclewiki.cn/</a></td>
-<td align="center">健身</td>
+<th align="center"><strong>网站名</strong></th>
+<th align="center"><strong>网址</strong></th>
+<th align="center"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Gmail</td>
+<td align="center"><a href="https://mail.google.com/">https://mail.google.com/</a></td>
+<td align="center">Gmail</td>
 </tr>
 <tr>
-<td align="center">Greasy Fork</td>
-<td align="center"><a href="https://greasyfork.org/zh-CN">https://greasyfork.org/zh-CN</a></td>
-<td align="center">油猴脚本</td>
+<td align="center">YouTube</td>
+<td align="center"><a href="https://youtube.com/">https://youtube.com/</a></td>
+<td align="center">YouTube</td>
 </tr>
 <tr>
-<td align="center">找脚本</td>
-<td align="center"><a href="https://www.zhaojiaoben.cn/">https://www.zhaojiaoben.cn/</a></td>
-<td align="center">油猴脚本</td>
+<td align="center">Twitter</td>
+<td align="center"><a href="https://twitter.com/">https://twitter.com/</a></td>
+<td align="center">Twitter</td>
 </tr>
 <tr>
-<td align="center">Topbook</td>
-<td align="center"><a href="https://topbook.cc/overview">https://topbook.cc/overview</a></td>
-<td align="center">阅读</td>
+<td align="center">Instagram</td>
+<td align="center"><a href="https://www.instagram.com/">https://www.instagram.com/</a></td>
+<td align="center">Instagram</td>
 </tr>
 <tr>
-<td align="center">ONE一个</td>
-<td align="center"><a href="http://wufazhuce.com/">http://wufazhuce.com/</a></td>
-<td align="center">阅读</td>
+<td align="center">Google地图</td>
+<td align="center"><a href="https://maps.google.com/">https://maps.google.com/</a></td>
+<td align="center">Google地图</td>
 </tr>
 <tr>
-<td align="center">力扣</td>
-<td align="center"><a href="https://leetcode.cn/">https://leetcode.cn/</a></td>
-<td align="center">学习</td>
-</tr>
-<tr>
-<td align="center">Coding</td>
-<td align="center"><a href="https://r2coding.com/#/">https://r2coding.com/#/</a></td>
-<td align="center">学习</td>
+<td align="center">维基百科</td>
+<td align="center"><a href="https://zh.wikipedia.org/">https://zh.wikipedia.org/</a></td>
+<td align="center">维基百科</td>
 </tr>
 </tbody></table>
 ]]></content>
